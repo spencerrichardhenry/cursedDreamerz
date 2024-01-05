@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5769",
+  "description": "Sharks",
+  "image": "/5769.png",
+  "dna": "f32c69da327d91160da1bc764b0e5a0456952e5a",
+  "edition": 5769,
+  "date": 1689536401896,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

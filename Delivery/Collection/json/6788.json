@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6788",
+  "description": "Sharks",
+  "image": "/6788.png",
+  "dna": "adb63729ea965ad3932ad8317b84d527266b1d37",
+  "edition": 6788,
+  "date": 1689536427286,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

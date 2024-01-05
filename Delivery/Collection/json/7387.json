@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7387",
+  "description": "Sharks",
+  "image": "/7387.png",
+  "dna": "1d2732de190d996f2476ee1aeb8127e2143f90ed",
+  "edition": 7387,
+  "date": 1689536442226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

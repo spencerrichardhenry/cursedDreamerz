@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4805",
+  "description": "Sharks",
+  "image": "/4805.png",
+  "dna": "7ba9a727d570d61edc7931a045c695f66fec1ace",
+  "edition": 4805,
+  "date": 1689536377770,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

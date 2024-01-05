@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3802",
+  "description": "Sharks",
+  "image": "/3802.png",
+  "dna": "a55465195d13b40269bf287e17e6a94f6b2d8332",
+  "edition": 3802,
+  "date": 1689536352516,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

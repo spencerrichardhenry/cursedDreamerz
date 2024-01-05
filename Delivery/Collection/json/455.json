@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #455",
+  "description": "Sharks",
+  "image": "/455.png",
+  "dna": "f906ec92baf9e493c937624ec71637c6ea480a03",
+  "edition": 455,
+  "date": 1689536266195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

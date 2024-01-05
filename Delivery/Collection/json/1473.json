@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1473",
+  "description": "Sharks",
+  "image": "/1473.png",
+  "dna": "83c127f81ba7cca185da3cc2c24edb4c5ba967b1",
+  "edition": 1473,
+  "date": 1689536292892,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

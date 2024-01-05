@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6273",
+  "description": "Sharks",
+  "image": "/6273.png",
+  "dna": "04e3681c89e5663e096bf8c48e1531fab43a431b",
+  "edition": 6273,
+  "date": 1689536414466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

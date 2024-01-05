@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7639",
+  "description": "Sharks",
+  "image": "/7639.png",
+  "dna": "8b9abd8d6473d1fb669dfb647cd730124fc1334c",
+  "edition": 7639,
+  "date": 1689536448470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

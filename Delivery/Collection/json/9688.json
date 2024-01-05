@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9688",
+  "description": "Sharks",
+  "image": "/9688.png",
+  "dna": "b2c085bd4c8a14b67ac312b3e4792b62d15d1d4e",
+  "edition": 9688,
+  "date": 1689536499946,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

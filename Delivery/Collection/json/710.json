@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #710",
+  "description": "Sharks",
+  "image": "/710.png",
+  "dna": "b5f4160d38fb57d600c1de3dbb63577ac81d8c30",
+  "edition": 710,
+  "date": 1689536272648,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

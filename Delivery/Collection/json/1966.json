@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1966",
+  "description": "Sharks",
+  "image": "/1966.png",
+  "dna": "eeff70698fb814def785f301428a33a3b9ad107d",
+  "edition": 1966,
+  "date": 1689536306055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

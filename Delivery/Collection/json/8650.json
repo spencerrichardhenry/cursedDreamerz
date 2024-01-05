@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8650",
+  "description": "Sharks",
+  "image": "/8650.png",
+  "dna": "abae96f7ca1ddfa5c223ff38932461c68db62797",
+  "edition": 8650,
+  "date": 1689536473873,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

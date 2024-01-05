@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6984",
+  "description": "Sharks",
+  "image": "/6984.png",
+  "dna": "84c156da0304c58fa6b1c7055b4ee35db7e5b42c",
+  "edition": 6984,
+  "date": 1689536432146,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #280",
+  "description": "Sharks",
+  "image": "/280.png",
+  "dna": "dafb38ef31cdcab96d704b9b2ebfa7902ee2c15a",
+  "edition": 280,
+  "date": 1689536261723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

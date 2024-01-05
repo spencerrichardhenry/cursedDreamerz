@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6356",
+  "description": "Sharks",
+  "image": "/6356.png",
+  "dna": "c3d35568302321749bccf49b90dba6af282b2f77",
+  "edition": 6356,
+  "date": 1689536416513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8307",
+  "description": "Sharks",
+  "image": "/8307.png",
+  "dna": "2689ec0b47300ce40fe36fe7617a47fe6f5aebd1",
+  "edition": 8307,
+  "date": 1689536465163,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

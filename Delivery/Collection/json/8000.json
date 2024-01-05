@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8000",
+  "description": "Sharks",
+  "image": "/8000.png",
+  "dna": "52d35c6594c5fcfea5855b222067d39f6f93e92e",
+  "edition": 8000,
+  "date": 1689536457489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

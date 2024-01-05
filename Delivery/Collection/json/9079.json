@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9079",
+  "description": "Sharks",
+  "image": "/9079.png",
+  "dna": "298ee1e87fef0f6c687cd5f5a26cb611b255da08",
+  "edition": 9079,
+  "date": 1689536484726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

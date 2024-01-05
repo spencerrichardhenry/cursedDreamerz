@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6876",
+  "description": "Sharks",
+  "image": "/6876.png",
+  "dna": "f4eafdbca97c1f4b4b45d47dc0c2f07eb5ca1a47",
+  "edition": 6876,
+  "date": 1689536429468,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

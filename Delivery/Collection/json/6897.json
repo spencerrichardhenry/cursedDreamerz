@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6897",
+  "description": "Sharks",
+  "image": "/6897.png",
+  "dna": "2916da024b331b361ae659df7a2e48dd68df288d",
+  "edition": 6897,
+  "date": 1689536429993,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

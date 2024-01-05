@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1300",
+  "description": "Sharks",
+  "image": "/1300.png",
+  "dna": "a8dc0b71e0a47db9cb097439f2b1189c0d1423bb",
+  "edition": 1300,
+  "date": 1689536288267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

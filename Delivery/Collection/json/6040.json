@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6040",
+  "description": "Sharks",
+  "image": "/6040.png",
+  "dna": "5c90c6f1d3aa3f97b7b98ad3e6962e8e37db5de9",
+  "edition": 6040,
+  "date": 1689536408615,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

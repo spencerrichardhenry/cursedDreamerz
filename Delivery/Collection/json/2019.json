@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2019",
+  "description": "Sharks",
+  "image": "/2019.png",
+  "dna": "e598bce9b0be6adba8c7fbcb1ddb2d076be88997",
+  "edition": 2019,
+  "date": 1689536307403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

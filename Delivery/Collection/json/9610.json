@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9610",
+  "description": "Sharks",
+  "image": "/9610.png",
+  "dna": "1363d0f6a4ba53d87ce7c7636435246679247888",
+  "edition": 9610,
+  "date": 1689536497996,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

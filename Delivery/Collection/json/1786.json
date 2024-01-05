@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1786",
+  "description": "Sharks",
+  "image": "/1786.png",
+  "dna": "31bf7ab1786bbbb83613c5281208dc9af26e0742",
+  "edition": 1786,
+  "date": 1689536301388,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

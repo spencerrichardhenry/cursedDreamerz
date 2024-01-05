@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1",
+  "description": "Sharks",
+  "image": "/1.png",
+  "dna": "90205b90efd8d4f4c0ee8e2994d7f3c1fb08f96b",
+  "edition": 1,
+  "date": 1689536254473,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

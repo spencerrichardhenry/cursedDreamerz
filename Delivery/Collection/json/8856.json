@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8856",
+  "description": "Sharks",
+  "image": "/8856.png",
+  "dna": "227864458119f3a1d9b4879e171621b35d329516",
+  "edition": 8856,
+  "date": 1689536479125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

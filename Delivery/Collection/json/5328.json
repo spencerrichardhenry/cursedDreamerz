@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5328",
+  "description": "Sharks",
+  "image": "/5328.png",
+  "dna": "3ac56209f29fd332da499054d5005a32498cbffe",
+  "edition": 5328,
+  "date": 1689536390857,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

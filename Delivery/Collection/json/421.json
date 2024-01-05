@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #421",
+  "description": "Sharks",
+  "image": "/421.png",
+  "dna": "548094617591cf12bf61b84313ec01cdab15b8f4",
+  "edition": 421,
+  "date": 1689536265309,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

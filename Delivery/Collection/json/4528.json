@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4528",
+  "description": "Sharks",
+  "image": "/4528.png",
+  "dna": "e7f53bef4d006fa72c0ba063e17f4a6d22dbdea7",
+  "edition": 4528,
+  "date": 1689536370816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

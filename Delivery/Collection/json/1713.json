@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1713",
+  "description": "Sharks",
+  "image": "/1713.png",
+  "dna": "a79dbe7e09bb04d154adb221e70c38e6a5fad2e8",
+  "edition": 1713,
+  "date": 1689536299391,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

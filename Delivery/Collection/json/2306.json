@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2306",
+  "description": "Sharks",
+  "image": "/2306.png",
+  "dna": "abc3b397e21186d4a7382551c5cc07e48034d631",
+  "edition": 2306,
+  "date": 1689536314783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

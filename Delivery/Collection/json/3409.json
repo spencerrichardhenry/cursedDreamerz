@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3409",
+  "description": "Sharks",
+  "image": "/3409.png",
+  "dna": "4cf4522ac9ab564c0b6e54005aabca9e33272e5e",
+  "edition": 3409,
+  "date": 1689536342677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

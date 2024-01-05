@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3570",
+  "description": "Sharks",
+  "image": "/3570.png",
+  "dna": "50056940e7947d02ac40ea010570b5450d9d7c35",
+  "edition": 3570,
+  "date": 1689536346737,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

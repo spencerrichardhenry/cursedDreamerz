@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #380",
+  "description": "Sharks",
+  "image": "/380.png",
+  "dna": "527624af818615160c1e94e2329a8cf9d06c4bce",
+  "edition": 380,
+  "date": 1689536264298,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

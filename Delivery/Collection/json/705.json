@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #705",
+  "description": "Sharks",
+  "image": "/705.png",
+  "dna": "a079b3c063ae0750b567c50b20409aed6d7a5392",
+  "edition": 705,
+  "date": 1689536272526,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9006",
+  "description": "Sharks",
+  "image": "/9006.png",
+  "dna": "147e981e41130fb21959341dd33a6ee28411861c",
+  "edition": 9006,
+  "date": 1689536482893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4123",
+  "description": "Sharks",
+  "image": "/4123.png",
+  "dna": "9c13734c79cb87e07761e358a4d819f5ec433783",
+  "edition": 4123,
+  "date": 1689536360465,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

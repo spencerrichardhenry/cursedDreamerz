@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1393",
+  "description": "Sharks",
+  "image": "/1393.png",
+  "dna": "c8d8e0d5c329bab73fe704675cac7544cbc9124b",
+  "edition": 1393,
+  "date": 1689536290783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2271",
+  "description": "Sharks",
+  "image": "/2271.png",
+  "dna": "a6bc388b70b3bb66752cd1946d274aab0ebae31f",
+  "edition": 2271,
+  "date": 1689536313908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

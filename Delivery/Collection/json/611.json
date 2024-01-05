@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #611",
+  "description": "Sharks",
+  "image": "/611.png",
+  "dna": "c0f0d338c79c7c05d79ae1539bdb8dbc49b5fdfd",
+  "edition": 611,
+  "date": 1689536270099,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

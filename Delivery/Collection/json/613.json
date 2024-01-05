@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #613",
+  "description": "Sharks",
+  "image": "/613.png",
+  "dna": "76edabc7ab9c3005077d1698b07b79168ce994df",
+  "edition": 613,
+  "date": 1689536270145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

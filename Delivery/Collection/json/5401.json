@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5401",
+  "description": "Sharks",
+  "image": "/5401.png",
+  "dna": "7124b7d8ec4c98c31272aedc2342cc1a8c8ce683",
+  "edition": 5401,
+  "date": 1689536392707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

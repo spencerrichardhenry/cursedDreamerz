@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #870",
+  "description": "Sharks",
+  "image": "/870.png",
+  "dna": "a05f0c9eb86fae5edbf971c8121574dec9ce5531",
+  "edition": 870,
+  "date": 1689536276984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2417",
+  "description": "Sharks",
+  "image": "/2417.png",
+  "dna": "7d80a46874af7837b9edcfb8718beeb8826df9f5",
+  "edition": 2417,
+  "date": 1689536317594,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

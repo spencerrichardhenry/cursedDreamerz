@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4570",
+  "description": "Sharks",
+  "image": "/4570.png",
+  "dna": "704abbb8ccf69638318314309b29783a54f3285a",
+  "edition": 4570,
+  "date": 1689536371970,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

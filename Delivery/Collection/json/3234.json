@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3234",
+  "description": "Sharks",
+  "image": "/3234.png",
+  "dna": "a7a4fb31ac4df0a2bad4a9ac6bf9fecc6e4083ba",
+  "edition": 3234,
+  "date": 1689536338356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

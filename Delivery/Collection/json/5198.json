@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5198",
+  "description": "Sharks",
+  "image": "/5198.png",
+  "dna": "d7d44fbb67dc24ef019bbc96cf4f62d99eb51668",
+  "edition": 5198,
+  "date": 1689536387609,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

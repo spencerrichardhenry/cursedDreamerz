@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2002",
+  "description": "Sharks",
+  "image": "/2002.png",
+  "dna": "ed321d2b2dc5b4ea9fdb89fca1e1dff0189aa146",
+  "edition": 2002,
+  "date": 1689536306976,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1400",
+  "description": "Sharks",
+  "image": "/1400.png",
+  "dna": "960832020843d65d100459c886292ef0e1a8fef0",
+  "edition": 1400,
+  "date": 1689536290965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

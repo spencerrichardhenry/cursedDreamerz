@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #399",
+  "description": "Sharks",
+  "image": "/399.png",
+  "dna": "9437ce26dd294fec2a6a804e705429083342f34c",
+  "edition": 399,
+  "date": 1689536264767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

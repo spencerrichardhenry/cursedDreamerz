@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1273",
+  "description": "Sharks",
+  "image": "/1273.png",
+  "dna": "9f92fe094251722b137a8fe35db0dc3f6aa70332",
+  "edition": 1273,
+  "date": 1689536287588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

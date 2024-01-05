@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #823",
+  "description": "Sharks",
+  "image": "/823.png",
+  "dna": "ddf2a1f79bf20dc2e39fedba57f6e8f32b0c9088",
+  "edition": 823,
+  "date": 1689536275741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

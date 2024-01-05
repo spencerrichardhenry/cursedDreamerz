@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6851",
+  "description": "Sharks",
+  "image": "/6851.png",
+  "dna": "e860cfb626faeb963a2704d7f73b8a14ecb2d61c",
+  "edition": 6851,
+  "date": 1689536428860,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

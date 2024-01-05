@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1678",
+  "description": "Sharks",
+  "image": "/1678.png",
+  "dna": "438eae6cb91087b09c6e41c94eb046679ced60f8",
+  "edition": 1678,
+  "date": 1689536298367,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

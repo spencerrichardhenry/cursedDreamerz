@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1927",
+  "description": "Sharks",
+  "image": "/1927.png",
+  "dna": "a45d5f1f828bd6aabe0956b9ed5cd48d12aac5d2",
+  "edition": 1927,
+  "date": 1689536305036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

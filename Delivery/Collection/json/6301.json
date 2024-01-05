@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6301",
+  "description": "Sharks",
+  "image": "/6301.png",
+  "dna": "f8f4a35be089a07a6965c24b65cd77c82bc8e47f",
+  "edition": 6301,
+  "date": 1689536415171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

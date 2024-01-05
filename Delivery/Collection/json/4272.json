@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4272",
+  "description": "Sharks",
+  "image": "/4272.png",
+  "dna": "fab3746cd6427312766f41c9bea42c6a785da125",
+  "edition": 4272,
+  "date": 1689536364206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

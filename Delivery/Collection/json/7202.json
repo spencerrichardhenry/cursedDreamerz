@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7202",
+  "description": "Sharks",
+  "image": "/7202.png",
+  "dna": "e2ee4a69756ff5e7f5e8939dd5e3030b868d5941",
+  "edition": 7202,
+  "date": 1689536437575,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

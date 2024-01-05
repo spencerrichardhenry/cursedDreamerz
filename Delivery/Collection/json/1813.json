@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1813",
+  "description": "Sharks",
+  "image": "/1813.png",
+  "dna": "4cc355be78b8c3df76ba88cb00efdd589e969eec",
+  "edition": 1813,
+  "date": 1689536302089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

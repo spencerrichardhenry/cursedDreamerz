@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9500",
+  "description": "Sharks",
+  "image": "/9500.png",
+  "dna": "05d7d9315dbe87880a19d9614adda9e27ebd4af4",
+  "edition": 9500,
+  "date": 1689536495218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

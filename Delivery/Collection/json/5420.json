@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5420",
+  "description": "Sharks",
+  "image": "/5420.png",
+  "dna": "e673ae1ea49009caa9fc7076f2a763378d31db70",
+  "edition": 5420,
+  "date": 1689536393170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

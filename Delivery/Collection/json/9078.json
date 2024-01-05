@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9078",
+  "description": "Sharks",
+  "image": "/9078.png",
+  "dna": "d0d568718378a96b3984c79cd1ae35a8dd9b41c4",
+  "edition": 9078,
+  "date": 1689536484703,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

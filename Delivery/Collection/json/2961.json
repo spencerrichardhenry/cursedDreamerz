@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2961",
+  "description": "Sharks",
+  "image": "/2961.png",
+  "dna": "541a0727815e6c62d404faf027f9bbe50c605679",
+  "edition": 2961,
+  "date": 1689536331328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

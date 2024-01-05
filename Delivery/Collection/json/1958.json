@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1958",
+  "description": "Sharks",
+  "image": "/1958.png",
+  "dna": "a5acce6b8c758fdee3a2b2e160ba111693e58ce9",
+  "edition": 1958,
+  "date": 1689536305829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

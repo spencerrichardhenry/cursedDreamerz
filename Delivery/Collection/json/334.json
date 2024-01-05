@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #334",
+  "description": "Sharks",
+  "image": "/334.png",
+  "dna": "39a99c55cdffb692f09f7202d98f9bb8ff8efc53",
+  "edition": 334,
+  "date": 1689536263134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

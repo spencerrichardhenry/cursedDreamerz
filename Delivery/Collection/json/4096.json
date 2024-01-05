@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4096",
+  "description": "Sharks",
+  "image": "/4096.png",
+  "dna": "12bfd7bbe8277458d6e09ff2b6138689e8b339c6",
+  "edition": 4096,
+  "date": 1689536359797,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

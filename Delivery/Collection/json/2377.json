@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2377",
+  "description": "Sharks",
+  "image": "/2377.png",
+  "dna": "89adc05a569b2e40df9ae66c5fc82c9fb4a926d3",
+  "edition": 2377,
+  "date": 1689536316557,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

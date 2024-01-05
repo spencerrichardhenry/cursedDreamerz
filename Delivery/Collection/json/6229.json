@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6229",
+  "description": "Sharks",
+  "image": "/6229.png",
+  "dna": "32edd8011a0ed9203c98683b8874339dd52e018a",
+  "edition": 6229,
+  "date": 1689536413366,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

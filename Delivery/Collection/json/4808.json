@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4808",
+  "description": "Sharks",
+  "image": "/4808.png",
+  "dna": "e00fb682ce6810eae4672f8a5cfb456f5f906f53",
+  "edition": 4808,
+  "date": 1689536377841,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

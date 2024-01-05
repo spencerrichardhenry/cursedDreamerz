@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #922",
+  "description": "Sharks",
+  "image": "/922.png",
+  "dna": "d80f51dcaf63bf68ae5fd340cf059c4b92684387",
+  "edition": 922,
+  "date": 1689536278313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

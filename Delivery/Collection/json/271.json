@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #271",
+  "description": "Sharks",
+  "image": "/271.png",
+  "dna": "47a8a5f30eb46f522c84e2e2915610b06bc8f6db",
+  "edition": 271,
+  "date": 1689536261499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

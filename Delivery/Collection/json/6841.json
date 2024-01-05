@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6841",
+  "description": "Sharks",
+  "image": "/6841.png",
+  "dna": "7c2cad184ca45882ecd1f88aae5107243cfd6c30",
+  "edition": 6841,
+  "date": 1689536428619,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

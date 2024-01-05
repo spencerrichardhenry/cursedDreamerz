@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4031",
+  "description": "Sharks",
+  "image": "/4031.png",
+  "dna": "80e3355f49f4fb4ea80ac9771388eb4112fe76c7",
+  "edition": 4031,
+  "date": 1689536358192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

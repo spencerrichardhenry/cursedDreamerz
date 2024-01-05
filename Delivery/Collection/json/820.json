@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #820",
+  "description": "Sharks",
+  "image": "/820.png",
+  "dna": "bdd215a25f4a53e26b84b4fce25ba0480206a753",
+  "edition": 820,
+  "date": 1689536275663,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

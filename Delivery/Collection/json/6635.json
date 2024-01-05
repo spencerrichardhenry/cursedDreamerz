@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6635",
+  "description": "Sharks",
+  "image": "/6635.png",
+  "dna": "3d3fc3295f3f8ebfd37542a886ce0191e6f59006",
+  "edition": 6635,
+  "date": 1689536423452,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

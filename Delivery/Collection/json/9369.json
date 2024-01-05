@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9369",
+  "description": "Sharks",
+  "image": "/9369.png",
+  "dna": "1256c7ce5ca219b73c7146d3d09bfcb60c6a9d79",
+  "edition": 9369,
+  "date": 1689536491979,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

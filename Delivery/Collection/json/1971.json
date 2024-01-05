@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1971",
+  "description": "Sharks",
+  "image": "/1971.png",
+  "dna": "f49fd3dcf549637d9dc2d465d8a7513d3fb58d02",
+  "edition": 1971,
+  "date": 1689536306179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

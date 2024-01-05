@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1316",
+  "description": "Sharks",
+  "image": "/1316.png",
+  "dna": "3b51e12e94404ee1b39a5888ad7ac256d98a3d5b",
+  "edition": 1316,
+  "date": 1689536288686,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

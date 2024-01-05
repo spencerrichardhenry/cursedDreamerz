@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8466",
+  "description": "Sharks",
+  "image": "/8466.png",
+  "dna": "d06f1aa5be7eb0923e673c78cb74f66c9c9d941e",
+  "edition": 8466,
+  "date": 1689536469255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4073",
+  "description": "Sharks",
+  "image": "/4073.png",
+  "dna": "59de68ee819d6b4e716a5d553efa4d6746a8af8a",
+  "edition": 4073,
+  "date": 1689536359235,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

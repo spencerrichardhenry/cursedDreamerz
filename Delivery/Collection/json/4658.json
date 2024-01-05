@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4658",
+  "description": "Sharks",
+  "image": "/4658.png",
+  "dna": "0f97a5c8e8f18f6aa3c2f7a3620d3faafba5a0aa",
+  "edition": 4658,
+  "date": 1689536374120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7565",
+  "description": "Sharks",
+  "image": "/7565.png",
+  "dna": "337bd2ab03813b9583ba8ff5cb886c0379858a90",
+  "edition": 7565,
+  "date": 1689536446633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

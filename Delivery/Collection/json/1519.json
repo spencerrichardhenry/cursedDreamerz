@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1519",
+  "description": "Sharks",
+  "image": "/1519.png",
+  "dna": "8fd45082ebae11da6a936424b6d3c80f70a69022",
+  "edition": 1519,
+  "date": 1689536294159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

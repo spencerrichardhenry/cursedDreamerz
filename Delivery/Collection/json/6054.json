@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6054",
+  "description": "Sharks",
+  "image": "/6054.png",
+  "dna": "3f1cdd569d0dfdb14798450770f5dc4510d97a77",
+  "edition": 6054,
+  "date": 1689536408962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

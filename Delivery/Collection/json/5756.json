@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5756",
+  "description": "Sharks",
+  "image": "/5756.png",
+  "dna": "9232225b8d6acedc986c1f604a8536da807dcd2e",
+  "edition": 5756,
+  "date": 1689536401574,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

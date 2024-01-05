@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4798",
+  "description": "Sharks",
+  "image": "/4798.png",
+  "dna": "04cf25596d36dbe787f0a140533bc0e7a2b8650f",
+  "edition": 4798,
+  "date": 1689536377589,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

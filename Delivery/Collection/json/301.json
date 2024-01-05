@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #301",
+  "description": "Sharks",
+  "image": "/301.png",
+  "dna": "68e6f1375ef3362386aae0366ce6e187da9b2f91",
+  "edition": 301,
+  "date": 1689536262264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

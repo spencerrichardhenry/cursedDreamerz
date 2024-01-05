@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #819",
+  "description": "Sharks",
+  "image": "/819.png",
+  "dna": "b06e9610ca70a92c54cf8518552deed2c8a4153b",
+  "edition": 819,
+  "date": 1689536275636,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

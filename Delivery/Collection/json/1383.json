@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1383",
+  "description": "Sharks",
+  "image": "/1383.png",
+  "dna": "f6569f1018600bd3d3b9c22411add6f5a3b2d4c1",
+  "edition": 1383,
+  "date": 1689536290480,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

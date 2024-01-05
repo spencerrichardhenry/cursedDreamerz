@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7233",
+  "description": "Sharks",
+  "image": "/7233.png",
+  "dna": "40509426534af610aa09a75b189bc12c07af84fe",
+  "edition": 7233,
+  "date": 1689536438349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1619",
+  "description": "Sharks",
+  "image": "/1619.png",
+  "dna": "bffd19d54381cf185832dbb68ace568fa3d6a395",
+  "edition": 1619,
+  "date": 1689536296796,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

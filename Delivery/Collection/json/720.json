@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #720",
+  "description": "Sharks",
+  "image": "/720.png",
+  "dna": "eedeaf51ca1f6fb2810c1c1a1f7d8c34e53840ea",
+  "edition": 720,
+  "date": 1689536272902,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

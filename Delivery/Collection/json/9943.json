@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9943",
+  "description": "Sharks",
+  "image": "/9943.png",
+  "dna": "f0af2c0f29239b3a9a6879f885311967ddc6c777",
+  "edition": 9943,
+  "date": 1689536506538,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

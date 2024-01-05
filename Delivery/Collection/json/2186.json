@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2186",
+  "description": "Sharks",
+  "image": "/2186.png",
+  "dna": "ef65d01d32c39743ca63c36603e6309ba1259ad2",
+  "edition": 2186,
+  "date": 1689536311726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

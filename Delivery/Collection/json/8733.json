@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8733",
+  "description": "Sharks",
+  "image": "/8733.png",
+  "dna": "5ccb7f65d5116a0c312ed4a68b11f42bd02ce4bd",
+  "edition": 8733,
+  "date": 1689536476073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

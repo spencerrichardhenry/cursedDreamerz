@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2541",
+  "description": "Sharks",
+  "image": "/2541.png",
+  "dna": "55d225435a25da39c9fc43076ad2720caef1fe15",
+  "edition": 2541,
+  "date": 1689536320724,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

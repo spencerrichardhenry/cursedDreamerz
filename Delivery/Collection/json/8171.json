@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8171",
+  "description": "Sharks",
+  "image": "/8171.png",
+  "dna": "4890bbc920ddc78ed66a91577ed23616cbd40e85",
+  "edition": 8171,
+  "date": 1689536461785,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

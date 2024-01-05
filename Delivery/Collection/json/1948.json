@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1948",
+  "description": "Sharks",
+  "image": "/1948.png",
+  "dna": "745d1ec1a04feedb49732b9136c6ab68978819e6",
+  "edition": 1948,
+  "date": 1689536305585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

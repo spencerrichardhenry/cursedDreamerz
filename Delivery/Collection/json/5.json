@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5",
+  "description": "Sharks",
+  "image": "/5.png",
+  "dna": "798ca84caaa6023abb85d69798dff591534b05e8",
+  "edition": 5,
+  "date": 1689536254576,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

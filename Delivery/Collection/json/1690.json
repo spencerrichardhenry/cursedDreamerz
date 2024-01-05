@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1690",
+  "description": "Sharks",
+  "image": "/1690.png",
+  "dna": "bfeff5fd6ddaae17e73bcf1df0e6d053f392ea9e",
+  "edition": 1690,
+  "date": 1689536298726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9780",
+  "description": "Sharks",
+  "image": "/9780.png",
+  "dna": "f0202b2b7a3aefcb7c3c09e06619568498f8f0f5",
+  "edition": 9780,
+  "date": 1689536502383,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

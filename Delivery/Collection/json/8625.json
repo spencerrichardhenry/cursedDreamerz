@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8625",
+  "description": "Sharks",
+  "image": "/8625.png",
+  "dna": "7324b7d45ee290d205c55fd33a852874ce49972a",
+  "edition": 8625,
+  "date": 1689536473239,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

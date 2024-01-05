@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #11",
+  "description": "Sharks",
+  "image": "/11.png",
+  "dna": "216ceee94cc22b5882946c42baddc1114292a5ba",
+  "edition": 11,
+  "date": 1689536254732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

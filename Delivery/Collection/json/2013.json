@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2013",
+  "description": "Sharks",
+  "image": "/2013.png",
+  "dna": "0eba06e4c8d906c9e2a1d49b8fca83a25f573241",
+  "edition": 2013,
+  "date": 1689536307249,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

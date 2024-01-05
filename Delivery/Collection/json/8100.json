@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8100",
+  "description": "Sharks",
+  "image": "/8100.png",
+  "dna": "a747ab8549193ae662028c4fdbec680d13ebfade",
+  "edition": 8100,
+  "date": 1689536460016,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

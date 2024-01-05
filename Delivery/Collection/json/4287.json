@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4287",
+  "description": "Sharks",
+  "image": "/4287.png",
+  "dna": "06c977addf1837d53ec177cf6d1b648d7e5f5550",
+  "edition": 4287,
+  "date": 1689536364614,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

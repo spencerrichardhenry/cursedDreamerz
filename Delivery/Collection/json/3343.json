@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3343",
+  "description": "Sharks",
+  "image": "/3343.png",
+  "dna": "dd1db233f966a959a6b306ce4853dd5c1fdcdcdd",
+  "edition": 3343,
+  "date": 1689536341068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

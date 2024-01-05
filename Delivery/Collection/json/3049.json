@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3049",
+  "description": "Sharks",
+  "image": "/3049.png",
+  "dna": "2dc6b386b94a47ff9c9d90a4c4028b86dcc6eb55",
+  "edition": 3049,
+  "date": 1689536333583,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

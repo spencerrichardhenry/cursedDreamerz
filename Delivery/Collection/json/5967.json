@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5967",
+  "description": "Sharks",
+  "image": "/5967.png",
+  "dna": "6c91f97c65b5620842f57b3e885d03c9925ff74f",
+  "edition": 5967,
+  "date": 1689536406788,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

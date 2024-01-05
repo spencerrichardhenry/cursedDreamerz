@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #590",
+  "description": "Sharks",
+  "image": "/590.png",
+  "dna": "a2e9fca86cf1aa877afb474e2775727086022ac2",
+  "edition": 590,
+  "date": 1689536269582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

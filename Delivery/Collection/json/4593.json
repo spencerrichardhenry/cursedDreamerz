@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4593",
+  "description": "Sharks",
+  "image": "/4593.png",
+  "dna": "a93ab304000146e088ead59708d1f220381a108a",
+  "edition": 4593,
+  "date": 1689536372536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

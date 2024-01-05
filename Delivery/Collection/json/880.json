@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #880",
+  "description": "Sharks",
+  "image": "/880.png",
+  "dna": "c2d274e8ea6e473c0ac6c02fcf76c95914cc9568",
+  "edition": 880,
+  "date": 1689536277241,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

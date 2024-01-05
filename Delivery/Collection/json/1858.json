@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1858",
+  "description": "Sharks",
+  "image": "/1858.png",
+  "dna": "f73d1e8ddb38d0b8c6f35b76808a96a7069647de",
+  "edition": 1858,
+  "date": 1689536303257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

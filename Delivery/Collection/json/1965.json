@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1965",
+  "description": "Sharks",
+  "image": "/1965.png",
+  "dna": "da46760aa8dfe76fe74703fce4eba352a4a32a5d",
+  "edition": 1965,
+  "date": 1689536306029,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #468",
+  "description": "Sharks",
+  "image": "/468.png",
+  "dna": "eba1d09b7d8c7873c12997b96341dd0f62fc5c22",
+  "edition": 468,
+  "date": 1689536266516,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2721",
+  "description": "Sharks",
+  "image": "/2721.png",
+  "dna": "cb6716cd84232e7ac1a1011eb3f688a44c676173",
+  "edition": 2721,
+  "date": 1689536325280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

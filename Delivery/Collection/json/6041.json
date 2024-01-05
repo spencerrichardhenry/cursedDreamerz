@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6041",
+  "description": "Sharks",
+  "image": "/6041.png",
+  "dna": "34c9dc8456c4268d19cd7eaba4211d564b137d7d",
+  "edition": 6041,
+  "date": 1689536408640,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

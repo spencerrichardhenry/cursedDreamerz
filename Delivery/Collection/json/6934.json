@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6934",
+  "description": "Sharks",
+  "image": "/6934.png",
+  "dna": "6cf9968faff672f5f6af631cef5ec7c9c4858bdc",
+  "edition": 6934,
+  "date": 1689536430905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

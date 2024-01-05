@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5986",
+  "description": "Sharks",
+  "image": "/5986.png",
+  "dna": "ab7c6004692278582e23ca5c9ab4046815710953",
+  "edition": 5986,
+  "date": 1689536407267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

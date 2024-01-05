@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #21",
+  "description": "Sharks",
+  "image": "/21.png",
+  "dna": "8ca9092466594488cb7f4ac068799b1888cd6ee4",
+  "edition": 21,
+  "date": 1689536254987,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

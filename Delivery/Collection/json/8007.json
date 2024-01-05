@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8007",
+  "description": "Sharks",
+  "image": "/8007.png",
+  "dna": "99ce6be61401aff2053248078ccc9dd3b11c8d0f",
+  "edition": 8007,
+  "date": 1689536457655,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

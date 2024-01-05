@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9230",
+  "description": "Sharks",
+  "image": "/9230.png",
+  "dna": "5600d16e02df852a15f7b1602091468b47aca159",
+  "edition": 9230,
+  "date": 1689536488481,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

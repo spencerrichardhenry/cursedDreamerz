@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4391",
+  "description": "Sharks",
+  "image": "/4391.png",
+  "dna": "a7bed69c9555dcf08de45da133a8e31acb24e9ea",
+  "edition": 4391,
+  "date": 1689536367319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

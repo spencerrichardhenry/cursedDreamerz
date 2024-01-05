@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6108",
+  "description": "Sharks",
+  "image": "/6108.png",
+  "dna": "a5e7b95c3d0146a1f428b9bb93ac94c5e7500c0e",
+  "edition": 6108,
+  "date": 1689536410295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

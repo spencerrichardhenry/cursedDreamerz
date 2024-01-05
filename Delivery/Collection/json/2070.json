@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2070",
+  "description": "Sharks",
+  "image": "/2070.png",
+  "dna": "fa9c8414e4052c24d03ae0203bda345068301ecb",
+  "edition": 2070,
+  "date": 1689536308684,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

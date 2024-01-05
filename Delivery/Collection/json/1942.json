@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1942",
+  "description": "Sharks",
+  "image": "/1942.png",
+  "dna": "1d320fd6d06f95d71985dafcb556f2fed5723e27",
+  "edition": 1942,
+  "date": 1689536305404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4206",
+  "description": "Sharks",
+  "image": "/4206.png",
+  "dna": "64c7c4bc6a4d8c8572f6e74efa14f5ccb7cf4aed",
+  "edition": 4206,
+  "date": 1689536362537,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2018",
+  "description": "Sharks",
+  "image": "/2018.png",
+  "dna": "4ab8735f8f6e14994c9b3565bc956e2406531ebb",
+  "edition": 2018,
+  "date": 1689536307379,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

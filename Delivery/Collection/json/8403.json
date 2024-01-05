@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8403",
+  "description": "Sharks",
+  "image": "/8403.png",
+  "dna": "381e1e1b74f3ed3d99286a1f55e60f5a858e8700",
+  "edition": 8403,
+  "date": 1689536467677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

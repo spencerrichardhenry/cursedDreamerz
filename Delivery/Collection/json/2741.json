@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2741",
+  "description": "Sharks",
+  "image": "/2741.png",
+  "dna": "8d195c522f6f446d51c7f7c2ce3b123bd711d2a6",
+  "edition": 2741,
+  "date": 1689536325791,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

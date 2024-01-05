@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5108",
+  "description": "Sharks",
+  "image": "/5108.png",
+  "dna": "060d49dfaa08e054d2aad4ec4a20250d1a24956b",
+  "edition": 5108,
+  "date": 1689536385360,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

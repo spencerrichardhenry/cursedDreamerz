@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2048",
+  "description": "Sharks",
+  "image": "/2048.png",
+  "dna": "be0b8af612742dd00aaffb6f56fc5494dae968eb",
+  "edition": 2048,
+  "date": 1689536308141,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

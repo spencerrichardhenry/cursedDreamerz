@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8455",
+  "description": "Sharks",
+  "image": "/8455.png",
+  "dna": "004d6593a3b4e94cf60a006e9982751c97f7d8dc",
+  "edition": 8455,
+  "date": 1689536468974,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

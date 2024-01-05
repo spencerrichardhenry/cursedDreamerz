@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9942",
+  "description": "Sharks",
+  "image": "/9942.png",
+  "dna": "7a4720d0bb02a2cfc65a496bd8718b71a4b01642",
+  "edition": 9942,
+  "date": 1689536506514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

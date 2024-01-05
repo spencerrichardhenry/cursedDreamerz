@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #259",
+  "description": "Sharks",
+  "image": "/259.png",
+  "dna": "dcbc77d19f59df0940790a1ebb596e104b663b58",
+  "edition": 259,
+  "date": 1689536261193,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

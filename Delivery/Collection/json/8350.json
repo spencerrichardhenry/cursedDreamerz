@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8350",
+  "description": "Sharks",
+  "image": "/8350.png",
+  "dna": "40d01a7965e4acdde3fa0772b8508fdfc76cad30",
+  "edition": 8350,
+  "date": 1689536466355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

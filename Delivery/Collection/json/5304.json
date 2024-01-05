@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5304",
+  "description": "Sharks",
+  "image": "/5304.png",
+  "dna": "bc5a6a2e067d2d4c5bb95699c5f50da86a5e3523",
+  "edition": 5304,
+  "date": 1689536390260,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

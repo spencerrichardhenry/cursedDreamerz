@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3339",
+  "description": "Sharks",
+  "image": "/3339.png",
+  "dna": "d6b6e77b34be2bd72352ef61bc24009d85acefa6",
+  "edition": 3339,
+  "date": 1689536340965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

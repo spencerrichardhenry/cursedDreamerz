@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3245",
+  "description": "Sharks",
+  "image": "/3245.png",
+  "dna": "54b88d2aa641a216e9c1ae43f93950d79bef6186",
+  "edition": 3245,
+  "date": 1689536338625,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

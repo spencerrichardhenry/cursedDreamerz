@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4130",
+  "description": "Sharks",
+  "image": "/4130.png",
+  "dna": "0d0044bb4e6e676592c685e8c517813b6b1761f7",
+  "edition": 4130,
+  "date": 1689536360641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

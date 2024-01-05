@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1719",
+  "description": "Sharks",
+  "image": "/1719.png",
+  "dna": "5052ec710ac141096d9b956e793287c9cd328fca",
+  "edition": 1719,
+  "date": 1689536299554,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5140",
+  "description": "Sharks",
+  "image": "/5140.png",
+  "dna": "af102525b56375ff8b8257e2c7ee0072f5d3e25d",
+  "edition": 5140,
+  "date": 1689536386154,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

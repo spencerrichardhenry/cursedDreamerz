@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #355",
+  "description": "Sharks",
+  "image": "/355.png",
+  "dna": "ea03d7554c5da963ec85e2457c637054fcaee746",
+  "edition": 355,
+  "date": 1689536263665,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #990",
+  "description": "Sharks",
+  "image": "/990.png",
+  "dna": "ead8f35be8836bb8afc90f6658b42732f04a421a",
+  "edition": 990,
+  "date": 1689536280102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

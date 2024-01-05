@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9180",
+  "description": "Sharks",
+  "image": "/9180.png",
+  "dna": "edc3a5b3b96655bef4abb1602522fe121409d761",
+  "edition": 9180,
+  "date": 1689536487232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

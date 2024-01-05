@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1735",
+  "description": "Sharks",
+  "image": "/1735.png",
+  "dna": "10ac0d12d56ace61e20be64d7a44e64c714025ae",
+  "edition": 1735,
+  "date": 1689536300018,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

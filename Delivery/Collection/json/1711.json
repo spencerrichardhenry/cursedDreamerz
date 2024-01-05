@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1711",
+  "description": "Sharks",
+  "image": "/1711.png",
+  "dna": "2cfa7571b2c67a6b916852766fc90c768fbff09b",
+  "edition": 1711,
+  "date": 1689536299338,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

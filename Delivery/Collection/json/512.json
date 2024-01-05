@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #512",
+  "description": "Sharks",
+  "image": "/512.png",
+  "dna": "6e13036e712f90b6a1b7f156e0c4653acf810d59",
+  "edition": 512,
+  "date": 1689536267617,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

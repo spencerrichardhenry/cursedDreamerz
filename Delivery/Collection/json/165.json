@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #165",
+  "description": "Sharks",
+  "image": "/165.png",
+  "dna": "5a237559a3993ef8478b188ec6b9a8f6b0dfa90f",
+  "edition": 165,
+  "date": 1689536258747,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

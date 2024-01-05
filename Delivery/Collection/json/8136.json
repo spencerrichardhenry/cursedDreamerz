@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8136",
+  "description": "Sharks",
+  "image": "/8136.png",
+  "dna": "f240036d575c31ed34b2389f1b7ec1052a0ce848",
+  "edition": 8136,
+  "date": 1689536460925,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

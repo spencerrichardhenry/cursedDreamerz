@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #618",
+  "description": "Sharks",
+  "image": "/618.png",
+  "dna": "974926395249ee8ca467dc2bf419c9cec189f14a",
+  "edition": 618,
+  "date": 1689536270267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

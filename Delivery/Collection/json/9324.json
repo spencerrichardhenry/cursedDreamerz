@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9324",
+  "description": "Sharks",
+  "image": "/9324.png",
+  "dna": "917f498f7371e9570221a593877d5da283a44f41",
+  "edition": 9324,
+  "date": 1689536490822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

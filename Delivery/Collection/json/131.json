@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #131",
+  "description": "Sharks",
+  "image": "/131.png",
+  "dna": "75d4e8fa6d11014bac379ecf8217b8cf42c01787",
+  "edition": 131,
+  "date": 1689536257832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

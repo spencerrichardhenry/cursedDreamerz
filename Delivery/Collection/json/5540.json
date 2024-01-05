@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5540",
+  "description": "Sharks",
+  "image": "/5540.png",
+  "dna": "a6a0b2fefcf680a3f9424879f274428eccdbedd6",
+  "edition": 5540,
+  "date": 1689536396172,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

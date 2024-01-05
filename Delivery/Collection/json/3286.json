@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3286",
+  "description": "Sharks",
+  "image": "/3286.png",
+  "dna": "8c2771c65dcd2f820368b9e2f589789cf102cd99",
+  "edition": 3286,
+  "date": 1689536339662,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

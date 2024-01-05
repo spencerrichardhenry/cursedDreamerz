@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #30",
+  "description": "Sharks",
+  "image": "/30.png",
+  "dna": "bbe137d65ea2da451b47f527851969e9d7f92779",
+  "edition": 30,
+  "date": 1689536255262,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

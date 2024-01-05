@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9827",
+  "description": "Sharks",
+  "image": "/9827.png",
+  "dna": "8d0ca85fa3a15e23c07b70289674332e12497b71",
+  "edition": 9827,
+  "date": 1689536503539,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

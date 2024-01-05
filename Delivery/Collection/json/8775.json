@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8775",
+  "description": "Sharks",
+  "image": "/8775.png",
+  "dna": "32a95e0469b18fd3470b5ea00fe59ee2e0525f81",
+  "edition": 8775,
+  "date": 1689536477110,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #128",
+  "description": "Sharks",
+  "image": "/128.png",
+  "dna": "5d90005ad1fa2621ab056dd4d20b5e4f6923ffe5",
+  "edition": 128,
+  "date": 1689536257748,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8586",
+  "description": "Sharks",
+  "image": "/8586.png",
+  "dna": "c0824c94f5fb8ae146e8f5af7ebae5fa993c0382",
+  "edition": 8586,
+  "date": 1689536472284,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

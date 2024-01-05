@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4527",
+  "description": "Sharks",
+  "image": "/4527.png",
+  "dna": "7fb44442725c9239e1d6f336dc9bef756caa2346",
+  "edition": 4527,
+  "date": 1689536370792,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

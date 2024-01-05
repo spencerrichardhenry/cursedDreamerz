@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5822",
+  "description": "Sharks",
+  "image": "/5822.png",
+  "dna": "99e13dba04c7830c354c47fd61e440b6ac6c4097",
+  "edition": 5822,
+  "date": 1689536403166,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

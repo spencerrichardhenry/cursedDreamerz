@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #430",
+  "description": "Sharks",
+  "image": "/430.png",
+  "dna": "7d89d065af8e641420f93731e8294d07915caae0",
+  "edition": 430,
+  "date": 1689536265543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

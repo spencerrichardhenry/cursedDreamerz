@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7817",
+  "description": "Sharks",
+  "image": "/7817.png",
+  "dna": "9c871124042754b3b147ec82cdefa0f67fd3cfaa",
+  "edition": 7817,
+  "date": 1689536452942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

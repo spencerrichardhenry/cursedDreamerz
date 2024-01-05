@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #706",
+  "description": "Sharks",
+  "image": "/706.png",
+  "dna": "4e04e7ee2a1a0141eb09ff8cb7d75f0777a304ea",
+  "edition": 706,
+  "date": 1689536272551,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

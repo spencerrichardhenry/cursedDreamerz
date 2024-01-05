@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6752",
+  "description": "Sharks",
+  "image": "/6752.png",
+  "dna": "67fbe792800a72274546ccce41d0e0af99ea6f26",
+  "edition": 6752,
+  "date": 1689536426403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

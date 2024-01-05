@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6379",
+  "description": "Sharks",
+  "image": "/6379.png",
+  "dna": "d3cf5bc07ed1519c86685431ef42516fb7361788",
+  "edition": 6379,
+  "date": 1689536417088,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

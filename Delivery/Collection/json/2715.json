@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2715",
+  "description": "Sharks",
+  "image": "/2715.png",
+  "dna": "39082d0748b8e81a30463e987fd4c5bf5b5206b8",
+  "edition": 2715,
+  "date": 1689536325136,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

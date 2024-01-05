@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9745",
+  "description": "Sharks",
+  "image": "/9745.png",
+  "dna": "a18ac7107c417973cfa513654806513a428fdb90",
+  "edition": 9745,
+  "date": 1689536501479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

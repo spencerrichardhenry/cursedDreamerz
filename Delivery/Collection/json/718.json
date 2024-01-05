@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #718",
+  "description": "Sharks",
+  "image": "/718.png",
+  "dna": "ab24b846318adb28bc6568a7affccd761c47f78b",
+  "edition": 718,
+  "date": 1689536272854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

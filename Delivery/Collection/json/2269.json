@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2269",
+  "description": "Sharks",
+  "image": "/2269.png",
+  "dna": "d7eae9cfe3e0893a65fa13396660d21323f3d567",
+  "edition": 2269,
+  "date": 1689536313860,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

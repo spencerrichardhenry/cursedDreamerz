@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6522",
+  "description": "Sharks",
+  "image": "/6522.png",
+  "dna": "dc8d0eac691734d83c7d1e5ea4645edb3e5f4e01",
+  "edition": 6522,
+  "date": 1689536420624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

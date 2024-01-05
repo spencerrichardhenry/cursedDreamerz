@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9987",
+  "description": "Sharks",
+  "image": "/9987.png",
+  "dna": "082b5ecb09e698ca07f1b48cb4267fec778101fb",
+  "edition": 9987,
+  "date": 1689536507667,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

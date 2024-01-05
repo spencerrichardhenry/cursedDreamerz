@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1139",
+  "description": "Sharks",
+  "image": "/1139.png",
+  "dna": "236d3c4acd318b41584f95f5e8c23b5268c710f2",
+  "edition": 1139,
+  "date": 1689536284086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

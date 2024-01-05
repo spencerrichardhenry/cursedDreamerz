@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9737",
+  "description": "Sharks",
+  "image": "/9737.png",
+  "dna": "4e2b6d4d2238bc5e875ee94db7ffe5af386253aa",
+  "edition": 9737,
+  "date": 1689536501156,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

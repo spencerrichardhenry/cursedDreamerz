@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #403",
+  "description": "Sharks",
+  "image": "/403.png",
+  "dna": "7efd55e1d77ce65df9a79a0ce0f399f66b90fb8f",
+  "edition": 403,
+  "date": 1689536264867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

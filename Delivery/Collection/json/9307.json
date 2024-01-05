@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9307",
+  "description": "Sharks",
+  "image": "/9307.png",
+  "dna": "bf401fb8eb7ffbfa6e3d48fd32614462567d8bac",
+  "edition": 9307,
+  "date": 1689536490391,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

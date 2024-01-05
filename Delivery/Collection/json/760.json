@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #760",
+  "description": "Sharks",
+  "image": "/760.png",
+  "dna": "4d26a1c9fbb518cdd8d100b87a1d99c6c08669be",
+  "edition": 760,
+  "date": 1689536274119,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2573",
+  "description": "Sharks",
+  "image": "/2573.png",
+  "dna": "53d4c0854fc8f879a0d6f26952ca1d4df8edb355",
+  "edition": 2573,
+  "date": 1689536321531,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2026",
+  "description": "Sharks",
+  "image": "/2026.png",
+  "dna": "527b5143af0b6f243ef7022cab6df01e99cac91b",
+  "edition": 2026,
+  "date": 1689536307573,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

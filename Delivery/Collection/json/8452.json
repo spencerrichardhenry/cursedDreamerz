@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8452",
+  "description": "Sharks",
+  "image": "/8452.png",
+  "dna": "d0c851ef8e384eb2a63272e72201ce03bf33a032",
+  "edition": 8452,
+  "date": 1689536468900,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8875",
+  "description": "Sharks",
+  "image": "/8875.png",
+  "dna": "debf4483e2332411dae2e328a2326f8e0d4a085d",
+  "edition": 8875,
+  "date": 1689536479591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

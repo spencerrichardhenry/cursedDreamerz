@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8714",
+  "description": "Sharks",
+  "image": "/8714.png",
+  "dna": "3b9eed4501032fa23c16a1f50802d234a0b83903",
+  "edition": 8714,
+  "date": 1689536475586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2694",
+  "description": "Sharks",
+  "image": "/2694.png",
+  "dna": "1e2d7750c01f50c6c527fffa6fd09f23ab710597",
+  "edition": 2694,
+  "date": 1689536324619,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

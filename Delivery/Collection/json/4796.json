@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4796",
+  "description": "Sharks",
+  "image": "/4796.png",
+  "dna": "b88af597e5e60388d59efef713919edce283f4b9",
+  "edition": 4796,
+  "date": 1689536377542,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

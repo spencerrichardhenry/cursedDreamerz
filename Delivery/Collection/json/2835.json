@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2835",
+  "description": "Sharks",
+  "image": "/2835.png",
+  "dna": "1adf3c3ed7be31f75805ac26fb9f2c612011c6a2",
+  "edition": 2835,
+  "date": 1689536328170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

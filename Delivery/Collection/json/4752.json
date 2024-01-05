@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4752",
+  "description": "Sharks",
+  "image": "/4752.png",
+  "dna": "fd3e02e8a190b87ab08d248d8cf5408d8f899b29",
+  "edition": 4752,
+  "date": 1689536376451,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

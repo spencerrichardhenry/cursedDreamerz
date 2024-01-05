@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1741",
+  "description": "Sharks",
+  "image": "/1741.png",
+  "dna": "7713c2311f522f899e13ccd1c9a123ff54d78cf7",
+  "edition": 1741,
+  "date": 1689536300183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

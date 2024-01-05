@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4209",
+  "description": "Sharks",
+  "image": "/4209.png",
+  "dna": "fb9f455ccd475c4eb7fbc42eccf4db0188c18f91",
+  "edition": 4209,
+  "date": 1689536362606,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

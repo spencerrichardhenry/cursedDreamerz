@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9269",
+  "description": "Sharks",
+  "image": "/9269.png",
+  "dna": "fdd5168ddfb28139051348c6d2b956cb6c978e2e",
+  "edition": 9269,
+  "date": 1689536489438,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

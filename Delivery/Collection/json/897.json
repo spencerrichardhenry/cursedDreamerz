@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #897",
+  "description": "Sharks",
+  "image": "/897.png",
+  "dna": "d628a640928cf4a9e84a5ca2ca1fce7cff8d3181",
+  "edition": 897,
+  "date": 1689536277672,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

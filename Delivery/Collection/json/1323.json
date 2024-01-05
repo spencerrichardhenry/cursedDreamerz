@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1323",
+  "description": "Sharks",
+  "image": "/1323.png",
+  "dna": "0821582a83a9a1a0b25fd66730ac97e39ede5090",
+  "edition": 1323,
+  "date": 1689536288870,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

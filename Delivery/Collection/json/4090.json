@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4090",
+  "description": "Sharks",
+  "image": "/4090.png",
+  "dna": "0642b6bcb1807e272c71d0c4bfb471e2abccf9a5",
+  "edition": 4090,
+  "date": 1689536359652,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

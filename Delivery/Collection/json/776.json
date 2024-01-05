@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #776",
+  "description": "Sharks",
+  "image": "/776.png",
+  "dna": "f87ec5b5a6b0b468293a9bfb43fa542c1823f6bb",
+  "edition": 776,
+  "date": 1689536274529,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

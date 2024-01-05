@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1723",
+  "description": "Sharks",
+  "image": "/1723.png",
+  "dna": "7e2bf00ecf9e52cb25791b0773274d16aca05f72",
+  "edition": 1723,
+  "date": 1689536299671,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

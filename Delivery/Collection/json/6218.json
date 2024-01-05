@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6218",
+  "description": "Sharks",
+  "image": "/6218.png",
+  "dna": "820f2b23aab8a92fe796bef64e275911d7638733",
+  "edition": 6218,
+  "date": 1689536413094,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

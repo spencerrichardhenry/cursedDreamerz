@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9303",
+  "description": "Sharks",
+  "image": "/9303.png",
+  "dna": "61c3cabe6edc58c6195b86ef6eafb433790c29dd",
+  "edition": 9303,
+  "date": 1689536490296,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

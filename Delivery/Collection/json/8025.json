@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8025",
+  "description": "Sharks",
+  "image": "/8025.png",
+  "dna": "d7d9969f7bb8391e2db1c3ecf7b4ec926ed8a886",
+  "edition": 8025,
+  "date": 1689536458102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

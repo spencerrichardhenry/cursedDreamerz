@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2279",
+  "description": "Sharks",
+  "image": "/2279.png",
+  "dna": "44d39717e64530a008216f90449d7250415195c3",
+  "edition": 2279,
+  "date": 1689536314096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

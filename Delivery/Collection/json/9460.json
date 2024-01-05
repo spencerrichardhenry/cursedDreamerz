@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9460",
+  "description": "Sharks",
+  "image": "/9460.png",
+  "dna": "1829b345218a35ac99bbc2bff1ca2ad450727ff9",
+  "edition": 9460,
+  "date": 1689536494192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

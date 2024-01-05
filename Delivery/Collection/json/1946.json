@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1946",
+  "description": "Sharks",
+  "image": "/1946.png",
+  "dna": "64c6fd19de4289b894e106821626572eb65c28e7",
+  "edition": 1946,
+  "date": 1689536305529,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

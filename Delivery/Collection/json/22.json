@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #22",
+  "description": "Sharks",
+  "image": "/22.png",
+  "dna": "7c00281d649bf5d625a03b8b8259b9eb6bbbb222",
+  "edition": 22,
+  "date": 1689536255013,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

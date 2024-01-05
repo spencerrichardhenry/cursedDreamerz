@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #554",
+  "description": "Sharks",
+  "image": "/554.png",
+  "dna": "af320b32648d2a6fb233df212ce09142f5be3855",
+  "edition": 554,
+  "date": 1689536268663,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

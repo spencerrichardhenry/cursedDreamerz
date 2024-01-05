@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5317",
+  "description": "Sharks",
+  "image": "/5317.png",
+  "dna": "f9e58a425d3b1191a26b991cc2e4da55d1404497",
+  "edition": 5317,
+  "date": 1689536390593,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

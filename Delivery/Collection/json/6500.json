@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6500",
+  "description": "Sharks",
+  "image": "/6500.png",
+  "dna": "cf458fd2aa179bad4102f415ee38a62f4c8a9626",
+  "edition": 6500,
+  "date": 1689536420083,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

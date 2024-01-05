@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8220",
+  "description": "Sharks",
+  "image": "/8220.png",
+  "dna": "1254dbd8f9127fcc5804e306a1cb3b175f620944",
+  "edition": 8220,
+  "date": 1689536462995,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

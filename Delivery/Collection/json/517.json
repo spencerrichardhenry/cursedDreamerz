@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #517",
+  "description": "Sharks",
+  "image": "/517.png",
+  "dna": "7dc725eae137eeea0b8c89a0ef80ece78c761f57",
+  "edition": 517,
+  "date": 1689536267742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

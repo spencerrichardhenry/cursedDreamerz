@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8417",
+  "description": "Sharks",
+  "image": "/8417.png",
+  "dna": "24fbccbb07433b4a934f5ef3f5ab998618b6d98f",
+  "edition": 8417,
+  "date": 1689536468018,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

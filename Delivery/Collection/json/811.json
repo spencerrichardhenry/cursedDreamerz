@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #811",
+  "description": "Sharks",
+  "image": "/811.png",
+  "dna": "110a82076fc32437de342637deadbbaf852eff50",
+  "edition": 811,
+  "date": 1689536275430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

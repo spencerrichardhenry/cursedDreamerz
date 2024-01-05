@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9967",
+  "description": "Sharks",
+  "image": "/9967.png",
+  "dna": "768a5b1762ea2acc7a736d009966c1bd206326f8",
+  "edition": 9967,
+  "date": 1689536507167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

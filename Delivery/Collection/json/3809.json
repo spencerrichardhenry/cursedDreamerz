@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3809",
+  "description": "Sharks",
+  "image": "/3809.png",
+  "dna": "0c949cbb6d76fdb6b1d411c2ecc4008c79fc8807",
+  "edition": 3809,
+  "date": 1689536352684,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

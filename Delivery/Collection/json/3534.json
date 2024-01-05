@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3534",
+  "description": "Sharks",
+  "image": "/3534.png",
+  "dna": "509d3e8e56b6ad1d8badacd2b3ce9a115879769c",
+  "edition": 3534,
+  "date": 1689536345819,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

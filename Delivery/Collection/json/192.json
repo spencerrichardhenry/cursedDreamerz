@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #192",
+  "description": "Sharks",
+  "image": "/192.png",
+  "dna": "de57459d123e64b66a04265b0a1b0ffa6af50a76",
+  "edition": 192,
+  "date": 1689536259477,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

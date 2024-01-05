@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #850",
+  "description": "Sharks",
+  "image": "/850.png",
+  "dna": "29b4ae39330a44432ca68e52a641b6415b531a0d",
+  "edition": 850,
+  "date": 1689536276450,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

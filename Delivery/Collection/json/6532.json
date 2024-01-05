@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6532",
+  "description": "Sharks",
+  "image": "/6532.png",
+  "dna": "88fbd16fc3dc743be2c607798beb8c50cb4a89cf",
+  "edition": 6532,
+  "date": 1689536420900,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

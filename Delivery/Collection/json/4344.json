@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4344",
+  "description": "Sharks",
+  "image": "/4344.png",
+  "dna": "0bff4a979aa3a1337ed27b1304683629b87e93d3",
+  "edition": 4344,
+  "date": 1689536366077,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4585",
+  "description": "Sharks",
+  "image": "/4585.png",
+  "dna": "61444b8bf11967afe6e743df7fa3d88c3b345314",
+  "edition": 4585,
+  "date": 1689536372346,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

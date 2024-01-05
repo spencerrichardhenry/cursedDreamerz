@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6810",
+  "description": "Sharks",
+  "image": "/6810.png",
+  "dna": "70c0a5a9672c2f838091cccdb85ca6d7f6384c29",
+  "edition": 6810,
+  "date": 1689536427841,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

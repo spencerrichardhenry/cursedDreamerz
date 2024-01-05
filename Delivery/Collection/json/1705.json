@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1705",
+  "description": "Sharks",
+  "image": "/1705.png",
+  "dna": "2ba72f2236c3e8ea56a0d97b7d4b9e2732d0284a",
+  "edition": 1705,
+  "date": 1689536299155,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

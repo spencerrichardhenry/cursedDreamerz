@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3041",
+  "description": "Sharks",
+  "image": "/3041.png",
+  "dna": "2881d1b1dc83e15a10820d16219a725f7262deaf",
+  "edition": 3041,
+  "date": 1689536333376,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

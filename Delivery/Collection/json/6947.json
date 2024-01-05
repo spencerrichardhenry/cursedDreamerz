@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6947",
+  "description": "Sharks",
+  "image": "/6947.png",
+  "dna": "c4d4df0a277066d5f86068add8c49bac2992dcfa",
+  "edition": 6947,
+  "date": 1689536431233,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

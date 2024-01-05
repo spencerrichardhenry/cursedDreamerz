@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3038",
+  "description": "Sharks",
+  "image": "/3038.png",
+  "dna": "de2e596d2bdaa416560c91917ed62ef51f11e7e9",
+  "edition": 3038,
+  "date": 1689536333304,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

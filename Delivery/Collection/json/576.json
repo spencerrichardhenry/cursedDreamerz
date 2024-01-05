@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #576",
+  "description": "Sharks",
+  "image": "/576.png",
+  "dna": "55593c0aa82eac1eeee7e7ef6c063ed81c560ca3",
+  "edition": 576,
+  "date": 1689536269223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

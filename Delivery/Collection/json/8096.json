@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8096",
+  "description": "Sharks",
+  "image": "/8096.png",
+  "dna": "e1d5e4fcbcc0d1899612fb1fd85adca0870dc4e7",
+  "edition": 8096,
+  "date": 1689536459911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

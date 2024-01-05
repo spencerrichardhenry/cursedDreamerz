@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3150",
+  "description": "Sharks",
+  "image": "/3150.png",
+  "dna": "a2465ef96610690aa80cd57e4ce5315bfe4f2bde",
+  "edition": 3150,
+  "date": 1689536336237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

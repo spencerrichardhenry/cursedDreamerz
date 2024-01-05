@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2700",
+  "description": "Sharks",
+  "image": "/2700.png",
+  "dna": "05a71ec83479de430e9fee7553e5c2997b006494",
+  "edition": 2700,
+  "date": 1689536324763,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

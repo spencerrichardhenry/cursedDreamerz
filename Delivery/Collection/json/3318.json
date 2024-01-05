@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3318",
+  "description": "Sharks",
+  "image": "/3318.png",
+  "dna": "adbc66d8b05679b23218c7688d42b4be284e4871",
+  "edition": 3318,
+  "date": 1689536340438,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

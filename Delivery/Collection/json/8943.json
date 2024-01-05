@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8943",
+  "description": "Sharks",
+  "image": "/8943.png",
+  "dna": "aa3b3812530b04c2b315d2f7bf401d228eddcf5d",
+  "edition": 8943,
+  "date": 1689536481336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

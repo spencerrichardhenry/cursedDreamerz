@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3504",
+  "description": "Sharks",
+  "image": "/3504.png",
+  "dna": "d6b7b0930a43ec6b3ff5928aea6c7bdee64f8bd2",
+  "edition": 3504,
+  "date": 1689536345096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

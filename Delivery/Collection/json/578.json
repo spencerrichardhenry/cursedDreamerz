@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #578",
+  "description": "Sharks",
+  "image": "/578.png",
+  "dna": "fc4779e438ae86a94d53078ed21bf714fc35ce23",
+  "edition": 578,
+  "date": 1689536269270,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

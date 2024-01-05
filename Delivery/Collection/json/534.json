@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #534",
+  "description": "Sharks",
+  "image": "/534.png",
+  "dna": "de4f4f11f94b465a43c4e33abc854cc9f61db590",
+  "edition": 534,
+  "date": 1689536268170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

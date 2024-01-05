@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8566",
+  "description": "Sharks",
+  "image": "/8566.png",
+  "dna": "c2ce622605e1cc8aae4dd37302196ce0babe301c",
+  "edition": 8566,
+  "date": 1689536471788,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

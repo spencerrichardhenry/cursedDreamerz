@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5236",
+  "description": "Sharks",
+  "image": "/5236.png",
+  "dna": "0c5d8467cec99b1640cffd92a7076c64dde6507d",
+  "edition": 5236,
+  "date": 1689536388554,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

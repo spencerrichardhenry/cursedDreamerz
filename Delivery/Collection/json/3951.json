@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3951",
+  "description": "Sharks",
+  "image": "/3951.png",
+  "dna": "3abbc28279653c23098395d6de005cc753a47be7",
+  "edition": 3951,
+  "date": 1689536356196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

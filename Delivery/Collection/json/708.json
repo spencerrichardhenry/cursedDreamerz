@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #708",
+  "description": "Sharks",
+  "image": "/708.png",
+  "dna": "c023b8772f514028fe330ac87255136e455ec313",
+  "edition": 708,
+  "date": 1689536272598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

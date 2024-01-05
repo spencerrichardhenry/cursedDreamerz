@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8065",
+  "description": "Sharks",
+  "image": "/8065.png",
+  "dna": "464b5ab03ba1a575a9a2d32cf24cde31c6bbeb7e",
+  "edition": 8065,
+  "date": 1689536459128,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

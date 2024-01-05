@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2242",
+  "description": "Sharks",
+  "image": "/2242.png",
+  "dna": "373ae85bdf847b26266a0664e8ee17964c736b30",
+  "edition": 2242,
+  "date": 1689536313154,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

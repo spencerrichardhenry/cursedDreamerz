@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1955",
+  "description": "Sharks",
+  "image": "/1955.png",
+  "dna": "4cc1ac5e481a37cfe5b4b02d26db8cba87d5fbb1",
+  "edition": 1955,
+  "date": 1689536305758,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

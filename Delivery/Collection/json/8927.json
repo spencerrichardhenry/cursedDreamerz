@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8927",
+  "description": "Sharks",
+  "image": "/8927.png",
+  "dna": "eea2444f01defe95c1402dc71ad65b2f61f37a58",
+  "edition": 8927,
+  "date": 1689536480901,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

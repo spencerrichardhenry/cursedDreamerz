@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8335",
+  "description": "Sharks",
+  "image": "/8335.png",
+  "dna": "2650e775b7712452a9e10e0b6e73e6f382d268e1",
+  "edition": 8335,
+  "date": 1689536465979,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

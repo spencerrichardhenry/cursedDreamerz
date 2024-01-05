@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1550",
+  "description": "Sharks",
+  "image": "/1550.png",
+  "dna": "8e3f87dc9a1374c7236f30eb8e4fa20d6e558a27",
+  "edition": 1550,
+  "date": 1689536294952,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

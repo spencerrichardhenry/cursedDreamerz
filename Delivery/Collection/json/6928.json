@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6928",
+  "description": "Sharks",
+  "image": "/6928.png",
+  "dna": "0c167d84b012a8d356f07da4d430c7c597192953",
+  "edition": 6928,
+  "date": 1689536430754,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

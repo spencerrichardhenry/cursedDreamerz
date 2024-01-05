@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6332",
+  "description": "Sharks",
+  "image": "/6332.png",
+  "dna": "b942309ad5ea90014f3c8b401f1f9c96fcf5f971",
+  "edition": 6332,
+  "date": 1689536415922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

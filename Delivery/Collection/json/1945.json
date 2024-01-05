@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1945",
+  "description": "Sharks",
+  "image": "/1945.png",
+  "dna": "19aabdf724f1ff41ee2496221c33870ceeacf70d",
+  "edition": 1945,
+  "date": 1689536305496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

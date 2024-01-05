@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2526",
+  "description": "Sharks",
+  "image": "/2526.png",
+  "dna": "bcfca69fa5bb9b0455d364e8e42a6fbf3332b578",
+  "edition": 2526,
+  "date": 1689536320339,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

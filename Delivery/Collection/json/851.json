@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #851",
+  "description": "Sharks",
+  "image": "/851.png",
+  "dna": "15310ab49d409e554c19512f1e573543347a1c52",
+  "edition": 851,
+  "date": 1689536276478,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

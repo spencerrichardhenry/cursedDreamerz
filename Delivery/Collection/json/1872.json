@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1872",
+  "description": "Sharks",
+  "image": "/1872.png",
+  "dna": "bed2d67c74bcde4fa16cbd8ee86b5c46de0db76c",
+  "edition": 1872,
+  "date": 1689536303608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

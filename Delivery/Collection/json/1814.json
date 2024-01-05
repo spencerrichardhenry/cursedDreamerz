@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1814",
+  "description": "Sharks",
+  "image": "/1814.png",
+  "dna": "a742254b4774f1f67127af684d97b43fb72afd5d",
+  "edition": 1814,
+  "date": 1689536302116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

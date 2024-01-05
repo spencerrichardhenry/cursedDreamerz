@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9413",
+  "description": "Sharks",
+  "image": "/9413.png",
+  "dna": "14da2c853439799561fd2de6ac6b99ecfbef4ace",
+  "edition": 9413,
+  "date": 1689536493037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

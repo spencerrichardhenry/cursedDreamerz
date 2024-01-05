@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3980",
+  "description": "Sharks",
+  "image": "/3980.png",
+  "dna": "88c6c1df626622f886d335c65122efabdea95685",
+  "edition": 3980,
+  "date": 1689536356919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

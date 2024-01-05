@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2218",
+  "description": "Sharks",
+  "image": "/2218.png",
+  "dna": "7b82451effa53212c89d346cf6ae59a8869e4c9f",
+  "edition": 2218,
+  "date": 1689536312547,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

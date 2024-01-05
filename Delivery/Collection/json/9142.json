@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9142",
+  "description": "Sharks",
+  "image": "/9142.png",
+  "dna": "6a8dd4bbfdd509248224ccaf733632c357348d35",
+  "edition": 9142,
+  "date": 1689536486288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

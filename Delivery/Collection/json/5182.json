@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5182",
+  "description": "Sharks",
+  "image": "/5182.png",
+  "dna": "967148a20800b77f4f39b01c4708ca107a1b3103",
+  "edition": 5182,
+  "date": 1689536387218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4009",
+  "description": "Sharks",
+  "image": "/4009.png",
+  "dna": "aa7776e415978fb41d4b538379ce86946a62d519",
+  "edition": 4009,
+  "date": 1689536357632,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

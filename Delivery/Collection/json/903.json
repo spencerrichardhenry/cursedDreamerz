@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #903",
+  "description": "Sharks",
+  "image": "/903.png",
+  "dna": "b9a29e99ebeb132a1808d44a797de7154329989d",
+  "edition": 903,
+  "date": 1689536277816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #912",
+  "description": "Sharks",
+  "image": "/912.png",
+  "dna": "6a93f77d133babd1149fd47942b6492969e29084",
+  "edition": 912,
+  "date": 1689536278058,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

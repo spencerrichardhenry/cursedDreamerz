@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4482",
+  "description": "Sharks",
+  "image": "/4482.png",
+  "dna": "7fe4be768c960eb1ff72bdd64d1450876cc5e7aa",
+  "edition": 4482,
+  "date": 1689536369671,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

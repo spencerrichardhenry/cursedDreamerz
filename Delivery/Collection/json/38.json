@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #38",
+  "description": "Sharks",
+  "image": "/38.png",
+  "dna": "c306fa2be5205f49b93fc5f85fc6eefbffc2ca2d",
+  "edition": 38,
+  "date": 1689536255476,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

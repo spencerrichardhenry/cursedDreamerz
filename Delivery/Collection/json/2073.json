@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2073",
+  "description": "Sharks",
+  "image": "/2073.png",
+  "dna": "a6d743e2dd9f0a365c93ac5a7f6648d1356f5c5e",
+  "edition": 2073,
+  "date": 1689536308759,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

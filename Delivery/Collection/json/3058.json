@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3058",
+  "description": "Sharks",
+  "image": "/3058.png",
+  "dna": "1b211ca57caaa310e670cb2fe6e830da8d4189e8",
+  "edition": 3058,
+  "date": 1689536333816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

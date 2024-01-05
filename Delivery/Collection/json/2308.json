@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2308",
+  "description": "Sharks",
+  "image": "/2308.png",
+  "dna": "15f73fd29c687e348b1aa8f53588cff09cb900ed",
+  "edition": 2308,
+  "date": 1689536314829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

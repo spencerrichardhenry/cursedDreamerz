@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4619",
+  "description": "Sharks",
+  "image": "/4619.png",
+  "dna": "41e773bcede388d17406bcaf4f6b427e7830f209",
+  "edition": 4619,
+  "date": 1689536373164,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

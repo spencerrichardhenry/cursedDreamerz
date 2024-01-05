@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #269",
+  "description": "Sharks",
+  "image": "/269.png",
+  "dna": "e3016e92acbefa28ad97fb8ee96c6b3f19cd10da",
+  "edition": 269,
+  "date": 1689536261451,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8123",
+  "description": "Sharks",
+  "image": "/8123.png",
+  "dna": "274541ea69a39f3ed4d1ce2aca9ccc365f69bf07",
+  "edition": 8123,
+  "date": 1689536460592,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

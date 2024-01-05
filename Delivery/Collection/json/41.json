@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #41",
+  "description": "Sharks",
+  "image": "/41.png",
+  "dna": "422f5f6b3998614b14098d83a49d8cf302daa563",
+  "edition": 41,
+  "date": 1689536255577,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

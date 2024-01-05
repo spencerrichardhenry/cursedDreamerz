@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1618",
+  "description": "Sharks",
+  "image": "/1618.png",
+  "dna": "52c36e19934f92d910d506efc99c9662b60be7db",
+  "edition": 1618,
+  "date": 1689536296773,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

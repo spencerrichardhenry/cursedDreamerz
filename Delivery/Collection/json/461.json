@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #461",
+  "description": "Sharks",
+  "image": "/461.png",
+  "dna": "e8194bcbe4cf1e593f40f23218068539fa7e2d80",
+  "edition": 461,
+  "date": 1689536266348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

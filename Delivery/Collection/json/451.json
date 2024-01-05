@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #451",
+  "description": "Sharks",
+  "image": "/451.png",
+  "dna": "a75528273da710dbf373251611f2bf339b2feff7",
+  "edition": 451,
+  "date": 1689536266093,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

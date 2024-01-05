@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8942",
+  "description": "Sharks",
+  "image": "/8942.png",
+  "dna": "b82a3888b6880452c13b9784670442bed7de7da6",
+  "edition": 8942,
+  "date": 1689536481308,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

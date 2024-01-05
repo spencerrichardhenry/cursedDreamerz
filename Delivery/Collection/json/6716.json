@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6716",
+  "description": "Sharks",
+  "image": "/6716.png",
+  "dna": "c92852ed96bb7b059cee25f1357a120d69653a74",
+  "edition": 6716,
+  "date": 1689536425518,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

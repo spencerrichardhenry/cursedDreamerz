@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #270",
+  "description": "Sharks",
+  "image": "/270.png",
+  "dna": "6cf06f1b2a2adbbf988bbef28b7adfc72beccb5a",
+  "edition": 270,
+  "date": 1689536261475,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

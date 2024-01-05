@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4164",
+  "description": "Sharks",
+  "image": "/4164.png",
+  "dna": "b2d2f42a0895211ac54b6c366ea68f6a8def8b0c",
+  "edition": 4164,
+  "date": 1689536361489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

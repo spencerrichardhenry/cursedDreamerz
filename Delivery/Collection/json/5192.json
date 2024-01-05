@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5192",
+  "description": "Sharks",
+  "image": "/5192.png",
+  "dna": "bcb739ef1e5717ce6b42b51803e4cc1e31d34a1c",
+  "edition": 5192,
+  "date": 1689536387472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

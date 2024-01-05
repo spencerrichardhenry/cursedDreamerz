@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4770",
+  "description": "Sharks",
+  "image": "/4770.png",
+  "dna": "dd43b75c78fce67bf2b100b7dae88b10fc67f156",
+  "edition": 4770,
+  "date": 1689536376901,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

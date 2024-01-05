@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2451",
+  "description": "Sharks",
+  "image": "/2451.png",
+  "dna": "36724312907b74957f353e06f6d6d97c5b61cf7d",
+  "edition": 2451,
+  "date": 1689536318437,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

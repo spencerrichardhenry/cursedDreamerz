@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #138",
+  "description": "Sharks",
+  "image": "/138.png",
+  "dna": "7333725ebba27a1a7566c0bb544d2ab5525f24ca",
+  "edition": 138,
+  "date": 1689536258017,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

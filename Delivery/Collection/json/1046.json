@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1046",
+  "description": "Sharks",
+  "image": "/1046.png",
+  "dna": "2b4bc96373341dfe99e4105dd11f25ac269c2590",
+  "edition": 1046,
+  "date": 1689536281644,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

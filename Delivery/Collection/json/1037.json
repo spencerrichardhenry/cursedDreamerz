@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1037",
+  "description": "Sharks",
+  "image": "/1037.png",
+  "dna": "d4654fa733d983d5d80733de4de8f358a4328915",
+  "edition": 1037,
+  "date": 1689536281402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

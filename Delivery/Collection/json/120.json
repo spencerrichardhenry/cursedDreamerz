@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #120",
+  "description": "Sharks",
+  "image": "/120.png",
+  "dna": "8454c913eaf826e24ef207b2407addfeb65bead4",
+  "edition": 120,
+  "date": 1689536257559,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

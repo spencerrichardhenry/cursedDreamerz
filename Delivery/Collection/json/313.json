@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #313",
+  "description": "Sharks",
+  "image": "/313.png",
+  "dna": "7a1d93d0ae99923d7ae2ce06ba9ddfe47e3b0bb4",
+  "edition": 313,
+  "date": 1689536262573,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

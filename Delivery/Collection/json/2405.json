@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2405",
+  "description": "Sharks",
+  "image": "/2405.png",
+  "dna": "6ed7d0a93a73809cd21117e092fc4d55d88b7fdd",
+  "edition": 2405,
+  "date": 1689536317295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

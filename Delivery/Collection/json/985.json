@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #985",
+  "description": "Sharks",
+  "image": "/985.png",
+  "dna": "95f0cfd84cf25d0ed4df33a64fce09eb23bf1979",
+  "edition": 985,
+  "date": 1689536279953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8140",
+  "description": "Sharks",
+  "image": "/8140.png",
+  "dna": "2844ef8334d4d6cbd122f26f3119534cd2fa4d69",
+  "edition": 8140,
+  "date": 1689536461023,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

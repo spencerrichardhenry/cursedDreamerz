@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2918",
+  "description": "Sharks",
+  "image": "/2918.png",
+  "dna": "1b61b47e6f24991b858d602e133c7eec2c11522f",
+  "edition": 2918,
+  "date": 1689536330248,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

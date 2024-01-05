@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8508",
+  "description": "Sharks",
+  "image": "/8508.png",
+  "dna": "db28c29b5a2c57077e1863f0c4d4847f453e820c",
+  "edition": 8508,
+  "date": 1689536470322,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9083",
+  "description": "Sharks",
+  "image": "/9083.png",
+  "dna": "36726f1e43c70d98559b2b77f3b23681ebe3d516",
+  "edition": 9083,
+  "date": 1689536484828,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

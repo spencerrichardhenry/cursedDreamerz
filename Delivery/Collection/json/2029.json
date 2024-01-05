@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2029",
+  "description": "Sharks",
+  "image": "/2029.png",
+  "dna": "59a0cd5e07f9ff5e6f3e19a05eebe162bc54fbbf",
+  "edition": 2029,
+  "date": 1689536307653,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

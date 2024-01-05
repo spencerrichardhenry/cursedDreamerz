@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2121",
+  "description": "Sharks",
+  "image": "/2121.png",
+  "dna": "ebe55471a704f3c6a58269e2187d19efd88c072e",
+  "edition": 2121,
+  "date": 1689536310012,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

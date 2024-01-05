@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6400",
+  "description": "Sharks",
+  "image": "/6400.png",
+  "dna": "cff9504b6963a9771297a2dd0208947517ae96e2",
+  "edition": 6400,
+  "date": 1689536417606,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

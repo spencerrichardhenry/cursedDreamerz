@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4888",
+  "description": "Sharks",
+  "image": "/4888.png",
+  "dna": "e0b4b314a98f189e19d7adc88f0fb35fe01c8ae3",
+  "edition": 4888,
+  "date": 1689536379893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

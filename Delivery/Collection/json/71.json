@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #71",
+  "description": "Sharks",
+  "image": "/71.png",
+  "dna": "acf630abb86a5e44eff8cc0ea6c9792114e1cba1",
+  "edition": 71,
+  "date": 1689536256334,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

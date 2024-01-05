@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #74",
+  "description": "Sharks",
+  "image": "/74.png",
+  "dna": "cdada02b2ee693f7d9a8729b6483093f30816fa2",
+  "edition": 74,
+  "date": 1689536256406,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

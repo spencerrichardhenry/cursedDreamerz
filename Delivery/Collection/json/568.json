@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #568",
+  "description": "Sharks",
+  "image": "/568.png",
+  "dna": "010ea38dceeef9207ed60190b1e46fa6870bd5e0",
+  "edition": 568,
+  "date": 1689536269030,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

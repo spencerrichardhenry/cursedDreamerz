@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8122",
+  "description": "Sharks",
+  "image": "/8122.png",
+  "dna": "29ab81628dff9d6f0a19b8136519ab8f3a7c5f37",
+  "edition": 8122,
+  "date": 1689536460565,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #97",
+  "description": "Sharks",
+  "image": "/97.png",
+  "dna": "fdb58a293f2472efe6fae3e3805fc8b34ba97a68",
+  "edition": 97,
+  "date": 1689536256990,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

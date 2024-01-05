@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1200",
+  "description": "Sharks",
+  "image": "/1200.png",
+  "dna": "9dbbed2cd969c0b672a214f4fb003d0832f1e126",
+  "edition": 1200,
+  "date": 1689536285650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

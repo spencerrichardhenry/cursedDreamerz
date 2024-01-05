@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6189",
+  "description": "Sharks",
+  "image": "/6189.png",
+  "dna": "2701e2598257fb134e20f6b7251f823213f667fe",
+  "edition": 6189,
+  "date": 1689536412380,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

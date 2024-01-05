@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3",
+  "description": "Sharks",
+  "image": "/3.png",
+  "dna": "6dc2f4d72c6eedb925ec3afd7edcef2ba93ea6c9",
+  "edition": 3,
+  "date": 1689536254523,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

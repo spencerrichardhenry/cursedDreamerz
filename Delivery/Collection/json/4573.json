@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4573",
+  "description": "Sharks",
+  "image": "/4573.png",
+  "dna": "9d9fc76704c9237f6b8c52cc22a90724e8963218",
+  "edition": 4573,
+  "date": 1689536372041,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

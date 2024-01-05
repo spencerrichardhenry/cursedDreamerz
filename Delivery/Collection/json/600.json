@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #600",
+  "description": "Sharks",
+  "image": "/600.png",
+  "dna": "878c4869310e477a333bfd230685d2fcc6db5af2",
+  "edition": 600,
+  "date": 1689536269827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

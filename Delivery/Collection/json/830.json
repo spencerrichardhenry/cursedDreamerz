@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #830",
+  "description": "Sharks",
+  "image": "/830.png",
+  "dna": "6ecafae182cb6b39a624b469df25f04d530a2139",
+  "edition": 830,
+  "date": 1689536275924,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1353",
+  "description": "Sharks",
+  "image": "/1353.png",
+  "dna": "1ee6e059c1bef1d4bcc3c87184c7b3fb951dce14",
+  "edition": 1353,
+  "date": 1689536289694,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

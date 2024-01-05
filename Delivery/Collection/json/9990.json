@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9990",
+  "description": "Sharks",
+  "image": "/9990.png",
+  "dna": "cbdb29454f7ebbd269603f845be8a3ba9feae8c6",
+  "edition": 9990,
+  "date": 1689536507738,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

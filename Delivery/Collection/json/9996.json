@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9996",
+  "description": "Sharks",
+  "image": "/9996.png",
+  "dna": "8f2fb5968499af196df98b98047c3fb807aa058a",
+  "edition": 9996,
+  "date": 1689536507894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2874",
+  "description": "Sharks",
+  "image": "/2874.png",
+  "dna": "778c5333b6557fda88050d8e69fa0165dad92db0",
+  "edition": 2874,
+  "date": 1689536329145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

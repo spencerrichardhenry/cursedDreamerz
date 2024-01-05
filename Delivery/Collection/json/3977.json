@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3977",
+  "description": "Sharks",
+  "image": "/3977.png",
+  "dna": "b595ee53d8dc805e0ce975e6ac1a20cab7690269",
+  "edition": 3977,
+  "date": 1689536356847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

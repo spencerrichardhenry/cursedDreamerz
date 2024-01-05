@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5518",
+  "description": "Sharks",
+  "image": "/5518.png",
+  "dna": "93b828e5594c4a99dab5f84da7d2d89177ed17eb",
+  "edition": 5518,
+  "date": 1689536395634,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

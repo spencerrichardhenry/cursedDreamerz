@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #779",
+  "description": "Sharks",
+  "image": "/779.png",
+  "dna": "11ffffaee0484a76df385a8668cee15651887c2b",
+  "edition": 779,
+  "date": 1689536274604,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

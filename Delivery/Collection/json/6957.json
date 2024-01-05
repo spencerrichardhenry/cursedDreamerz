@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6957",
+  "description": "Sharks",
+  "image": "/6957.png",
+  "dna": "e922e1069a625aad99b54ae92e3537686017a32a",
+  "edition": 6957,
+  "date": 1689536431484,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

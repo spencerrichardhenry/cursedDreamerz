@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4017",
+  "description": "Sharks",
+  "image": "/4017.png",
+  "dna": "eb9a10732e503ae8b60c3588cee0c22ba78e63c2",
+  "edition": 4017,
+  "date": 1689536357837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #773",
+  "description": "Sharks",
+  "image": "/773.png",
+  "dna": "0cccbd971f638ec2cdcdfc198b4c2776f03f58f4",
+  "edition": 773,
+  "date": 1689536274454,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

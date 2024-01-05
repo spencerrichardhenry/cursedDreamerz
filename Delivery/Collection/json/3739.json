@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3739",
+  "description": "Sharks",
+  "image": "/3739.png",
+  "dna": "ed7a647b89aa4774b2a01f0df0149fc592f227ba",
+  "edition": 3739,
+  "date": 1689536350955,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

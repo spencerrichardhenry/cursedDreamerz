@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8091",
+  "description": "Sharks",
+  "image": "/8091.png",
+  "dna": "a52a1ff8144bd7b0e407dfeeae97025e3ebf16ce",
+  "edition": 8091,
+  "date": 1689536459786,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

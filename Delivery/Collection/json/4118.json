@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4118",
+  "description": "Sharks",
+  "image": "/4118.png",
+  "dna": "4e403a414f15fe5322f04bc5dc0cd9b1289bdd08",
+  "edition": 4118,
+  "date": 1689536360341,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

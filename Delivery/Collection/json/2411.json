@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2411",
+  "description": "Sharks",
+  "image": "/2411.png",
+  "dna": "1b035e0143b2e2be11e874558a4e1a49a81fe68a",
+  "edition": 2411,
+  "date": 1689536317448,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

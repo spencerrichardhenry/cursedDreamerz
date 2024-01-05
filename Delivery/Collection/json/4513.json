@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4513",
+  "description": "Sharks",
+  "image": "/4513.png",
+  "dna": "039f8e7ddde6332fbf87182c7ebe7959a51ece80",
+  "edition": 4513,
+  "date": 1689536370446,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2546",
+  "description": "Sharks",
+  "image": "/2546.png",
+  "dna": "ea82fa8d29b314ab87d3505144cf8beca19bfc9b",
+  "edition": 2546,
+  "date": 1689536320847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

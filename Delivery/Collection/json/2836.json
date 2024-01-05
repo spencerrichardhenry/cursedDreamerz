@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2836",
+  "description": "Sharks",
+  "image": "/2836.png",
+  "dna": "720f78c04de3bfa6830924bfa7cd67c053f79db9",
+  "edition": 2836,
+  "date": 1689536328194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

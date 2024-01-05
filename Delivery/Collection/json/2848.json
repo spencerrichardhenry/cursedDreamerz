@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2848",
+  "description": "Sharks",
+  "image": "/2848.png",
+  "dna": "afdf1c2a58b02692dc44fb4a2fd64600152017bb",
+  "edition": 2848,
+  "date": 1689536328504,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

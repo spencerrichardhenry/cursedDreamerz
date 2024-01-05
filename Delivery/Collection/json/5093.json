@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5093",
+  "description": "Sharks",
+  "image": "/5093.png",
+  "dna": "4e3248377c4e1d312b9bfe55b3b018b1cc589f82",
+  "edition": 5093,
+  "date": 1689536384985,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

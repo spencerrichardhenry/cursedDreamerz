@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9449",
+  "description": "Sharks",
+  "image": "/9449.png",
+  "dna": "b0e5830f2f28bc0d2036c15904197ac8ab6e2569",
+  "edition": 9449,
+  "date": 1689536493920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

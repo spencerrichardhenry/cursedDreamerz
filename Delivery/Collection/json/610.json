@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #610",
+  "description": "Sharks",
+  "image": "/610.png",
+  "dna": "74c21efd6dc31a1f05b911967a343682ce20955d",
+  "edition": 610,
+  "date": 1689536270077,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4098",
+  "description": "Sharks",
+  "image": "/4098.png",
+  "dna": "79a744f0fd595b78ce7688b344f4aa4df4f2402e",
+  "edition": 4098,
+  "date": 1689536359849,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7701",
+  "description": "Sharks",
+  "image": "/7701.png",
+  "dna": "855064191ffb2a9fba82759d0959ec455ad0b061",
+  "edition": 7701,
+  "date": 1689536450044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

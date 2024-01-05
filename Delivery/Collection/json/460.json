@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #460",
+  "description": "Sharks",
+  "image": "/460.png",
+  "dna": "29ba1e36b747fddaca7e74db634e89b2e7d23d35",
+  "edition": 460,
+  "date": 1689536266325,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

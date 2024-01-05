@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4327",
+  "description": "Sharks",
+  "image": "/4327.png",
+  "dna": "3873c3a4d22fc657e5e5f1542b3a18806e61cad2",
+  "edition": 4327,
+  "date": 1689536365638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

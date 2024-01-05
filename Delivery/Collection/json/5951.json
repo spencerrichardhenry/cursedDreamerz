@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5951",
+  "description": "Sharks",
+  "image": "/5951.png",
+  "dna": "7da5e27cf7264bc8184e5074b65cd4c6486f3d95",
+  "edition": 5951,
+  "date": 1689536406383,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2400",
+  "description": "Sharks",
+  "image": "/2400.png",
+  "dna": "00776f3164e8a1e8b94337eef00a70b888962c39",
+  "edition": 2400,
+  "date": 1689536317162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

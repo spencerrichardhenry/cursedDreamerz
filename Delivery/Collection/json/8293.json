@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8293",
+  "description": "Sharks",
+  "image": "/8293.png",
+  "dna": "7be482598fc60f4430c9a59d6334384f1cc1919b",
+  "edition": 8293,
+  "date": 1689536464814,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

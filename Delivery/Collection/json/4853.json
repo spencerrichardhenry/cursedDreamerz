@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4853",
+  "description": "Sharks",
+  "image": "/4853.png",
+  "dna": "f84578e2417a9137645e5097cbb7085fd9698e32",
+  "edition": 4853,
+  "date": 1689536378999,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

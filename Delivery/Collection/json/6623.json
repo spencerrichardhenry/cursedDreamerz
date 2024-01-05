@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6623",
+  "description": "Sharks",
+  "image": "/6623.png",
+  "dna": "1f0b1b5115647d6d723a598ae6374ce9c76e86ff",
+  "edition": 6623,
+  "date": 1689536423167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

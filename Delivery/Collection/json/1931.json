@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1931",
+  "description": "Sharks",
+  "image": "/1931.png",
+  "dna": "8eca6ac9ca2a76c85d1545152558b5b213906275",
+  "edition": 1931,
+  "date": 1689536305139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

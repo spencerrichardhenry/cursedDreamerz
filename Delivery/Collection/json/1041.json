@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1041",
+  "description": "Sharks",
+  "image": "/1041.png",
+  "dna": "ffeb1880dc37735dfed17482650712535327ccc0",
+  "edition": 1041,
+  "date": 1689536281515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

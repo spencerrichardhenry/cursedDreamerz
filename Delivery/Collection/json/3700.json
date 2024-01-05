@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3700",
+  "description": "Sharks",
+  "image": "/3700.png",
+  "dna": "9a3c26f3e7ce5ab1155260e9b3312ac41de633d1",
+  "edition": 3700,
+  "date": 1689536349971,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

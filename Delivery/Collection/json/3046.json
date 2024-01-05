@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3046",
+  "description": "Sharks",
+  "image": "/3046.png",
+  "dna": "33c63cabbc4135a0915b838ad99e4f5ec1018d58",
+  "edition": 3046,
+  "date": 1689536333508,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2052",
+  "description": "Sharks",
+  "image": "/2052.png",
+  "dna": "9e566bfca810b99bbfd38f2cfc6240717355f6ec",
+  "edition": 2052,
+  "date": 1689536308241,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

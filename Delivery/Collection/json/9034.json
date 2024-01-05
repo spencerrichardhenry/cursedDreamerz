@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9034",
+  "description": "Sharks",
+  "image": "/9034.png",
+  "dna": "a5cfea16cc0b5f43e12052c81502211a4b5380f5",
+  "edition": 9034,
+  "date": 1689536483586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

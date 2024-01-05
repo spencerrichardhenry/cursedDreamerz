@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #167",
+  "description": "Sharks",
+  "image": "/167.png",
+  "dna": "4a1ee1b21d0d0816e63f161aa5566231da3a07eb",
+  "edition": 167,
+  "date": 1689536258795,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

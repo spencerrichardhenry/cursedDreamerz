@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1987",
+  "description": "Sharks",
+  "image": "/1987.png",
+  "dna": "0526c0ac219948165b94528b042103830262721f",
+  "edition": 1987,
+  "date": 1689536306591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

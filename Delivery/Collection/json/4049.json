@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4049",
+  "description": "Sharks",
+  "image": "/4049.png",
+  "dna": "d43e428afa8a85fed65a28c04a4fcb53ec5a2ede",
+  "edition": 4049,
+  "date": 1689536358645,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

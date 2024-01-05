@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6713",
+  "description": "Sharks",
+  "image": "/6713.png",
+  "dna": "1b539ddc909bdb561acc43665b22f5f877599298",
+  "edition": 6713,
+  "date": 1689536425444,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

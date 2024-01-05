@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4472",
+  "description": "Sharks",
+  "image": "/4472.png",
+  "dna": "cc6efa4f233ece4e3db9854d80a0bc0857757dae",
+  "edition": 4472,
+  "date": 1689536369411,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

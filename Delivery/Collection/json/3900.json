@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3900",
+  "description": "Sharks",
+  "image": "/3900.png",
+  "dna": "1ba699c52bbad6a52a5485b13146326a95ae04ea",
+  "edition": 3900,
+  "date": 1689536354941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

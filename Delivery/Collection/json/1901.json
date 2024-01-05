@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1901",
+  "description": "Sharks",
+  "image": "/1901.png",
+  "dna": "0d13a1b266a6a2048c78075cb48a696868db58ae",
+  "edition": 1901,
+  "date": 1689536304357,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

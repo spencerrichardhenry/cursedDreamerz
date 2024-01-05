@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3261",
+  "description": "Sharks",
+  "image": "/3261.png",
+  "dna": "3ae5c338d9666989c98f62f03df2ec507e5a5a9f",
+  "edition": 3261,
+  "date": 1689536339028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

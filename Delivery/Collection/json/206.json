@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #206",
+  "description": "Sharks",
+  "image": "/206.png",
+  "dna": "a86bd3072fc544ced25886760b51c0726351a75a",
+  "edition": 206,
+  "date": 1689536259828,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

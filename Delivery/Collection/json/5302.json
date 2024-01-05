@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5302",
+  "description": "Sharks",
+  "image": "/5302.png",
+  "dna": "21609d8021e1a9a2a07f66ba2f9df12a7377c5f5",
+  "edition": 5302,
+  "date": 1689536390213,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

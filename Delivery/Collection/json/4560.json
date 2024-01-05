@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4560",
+  "description": "Sharks",
+  "image": "/4560.png",
+  "dna": "3f266c02495395884b2444ef822da269a64752db",
+  "edition": 4560,
+  "date": 1689536371729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

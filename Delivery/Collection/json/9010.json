@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9010",
+  "description": "Sharks",
+  "image": "/9010.png",
+  "dna": "10ee73fa9c917b6756e3fb53dbffe5943b2a4760",
+  "edition": 9010,
+  "date": 1689536482989,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

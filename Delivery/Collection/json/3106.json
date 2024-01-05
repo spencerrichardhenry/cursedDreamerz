@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3106",
+  "description": "Sharks",
+  "image": "/3106.png",
+  "dna": "152f65f8a7f8c15c31091f315a1e66951bfd5d24",
+  "edition": 3106,
+  "date": 1689536335109,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

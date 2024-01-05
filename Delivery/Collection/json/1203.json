@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1203",
+  "description": "Sharks",
+  "image": "/1203.png",
+  "dna": "eed4d11291a72dc0d31a030585391a2c98b4bb19",
+  "edition": 1203,
+  "date": 1689536285720,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

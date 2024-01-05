@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8087",
+  "description": "Sharks",
+  "image": "/8087.png",
+  "dna": "a1ccfa29f669cd1fee61b4d5fb23e4482e47e909",
+  "edition": 8087,
+  "date": 1689536459688,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

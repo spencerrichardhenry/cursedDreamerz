@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5611",
+  "description": "Sharks",
+  "image": "/5611.png",
+  "dna": "829099ec1725d61e9884a93313174608bc3405e2",
+  "edition": 5611,
+  "date": 1689536397946,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

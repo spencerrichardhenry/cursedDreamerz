@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4232",
+  "description": "Sharks",
+  "image": "/4232.png",
+  "dna": "79b3201afe2c0dbd74ac25bc1bf8fbca0b3b326b",
+  "edition": 4232,
+  "date": 1689536363175,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

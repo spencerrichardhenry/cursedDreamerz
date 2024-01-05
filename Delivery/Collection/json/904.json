@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #904",
+  "description": "Sharks",
+  "image": "/904.png",
+  "dna": "d264c21af844f62aff4922a469310167411175c4",
+  "edition": 904,
+  "date": 1689536277839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

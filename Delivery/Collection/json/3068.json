@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3068",
+  "description": "Sharks",
+  "image": "/3068.png",
+  "dna": "c238f5311ada1b17de78bac976a8a6a0695ac52a",
+  "edition": 3068,
+  "date": 1689536334074,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

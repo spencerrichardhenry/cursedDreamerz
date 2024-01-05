@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8155",
+  "description": "Sharks",
+  "image": "/8155.png",
+  "dna": "2b1dd3fa47c057ec56b99c6186cfa4b77ab9b9f7",
+  "edition": 8155,
+  "date": 1689536461402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

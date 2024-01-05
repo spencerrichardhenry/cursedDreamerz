@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3927",
+  "description": "Sharks",
+  "image": "/3927.png",
+  "dna": "a5dd7a9d979cd414696bda09f9935cc01b7aef66",
+  "edition": 3927,
+  "date": 1689536355608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

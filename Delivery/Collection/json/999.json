@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #999",
+  "description": "Sharks",
+  "image": "/999.png",
+  "dna": "eebc6f51959d1ddf0c58459111d4e45f61c5da84",
+  "edition": 999,
+  "date": 1689536280386,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

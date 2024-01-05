@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #814",
+  "description": "Sharks",
+  "image": "/814.png",
+  "dna": "91ef17ff1ae21701797d1d9699105ad36b29b008",
+  "edition": 814,
+  "date": 1689536275515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

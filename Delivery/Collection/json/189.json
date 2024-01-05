@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #189",
+  "description": "Sharks",
+  "image": "/189.png",
+  "dna": "2d9ee38601b97b3289f7a354a6f3939e39f6c711",
+  "edition": 189,
+  "date": 1689536259398,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

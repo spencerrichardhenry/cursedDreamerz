@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2005",
+  "description": "Sharks",
+  "image": "/2005.png",
+  "dna": "69eaedf1f1c0146dea4d76cf92b5ac8b261ece43",
+  "edition": 2005,
+  "date": 1689536307048,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

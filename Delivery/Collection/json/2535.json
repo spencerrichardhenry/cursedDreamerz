@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2535",
+  "description": "Sharks",
+  "image": "/2535.png",
+  "dna": "3503a82e91756bdb7df6c26fd138f268f389aba5",
+  "edition": 2535,
+  "date": 1689536320575,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

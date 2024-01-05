@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #188",
+  "description": "Sharks",
+  "image": "/188.png",
+  "dna": "c8cc2cd94ad36ed3b192f2639e8abac51b7ea857",
+  "edition": 188,
+  "date": 1689536259374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

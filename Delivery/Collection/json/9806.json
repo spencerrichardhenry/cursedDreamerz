@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9806",
+  "description": "Sharks",
+  "image": "/9806.png",
+  "dna": "e5b5f41556e475644426997d4003f77a5a7bc000",
+  "edition": 9806,
+  "date": 1689536503021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

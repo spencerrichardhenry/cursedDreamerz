@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4117",
+  "description": "Sharks",
+  "image": "/4117.png",
+  "dna": "55eb951fd32ed3ac87faa4dd3f35234e391bfda2",
+  "edition": 4117,
+  "date": 1689536360317,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

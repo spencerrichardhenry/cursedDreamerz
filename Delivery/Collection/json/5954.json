@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5954",
+  "description": "Sharks",
+  "image": "/5954.png",
+  "dna": "b91a451090873267b14483d83bbc0f9ac490b6a2",
+  "edition": 5954,
+  "date": 1689536406455,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #398",
+  "description": "Sharks",
+  "image": "/398.png",
+  "dna": "d9a334f2942972d49d3c53cb8f675783b5f4b553",
+  "edition": 398,
+  "date": 1689536264743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

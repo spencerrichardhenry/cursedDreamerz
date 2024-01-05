@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9912",
+  "description": "Sharks",
+  "image": "/9912.png",
+  "dna": "1faefb7aecbe57630123fe6f1b1125dee7a8df28",
+  "edition": 9912,
+  "date": 1689536505753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

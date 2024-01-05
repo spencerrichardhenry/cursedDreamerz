@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3123",
+  "description": "Sharks",
+  "image": "/3123.png",
+  "dna": "56616bbeb276fed716b1db122d9c0f1d9957e148",
+  "edition": 3123,
+  "date": 1689536335536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

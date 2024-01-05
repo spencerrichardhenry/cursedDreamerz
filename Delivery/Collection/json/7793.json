@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7793",
+  "description": "Sharks",
+  "image": "/7793.png",
+  "dna": "ae15f17254de2989871471afc08e171471dccc4c",
+  "edition": 7793,
+  "date": 1689536452338,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

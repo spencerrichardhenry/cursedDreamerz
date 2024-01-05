@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1992",
+  "description": "Sharks",
+  "image": "/1992.png",
+  "dna": "af50998d0fd8de683e3f7af23ef287254d24337d",
+  "edition": 1992,
+  "date": 1689536306729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

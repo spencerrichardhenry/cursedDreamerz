@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3948",
+  "description": "Sharks",
+  "image": "/3948.png",
+  "dna": "a4e639b35f0ca1ef6a03e44812cf38460d2f7357",
+  "edition": 3948,
+  "date": 1689536356123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

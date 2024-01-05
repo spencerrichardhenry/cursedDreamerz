@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6264",
+  "description": "Sharks",
+  "image": "/6264.png",
+  "dna": "7d9519ee94a33c2b9fca750275f5bc357b004928",
+  "edition": 6264,
+  "date": 1689536414245,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

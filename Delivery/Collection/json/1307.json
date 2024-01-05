@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1307",
+  "description": "Sharks",
+  "image": "/1307.png",
+  "dna": "b2b2ebf026570a7c665e10e734ea0fa7adbb9c61",
+  "edition": 1307,
+  "date": 1689536288439,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

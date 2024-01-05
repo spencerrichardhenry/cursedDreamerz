@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6445",
+  "description": "Sharks",
+  "image": "/6445.png",
+  "dna": "21566e3682aa4511de029b9d0281b63d24eea1f0",
+  "edition": 6445,
+  "date": 1689536418732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

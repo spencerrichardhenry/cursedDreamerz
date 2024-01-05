@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4014",
+  "description": "Sharks",
+  "image": "/4014.png",
+  "dna": "5030059b8ea2d9ec3ce7eff67ae92078400d2bb5",
+  "edition": 4014,
+  "date": 1689536357761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

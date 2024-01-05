@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7066",
+  "description": "Sharks",
+  "image": "/7066.png",
+  "dna": "58e5a635616f6f0bcb5fb1111d2f032f7fec8d16",
+  "edition": 7066,
+  "date": 1689536434197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

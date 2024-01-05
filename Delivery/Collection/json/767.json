@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #767",
+  "description": "Sharks",
+  "image": "/767.png",
+  "dna": "f55739c9aa0542124afc228d6bafaf9c23be9d77",
+  "edition": 767,
+  "date": 1689536274294,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

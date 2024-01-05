@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1082",
+  "description": "Sharks",
+  "image": "/1082.png",
+  "dna": "3aff2fb968dd3f45de193e0698ff35d9267781f2",
+  "edition": 1082,
+  "date": 1689536282680,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

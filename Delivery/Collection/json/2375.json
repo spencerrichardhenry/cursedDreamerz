@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2375",
+  "description": "Sharks",
+  "image": "/2375.png",
+  "dna": "0e40e6d24a5536d8457e8019ead9890de7d43e70",
+  "edition": 2375,
+  "date": 1689536316507,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

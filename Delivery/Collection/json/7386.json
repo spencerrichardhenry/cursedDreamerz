@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7386",
+  "description": "Sharks",
+  "image": "/7386.png",
+  "dna": "1261993c0662671a71f4834ce633eefac130ae80",
+  "edition": 7386,
+  "date": 1689536442198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

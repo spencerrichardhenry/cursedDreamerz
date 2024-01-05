@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2759",
+  "description": "Sharks",
+  "image": "/2759.png",
+  "dna": "e7945088925dceb1f55667b33d137845236a60a4",
+  "edition": 2759,
+  "date": 1689536326240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

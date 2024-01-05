@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3717",
+  "description": "Sharks",
+  "image": "/3717.png",
+  "dna": "4244bed4cb2bda09c968a61c62b2ae2e3767f330",
+  "edition": 3717,
+  "date": 1689536350392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

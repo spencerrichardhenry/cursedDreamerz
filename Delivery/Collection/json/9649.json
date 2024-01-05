@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9649",
+  "description": "Sharks",
+  "image": "/9649.png",
+  "dna": "c9b8f0f16bc792fd1a3d147b8a3c5a7f38c0d942",
+  "edition": 9649,
+  "date": 1689536498978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

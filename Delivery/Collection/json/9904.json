@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9904",
+  "description": "Sharks",
+  "image": "/9904.png",
+  "dna": "c3492ba37cc95f529e163d59bd0584b3b31fcf0d",
+  "edition": 9904,
+  "date": 1689536505548,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

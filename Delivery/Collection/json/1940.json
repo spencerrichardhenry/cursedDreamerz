@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1940",
+  "description": "Sharks",
+  "image": "/1940.png",
+  "dna": "6fc7f97065378184aa67b31d679f611897d1d983",
+  "edition": 1940,
+  "date": 1689536305357,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

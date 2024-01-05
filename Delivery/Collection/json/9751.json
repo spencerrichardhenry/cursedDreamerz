@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9751",
+  "description": "Sharks",
+  "image": "/9751.png",
+  "dna": "86caaab3a5ca5bfcc2d1eebb4cfa06d35f4f1a5b",
+  "edition": 9751,
+  "date": 1689536501650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

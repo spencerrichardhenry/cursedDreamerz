@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #878",
+  "description": "Sharks",
+  "image": "/878.png",
+  "dna": "352976905d59b6f832920623c448cc8d786fad89",
+  "edition": 878,
+  "date": 1689536277185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

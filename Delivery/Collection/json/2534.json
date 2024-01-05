@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2534",
+  "description": "Sharks",
+  "image": "/2534.png",
+  "dna": "b94eb74592b3bbad82f1efc7353f6f8b779faeb7",
+  "edition": 2534,
+  "date": 1689536320551,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

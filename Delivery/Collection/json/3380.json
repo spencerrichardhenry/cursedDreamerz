@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3380",
+  "description": "Sharks",
+  "image": "/3380.png",
+  "dna": "2ae78149f049f084b63b1383fbe17eec93afbb2d",
+  "edition": 3380,
+  "date": 1689536341977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

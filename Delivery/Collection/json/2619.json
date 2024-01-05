@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2619",
+  "description": "Sharks",
+  "image": "/2619.png",
+  "dna": "61811cff59180705093fade96f9baa4bb5d26556",
+  "edition": 2619,
+  "date": 1689536322712,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

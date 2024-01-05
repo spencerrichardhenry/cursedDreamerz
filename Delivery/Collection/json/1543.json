@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1543",
+  "description": "Sharks",
+  "image": "/1543.png",
+  "dna": "2135377f095ed3bff4d66965de0dafdf8484e461",
+  "edition": 1543,
+  "date": 1689536294779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

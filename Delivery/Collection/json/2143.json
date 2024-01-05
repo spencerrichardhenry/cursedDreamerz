@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2143",
+  "description": "Sharks",
+  "image": "/2143.png",
+  "dna": "064c71cf0145f8f1fbdfb6c0196fa1132f17a447",
+  "edition": 2143,
+  "date": 1689536310625,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

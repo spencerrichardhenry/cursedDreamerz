@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6049",
+  "description": "Sharks",
+  "image": "/6049.png",
+  "dna": "b7fc3078624f1402744c4276e7ab565c5623f628",
+  "edition": 6049,
+  "date": 1689536408833,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

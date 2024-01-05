@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #804",
+  "description": "Sharks",
+  "image": "/804.png",
+  "dna": "b0d0c1bd8ef8eaf8495eeace127cd89218182951",
+  "edition": 804,
+  "date": 1689536275255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

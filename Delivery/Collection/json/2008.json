@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2008",
+  "description": "Sharks",
+  "image": "/2008.png",
+  "dna": "2226c792de44b9f3eb8a86eb34d41e6cce935149",
+  "edition": 2008,
+  "date": 1689536307123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

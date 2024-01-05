@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3821",
+  "description": "Sharks",
+  "image": "/3821.png",
+  "dna": "c593216b1a1a7f16077861e4e090ec226a95e405",
+  "edition": 3821,
+  "date": 1689536352985,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

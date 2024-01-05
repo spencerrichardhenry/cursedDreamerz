@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9446",
+  "description": "Sharks",
+  "image": "/9446.png",
+  "dna": "b047331c44ef042ceea0ddcaa8f4937cb5841ad3",
+  "edition": 9446,
+  "date": 1689536493850,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

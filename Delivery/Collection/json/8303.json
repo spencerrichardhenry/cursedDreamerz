@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8303",
+  "description": "Sharks",
+  "image": "/8303.png",
+  "dna": "745c8e82d650783b6a016f42bc1390500a07f859",
+  "edition": 8303,
+  "date": 1689536465070,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4354",
+  "description": "Sharks",
+  "image": "/4354.png",
+  "dna": "60e10cb8bd2e3dda588f7b5d1dc6a51f873de2a6",
+  "edition": 4354,
+  "date": 1689536366333,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

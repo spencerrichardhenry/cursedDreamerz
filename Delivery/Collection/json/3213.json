@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3213",
+  "description": "Sharks",
+  "image": "/3213.png",
+  "dna": "030ec47bae692cce0a19b71b90f694ca7b702f78",
+  "edition": 3213,
+  "date": 1689536337826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

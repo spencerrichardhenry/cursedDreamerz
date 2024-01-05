@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4900",
+  "description": "Sharks",
+  "image": "/4900.png",
+  "dna": "80c4f5c6da536c1284c23b9721070d12ae4b22f6",
+  "edition": 4900,
+  "date": 1689536380183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

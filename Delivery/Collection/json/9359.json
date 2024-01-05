@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9359",
+  "description": "Sharks",
+  "image": "/9359.png",
+  "dna": "dacf5af5455e0478618daeba51cbac0685070c4c",
+  "edition": 9359,
+  "date": 1689536491719,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

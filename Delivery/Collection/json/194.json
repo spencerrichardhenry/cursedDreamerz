@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #194",
+  "description": "Sharks",
+  "image": "/194.png",
+  "dna": "074bbb77cd15899fc6fcc95bf5483d4bb1376dba",
+  "edition": 194,
+  "date": 1689536259524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

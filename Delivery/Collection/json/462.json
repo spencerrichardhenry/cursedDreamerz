@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #462",
+  "description": "Sharks",
+  "image": "/462.png",
+  "dna": "0b35dbf80dbfa7a6c88d4efd0a1365ea7a270f6e",
+  "edition": 462,
+  "date": 1689536266371,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

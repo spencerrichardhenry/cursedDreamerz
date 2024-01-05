@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6563",
+  "description": "Sharks",
+  "image": "/6563.png",
+  "dna": "f77598e25cf8d546feb23dae5c4f2898e92791cf",
+  "edition": 6563,
+  "date": 1689536421678,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

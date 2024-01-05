@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2211",
+  "description": "Sharks",
+  "image": "/2211.png",
+  "dna": "9615d16d95d7a8bea153f542a295226ac3e1a82e",
+  "edition": 2211,
+  "date": 1689536312375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

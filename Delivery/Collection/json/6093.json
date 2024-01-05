@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6093",
+  "description": "Sharks",
+  "image": "/6093.png",
+  "dna": "d25e27b138d2b602aa261b7fe91c759c00741ea6",
+  "edition": 6093,
+  "date": 1689536409917,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

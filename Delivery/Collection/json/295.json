@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #295",
+  "description": "Sharks",
+  "image": "/295.png",
+  "dna": "2004d1a592abf455044acbab14543a5c260b91bf",
+  "edition": 295,
+  "date": 1689536262112,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

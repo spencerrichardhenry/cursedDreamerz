@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8829",
+  "description": "Sharks",
+  "image": "/8829.png",
+  "dna": "b73055c85fced68184270d0def4c2556b3c4f3e5",
+  "edition": 8829,
+  "date": 1689536478459,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

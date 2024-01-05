@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2281",
+  "description": "Sharks",
+  "image": "/2281.png",
+  "dna": "f104b5962b6721ae0dd2588dfeab70299e1345ae",
+  "edition": 2281,
+  "date": 1689536314148,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

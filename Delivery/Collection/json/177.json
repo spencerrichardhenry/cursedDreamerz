@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #177",
+  "description": "Sharks",
+  "image": "/177.png",
+  "dna": "db56175f4f5a450937e91fb1592776240c776f3d",
+  "edition": 177,
+  "date": 1689536259070,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

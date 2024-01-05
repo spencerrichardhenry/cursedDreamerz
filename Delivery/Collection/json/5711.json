@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5711",
+  "description": "Sharks",
+  "image": "/5711.png",
+  "dna": "6323a7f46ab0871e80011f702ab5c88e5f68aaab",
+  "edition": 5711,
+  "date": 1689536400460,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

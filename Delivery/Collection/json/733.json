@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #733",
+  "description": "Sharks",
+  "image": "/733.png",
+  "dna": "6c9cb62ff51cdd94da8f3e7216a83fa53860d064",
+  "edition": 733,
+  "date": 1689536273303,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

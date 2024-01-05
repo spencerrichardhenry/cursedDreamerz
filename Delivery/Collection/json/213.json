@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #213",
+  "description": "Sharks",
+  "image": "/213.png",
+  "dna": "e3a92fcfae1184a5f8c9ffd7aeb97f14637b81ae",
+  "edition": 213,
+  "date": 1689536260002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

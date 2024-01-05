@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2",
+  "description": "Sharks",
+  "image": "/2.png",
+  "dna": "d8f7eedf772838549d33251417251f9f67d53c7c",
+  "edition": 2,
+  "date": 1689536254499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

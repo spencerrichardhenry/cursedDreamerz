@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7109",
+  "description": "Sharks",
+  "image": "/7109.png",
+  "dna": "16b78e35a568f05d312ffb68ea4623456ac725cc",
+  "edition": 7109,
+  "date": 1689536435272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

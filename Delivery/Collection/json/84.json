@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #84",
+  "description": "Sharks",
+  "image": "/84.png",
+  "dna": "e3964ee19d6da42422b5266b4cd2cf079d6207ac",
+  "edition": 84,
+  "date": 1689536256658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

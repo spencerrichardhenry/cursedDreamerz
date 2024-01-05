@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9347",
+  "description": "Sharks",
+  "image": "/9347.png",
+  "dna": "72f252582748be3208b0ae6210bb76dbd07b25fe",
+  "edition": 9347,
+  "date": 1689536491403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1715",
+  "description": "Sharks",
+  "image": "/1715.png",
+  "dna": "53d0bce14c1a27903227ba69083796fc244d4d0e",
+  "edition": 1715,
+  "date": 1689536299449,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

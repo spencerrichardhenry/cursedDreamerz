@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2555",
+  "description": "Sharks",
+  "image": "/2555.png",
+  "dna": "3ec187ca0ac99d0de924ccba9549a8e6df149a3b",
+  "edition": 2555,
+  "date": 1689536321081,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

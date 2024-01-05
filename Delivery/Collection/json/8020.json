@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8020",
+  "description": "Sharks",
+  "image": "/8020.png",
+  "dna": "ead1203866112a0aea32b481f3f00f3149b7b9a5",
+  "edition": 8020,
+  "date": 1689536457980,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

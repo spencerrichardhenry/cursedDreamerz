@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6548",
+  "description": "Sharks",
+  "image": "/6548.png",
+  "dna": "d580e2b14485fc43c78b3cf439221298d1dbe2db",
+  "edition": 6548,
+  "date": 1689536421300,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

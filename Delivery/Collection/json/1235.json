@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1235",
+  "description": "Sharks",
+  "image": "/1235.png",
+  "dna": "a96d46cc6fc8ae0c12380598b8e53ff54b35bce2",
+  "edition": 1235,
+  "date": 1689536286575,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

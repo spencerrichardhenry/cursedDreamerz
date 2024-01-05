@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2460",
+  "description": "Sharks",
+  "image": "/2460.png",
+  "dna": "104203b59d3f04dcc92dd135bd20cd0f79b6876b",
+  "edition": 2460,
+  "date": 1689536318661,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

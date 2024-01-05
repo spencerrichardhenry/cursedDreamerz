@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9243",
+  "description": "Sharks",
+  "image": "/9243.png",
+  "dna": "171335c25e7d51e1592f023d26e6cbb6cfb7f72b",
+  "edition": 9243,
+  "date": 1689536488796,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

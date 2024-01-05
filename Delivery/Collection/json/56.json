@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #56",
+  "description": "Sharks",
+  "image": "/56.png",
+  "dna": "0c768d215b905a621d6ec6c0cfd5385838eb0a95",
+  "edition": 56,
+  "date": 1689536255966,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

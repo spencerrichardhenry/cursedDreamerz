@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8026",
+  "description": "Sharks",
+  "image": "/8026.png",
+  "dna": "8e20b1b43f8589fce6d6564cea0bf5b22949ada9",
+  "edition": 8026,
+  "date": 1689536458127,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

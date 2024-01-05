@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #147",
+  "description": "Sharks",
+  "image": "/147.png",
+  "dna": "578091b974e637dbd30e4bd17a3358a1340d3e1c",
+  "edition": 147,
+  "date": 1689536258272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

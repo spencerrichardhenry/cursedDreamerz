@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #579",
+  "description": "Sharks",
+  "image": "/579.png",
+  "dna": "a2bd9719dd2457be1af4875c1c1abafc9ac4772b",
+  "edition": 579,
+  "date": 1689536269295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

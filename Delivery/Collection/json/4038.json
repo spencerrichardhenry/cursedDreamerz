@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4038",
+  "description": "Sharks",
+  "image": "/4038.png",
+  "dna": "a5d073df0cdf822d1561784c06a3c27c8b5b98d5",
+  "edition": 4038,
+  "date": 1689536358355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

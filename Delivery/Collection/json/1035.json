@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1035",
+  "description": "Sharks",
+  "image": "/1035.png",
+  "dna": "8ab5786548e4d8b556d27889ab0a65479559359d",
+  "edition": 1035,
+  "date": 1689536281350,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

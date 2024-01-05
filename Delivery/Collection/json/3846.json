@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3846",
+  "description": "Sharks",
+  "image": "/3846.png",
+  "dna": "12e49196543458822d4085cf14bd74b182d8b226",
+  "edition": 3846,
+  "date": 1689536353595,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

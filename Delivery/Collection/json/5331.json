@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5331",
+  "description": "Sharks",
+  "image": "/5331.png",
+  "dna": "ea6d4aabe96ddcd974b9946fef7295815a71be73",
+  "edition": 5331,
+  "date": 1689536390932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

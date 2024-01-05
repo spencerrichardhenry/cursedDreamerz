@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1521",
+  "description": "Sharks",
+  "image": "/1521.png",
+  "dna": "5c7a36f501b378dd81b71a0f90aeb7addb880de5",
+  "edition": 1521,
+  "date": 1689536294212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

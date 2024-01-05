@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1812",
+  "description": "Sharks",
+  "image": "/1812.png",
+  "dna": "3e4dfbc922f6038a7462694a8f622efeed2a965d",
+  "edition": 1812,
+  "date": 1689536302065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

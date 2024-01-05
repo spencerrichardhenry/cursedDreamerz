@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4008",
+  "description": "Sharks",
+  "image": "/4008.png",
+  "dna": "1f41e380374bdbbd83a2e12c8c964a551063a2ea",
+  "edition": 4008,
+  "date": 1689536357608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

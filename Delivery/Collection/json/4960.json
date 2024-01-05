@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4960",
+  "description": "Sharks",
+  "image": "/4960.png",
+  "dna": "5ed742144b5033067ecd6da7107fba2330e0c02c",
+  "edition": 4960,
+  "date": 1689536381671,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

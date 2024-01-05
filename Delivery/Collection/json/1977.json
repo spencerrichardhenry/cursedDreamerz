@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1977",
+  "description": "Sharks",
+  "image": "/1977.png",
+  "dna": "7380bac772b7e3c9b27d21e6d6e93f9a090d6d6a",
+  "edition": 1977,
+  "date": 1689536306327,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

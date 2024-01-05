@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6388",
+  "description": "Sharks",
+  "image": "/6388.png",
+  "dna": "bb576dec71cdc62ea0a2d6a48943f93759047155",
+  "edition": 6388,
+  "date": 1689536417305,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

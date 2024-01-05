@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #302",
+  "description": "Sharks",
+  "image": "/302.png",
+  "dna": "d6f957490f4a468113a659acc3d270f6254c2abd",
+  "edition": 302,
+  "date": 1689536262288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

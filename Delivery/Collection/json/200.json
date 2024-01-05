@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #200",
+  "description": "Sharks",
+  "image": "/200.png",
+  "dna": "1d439f558e4191b0f1ef742d192d89021998d705",
+  "edition": 200,
+  "date": 1689536259667,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #150",
+  "description": "Sharks",
+  "image": "/150.png",
+  "dna": "c173c8403b57bfefc8d93324626b5e0d439bb726",
+  "edition": 150,
+  "date": 1689536258352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

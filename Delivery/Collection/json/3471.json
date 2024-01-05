@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3471",
+  "description": "Sharks",
+  "image": "/3471.png",
+  "dna": "c041eaf097ed02dcca724970d9f3168f5d87bbab",
+  "edition": 3471,
+  "date": 1689536344197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

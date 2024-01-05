@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2429",
+  "description": "Sharks",
+  "image": "/2429.png",
+  "dna": "8d9b8c515507a613a42470ca3ec4c8f0a768bcc4",
+  "edition": 2429,
+  "date": 1689536317888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

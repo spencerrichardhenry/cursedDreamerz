@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #365",
+  "description": "Sharks",
+  "image": "/365.png",
+  "dna": "164ba21f32d8e4b2e496972e546c7d08fbea0c56",
+  "edition": 365,
+  "date": 1689536263923,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

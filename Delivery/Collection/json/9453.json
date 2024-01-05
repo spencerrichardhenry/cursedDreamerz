@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9453",
+  "description": "Sharks",
+  "image": "/9453.png",
+  "dna": "0de18d395017ff3e12d415eec2a20cc9049f5678",
+  "edition": 9453,
+  "date": 1689536494022,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

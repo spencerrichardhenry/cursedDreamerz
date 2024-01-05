@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2455",
+  "description": "Sharks",
+  "image": "/2455.png",
+  "dna": "de369359805c306a1a2a3a202b791793e1f63f7f",
+  "edition": 2455,
+  "date": 1689536318539,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

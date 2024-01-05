@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1883",
+  "description": "Sharks",
+  "image": "/1883.png",
+  "dna": "fe451cdd6380fe4bb5fd42c7863d8d9f0c211341",
+  "edition": 1883,
+  "date": 1689536303912,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

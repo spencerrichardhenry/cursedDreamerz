@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #79",
+  "description": "Sharks",
+  "image": "/79.png",
+  "dna": "5bce478ad7a3c9158697a445614fd0b1a7250744",
+  "edition": 79,
+  "date": 1689536256533,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

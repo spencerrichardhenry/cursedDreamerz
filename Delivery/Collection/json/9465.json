@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9465",
+  "description": "Sharks",
+  "image": "/9465.png",
+  "dna": "62013355d1b72bd438b7915f776b45dc54a2ab87",
+  "edition": 9465,
+  "date": 1689536494312,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

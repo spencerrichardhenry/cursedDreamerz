@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6090",
+  "description": "Sharks",
+  "image": "/6090.png",
+  "dna": "11edbcc8a10d631b10044c6a5c4fb6b3665034d5",
+  "edition": 6090,
+  "date": 1689536409846,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

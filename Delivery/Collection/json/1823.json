@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1823",
+  "description": "Sharks",
+  "image": "/1823.png",
+  "dna": "ea36d866f00dd8d3294ef225954e8375b8b24044",
+  "edition": 1823,
+  "date": 1689536302349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

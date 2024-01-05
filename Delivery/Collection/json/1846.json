@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1846",
+  "description": "Sharks",
+  "image": "/1846.png",
+  "dna": "8eb835006a7c56883f21dc7557061d2a5b247623",
+  "edition": 1846,
+  "date": 1689536302949,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

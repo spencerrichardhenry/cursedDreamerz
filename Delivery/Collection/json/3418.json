@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3418",
+  "description": "Sharks",
+  "image": "/3418.png",
+  "dna": "f93467f1cb5c417a4935ae4b3c59f72ef4f762ef",
+  "edition": 3418,
+  "date": 1689536342896,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

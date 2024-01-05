@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8017",
+  "description": "Sharks",
+  "image": "/8017.png",
+  "dna": "5c7faf349dce0e105dfc725d20ce907abc7fe316",
+  "edition": 8017,
+  "date": 1689536457908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

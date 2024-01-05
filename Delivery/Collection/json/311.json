@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #311",
+  "description": "Sharks",
+  "image": "/311.png",
+  "dna": "15a637f1bab1c147a513c708bf291840ea31c132",
+  "edition": 311,
+  "date": 1689536262517,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

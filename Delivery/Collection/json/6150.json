@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6150",
+  "description": "Sharks",
+  "image": "/6150.png",
+  "dna": "ab7c243631ac2e51d5093f015dfd080fc95dc73d",
+  "edition": 6150,
+  "date": 1689536411355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

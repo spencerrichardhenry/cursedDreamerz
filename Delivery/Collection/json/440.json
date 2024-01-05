@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #440",
+  "description": "Sharks",
+  "image": "/440.png",
+  "dna": "f209e42978c94f777509b75de0ac508e8ee1696c",
+  "edition": 440,
+  "date": 1689536265799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

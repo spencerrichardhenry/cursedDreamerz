@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2319",
+  "description": "Sharks",
+  "image": "/2319.png",
+  "dna": "6f7fde47d0a279a08a9c468fc21f60937ddab5fc",
+  "edition": 2319,
+  "date": 1689536315110,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

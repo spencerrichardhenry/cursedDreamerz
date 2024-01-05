@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4022",
+  "description": "Sharks",
+  "image": "/4022.png",
+  "dna": "d70d8a25f8cfbd3e2da5b58b4bd6fa03d57cd3e3",
+  "edition": 4022,
+  "date": 1689536357960,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

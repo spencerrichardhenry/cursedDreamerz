@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1974",
+  "description": "Sharks",
+  "image": "/1974.png",
+  "dna": "69525a1faa2a80366d425159096a2b853d2fe29a",
+  "edition": 1974,
+  "date": 1689536306253,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

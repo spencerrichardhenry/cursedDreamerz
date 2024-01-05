@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1817",
+  "description": "Sharks",
+  "image": "/1817.png",
+  "dna": "a0a9a4b536b99589a735d7b8b62f7aca3ee345e5",
+  "edition": 1817,
+  "date": 1689536302195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #516",
+  "description": "Sharks",
+  "image": "/516.png",
+  "dna": "c8e186fc8442fd3bcfbce089ecf9166c524c2e7e",
+  "edition": 516,
+  "date": 1689536267718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

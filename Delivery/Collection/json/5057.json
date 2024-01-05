@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5057",
+  "description": "Sharks",
+  "image": "/5057.png",
+  "dna": "8d695977d3468c83cc1a9f5451551598183c5704",
+  "edition": 5057,
+  "date": 1689536384092,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

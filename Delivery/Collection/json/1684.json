@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1684",
+  "description": "Sharks",
+  "image": "/1684.png",
+  "dna": "e6b3145c84dad7c2b634dd2d84155e4ad2e07783",
+  "edition": 1684,
+  "date": 1689536298542,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

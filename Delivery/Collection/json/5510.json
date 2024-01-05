@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5510",
+  "description": "Sharks",
+  "image": "/5510.png",
+  "dna": "df530bbfd5a11c261622f478f7036bf13ac57e60",
+  "edition": 5510,
+  "date": 1689536395438,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

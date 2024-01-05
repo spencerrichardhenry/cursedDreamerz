@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #118",
+  "description": "Sharks",
+  "image": "/118.png",
+  "dna": "7164db751dd5661f95f22e5853221120f18271b2",
+  "edition": 118,
+  "date": 1689536257513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9906",
+  "description": "Sharks",
+  "image": "/9906.png",
+  "dna": "b67732a3de41e6359c568896c7736818b039f86c",
+  "edition": 9906,
+  "date": 1689536505599,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

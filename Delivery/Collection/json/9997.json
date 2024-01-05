@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9997",
+  "description": "Sharks",
+  "image": "/9997.png",
+  "dna": "3ad1ddb82fb14c667d613016e6caa393ffda47af",
+  "edition": 9997,
+  "date": 1689536507932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

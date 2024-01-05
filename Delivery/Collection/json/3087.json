@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3087",
+  "description": "Sharks",
+  "image": "/3087.png",
+  "dna": "961a9f9d8e7ed1ba9114f621db6dbc8be22264dc",
+  "edition": 3087,
+  "date": 1689536334585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

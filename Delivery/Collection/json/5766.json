@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5766",
+  "description": "Sharks",
+  "image": "/5766.png",
+  "dna": "9b5988177b5ad9a3b2b55d5317de43b39eec8f77",
+  "edition": 5766,
+  "date": 1689536401811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

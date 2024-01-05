@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #133",
+  "description": "Sharks",
+  "image": "/133.png",
+  "dna": "ca4596ab800b803437eeeb9abb966e72623aa026",
+  "edition": 133,
+  "date": 1689536257885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

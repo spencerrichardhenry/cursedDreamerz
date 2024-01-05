@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5010",
+  "description": "Sharks",
+  "image": "/5010.png",
+  "dna": "a206cceb776f99cb89e628fa9d965de6f91d5a96",
+  "edition": 5010,
+  "date": 1689536382934,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

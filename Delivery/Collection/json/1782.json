@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1782",
+  "description": "Sharks",
+  "image": "/1782.png",
+  "dna": "c86a1755f9c6554953cb5ce1b7b2ce840c1f9e4b",
+  "edition": 1782,
+  "date": 1689536301282,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #92",
+  "description": "Sharks",
+  "image": "/92.png",
+  "dna": "c33266057089ce99e75411649cafe05348f85d3b",
+  "edition": 92,
+  "date": 1689536256868,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

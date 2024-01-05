@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1500",
+  "description": "Sharks",
+  "image": "/1500.png",
+  "dna": "2f32693b72bc62b572b522d0791a5f75f8bd212b",
+  "edition": 1500,
+  "date": 1689536293644,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

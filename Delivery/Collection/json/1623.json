@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1623",
+  "description": "Sharks",
+  "image": "/1623.png",
+  "dna": "3d19e5b455de74d4155c30ba88b0c7f2f4bf0705",
+  "edition": 1623,
+  "date": 1689536296894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

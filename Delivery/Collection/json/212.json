@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #212",
+  "description": "Sharks",
+  "image": "/212.png",
+  "dna": "33cf9d972424f54bc6e1ce265f8c31757edbe954",
+  "edition": 212,
+  "date": 1689536259979,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

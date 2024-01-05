@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3111",
+  "description": "Sharks",
+  "image": "/3111.png",
+  "dna": "c2cc27a7b7a9097464fdce30df12a81bd08ddc00",
+  "edition": 3111,
+  "date": 1689536335240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

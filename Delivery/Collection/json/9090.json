@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9090",
+  "description": "Sharks",
+  "image": "/9090.png",
+  "dna": "e81e9831b6d8c5dd906f1b35d9a249a79ff9f356",
+  "edition": 9090,
+  "date": 1689536484998,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

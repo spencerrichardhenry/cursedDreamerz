@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3424",
+  "description": "Sharks",
+  "image": "/3424.png",
+  "dna": "a30ffac533e0525e3d44d635f151bc937c43103d",
+  "edition": 3424,
+  "date": 1689536343040,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

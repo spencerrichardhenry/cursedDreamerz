@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5950",
+  "description": "Sharks",
+  "image": "/5950.png",
+  "dna": "1a63f3c9a1b73767825e48abb49f6d1c795048e6",
+  "edition": 5950,
+  "date": 1689536406360,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9308",
+  "description": "Sharks",
+  "image": "/9308.png",
+  "dna": "419e359bc58cbc63f377555db3965c7372820f45",
+  "edition": 9308,
+  "date": 1689536490415,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

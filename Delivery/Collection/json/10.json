@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #10",
+  "description": "Sharks",
+  "image": "/10.png",
+  "dna": "3a3ad38c8e21dcf7548426a7cc1d4000dae27dbf",
+  "edition": 10,
+  "date": 1689536254708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

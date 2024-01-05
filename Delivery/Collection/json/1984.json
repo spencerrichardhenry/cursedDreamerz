@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1984",
+  "description": "Sharks",
+  "image": "/1984.png",
+  "dna": "30f0354c08b89397fa3900addf24de4be5806198",
+  "edition": 1984,
+  "date": 1689536306513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

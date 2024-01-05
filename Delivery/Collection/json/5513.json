@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5513",
+  "description": "Sharks",
+  "image": "/5513.png",
+  "dna": "48527fabd584cdb368f7956732ce6307b393cca7",
+  "edition": 5513,
+  "date": 1689536395517,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

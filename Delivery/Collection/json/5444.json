@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5444",
+  "description": "Sharks",
+  "image": "/5444.png",
+  "dna": "85f775b38e7bbe6104668574a452eb6b8a7aadff",
+  "edition": 5444,
+  "date": 1689536393783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

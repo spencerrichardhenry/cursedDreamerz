@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5134",
+  "description": "Sharks",
+  "image": "/5134.png",
+  "dna": "ca701ea463864b5ea264c614e5f5fc97bb2179d6",
+  "edition": 5134,
+  "date": 1689536386008,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

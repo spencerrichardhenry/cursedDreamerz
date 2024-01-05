@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5878",
+  "description": "Sharks",
+  "image": "/5878.png",
+  "dna": "7dc5c281c69a0dc48e8ba36a05ddd5ec44a35cdf",
+  "edition": 5878,
+  "date": 1689536404554,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

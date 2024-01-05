@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #275",
+  "description": "Sharks",
+  "image": "/275.png",
+  "dna": "67b7481deb1c76dc7fcbcb9920278e0e9a0f6d1a",
+  "edition": 275,
+  "date": 1689536261604,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

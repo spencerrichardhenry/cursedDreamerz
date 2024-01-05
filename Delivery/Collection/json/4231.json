@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4231",
+  "description": "Sharks",
+  "image": "/4231.png",
+  "dna": "ae91ae45737829a5af0acc64fc0f0583200bb4b1",
+  "edition": 4231,
+  "date": 1689536363150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

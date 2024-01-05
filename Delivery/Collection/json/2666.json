@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2666",
+  "description": "Sharks",
+  "image": "/2666.png",
+  "dna": "4c1a0455540d85d5d3ab09faf31d9f1f58e7030e",
+  "edition": 2666,
+  "date": 1689536323908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

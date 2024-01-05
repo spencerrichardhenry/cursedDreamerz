@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8351",
+  "description": "Sharks",
+  "image": "/8351.png",
+  "dna": "e37d1f2543ee7fa36fa42dea2acf93ab83c6babf",
+  "edition": 8351,
+  "date": 1689536466380,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

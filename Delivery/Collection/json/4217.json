@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4217",
+  "description": "Sharks",
+  "image": "/4217.png",
+  "dna": "a2b65cdfb42d435fd40ba7c1e59e76e819e751f9",
+  "edition": 4217,
+  "date": 1689536362798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

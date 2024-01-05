@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8254",
+  "description": "Sharks",
+  "image": "/8254.png",
+  "dna": "87ac8d71dc9adda5d00970a15f0eb7d2a0f200df",
+  "edition": 8254,
+  "date": 1689536463858,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

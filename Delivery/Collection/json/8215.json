@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8215",
+  "description": "Sharks",
+  "image": "/8215.png",
+  "dna": "a7d5ab02cb9357aba5a8ced9b3fced195a38feb9",
+  "edition": 8215,
+  "date": 1689536462870,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

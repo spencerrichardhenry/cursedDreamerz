@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2910",
+  "description": "Sharks",
+  "image": "/2910.png",
+  "dna": "f09291d48094698e36190aa9239ca296dc2d0032",
+  "edition": 2910,
+  "date": 1689536330044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

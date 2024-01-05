@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #115",
+  "description": "Sharks",
+  "image": "/115.png",
+  "dna": "a5b59c22ebba4383d5c3870bd30ef900d0b7ca6e",
+  "edition": 115,
+  "date": 1689536257430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

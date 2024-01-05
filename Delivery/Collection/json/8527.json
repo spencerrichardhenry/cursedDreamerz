@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8527",
+  "description": "Sharks",
+  "image": "/8527.png",
+  "dna": "0b6ab92a3e618e008b278aaa734989c7a6421e62",
+  "edition": 8527,
+  "date": 1689536470808,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

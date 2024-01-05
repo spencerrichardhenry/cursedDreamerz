@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2882",
+  "description": "Sharks",
+  "image": "/2882.png",
+  "dna": "d816611fced2d2119576e0b08915846f190218d0",
+  "edition": 2882,
+  "date": 1689536329347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1851",
+  "description": "Sharks",
+  "image": "/1851.png",
+  "dna": "17e92bfcb572d03312722958b9e448f3a7f2cc74",
+  "edition": 1851,
+  "date": 1689536303074,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

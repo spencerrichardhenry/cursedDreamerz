@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6836",
+  "description": "Sharks",
+  "image": "/6836.png",
+  "dna": "b2fd6511e1765bd10efbe4a8cd631731c8bdb2f1",
+  "edition": 6836,
+  "date": 1689536428499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

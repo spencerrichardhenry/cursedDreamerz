@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2200",
+  "description": "Sharks",
+  "image": "/2200.png",
+  "dna": "ae5e39871ddbcc89c1c9b77beac11af2c2e8dca6",
+  "edition": 2200,
+  "date": 1689536312094,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

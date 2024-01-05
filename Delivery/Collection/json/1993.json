@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1993",
+  "description": "Sharks",
+  "image": "/1993.png",
+  "dna": "683a437a602a407ad2f419c7ab744e9dc2dcff16",
+  "edition": 1993,
+  "date": 1689536306754,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

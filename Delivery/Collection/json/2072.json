@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2072",
+  "description": "Sharks",
+  "image": "/2072.png",
+  "dna": "68113d7269a1516387008895093b03636f03180c",
+  "edition": 2072,
+  "date": 1689536308732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

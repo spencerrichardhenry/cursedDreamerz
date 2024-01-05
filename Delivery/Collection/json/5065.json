@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5065",
+  "description": "Sharks",
+  "image": "/5065.png",
+  "dna": "2c1799a85d9ffa1c7636853d0551ed6949c4673d",
+  "edition": 5065,
+  "date": 1689536384286,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

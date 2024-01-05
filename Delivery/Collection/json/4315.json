@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4315",
+  "description": "Sharks",
+  "image": "/4315.png",
+  "dna": "8d592466f61b27f82c5ff2c8488e3aa6d65adce8",
+  "edition": 4315,
+  "date": 1689536365332,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

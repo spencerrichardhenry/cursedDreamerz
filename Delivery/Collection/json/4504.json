@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4504",
+  "description": "Sharks",
+  "image": "/4504.png",
+  "dna": "a2c1e6bd72e2dbad57baad3e5fb8e06f4ff8ba1b",
+  "edition": 4504,
+  "date": 1689536370231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

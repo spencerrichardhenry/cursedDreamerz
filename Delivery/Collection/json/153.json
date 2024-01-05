@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #153",
+  "description": "Sharks",
+  "image": "/153.png",
+  "dna": "7e54eca1412c626b92269fca3e201eba0407c62b",
+  "edition": 153,
+  "date": 1689536258429,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

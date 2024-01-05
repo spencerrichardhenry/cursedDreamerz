@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2778",
+  "description": "Sharks",
+  "image": "/2778.png",
+  "dna": "0ef49e706d13447f0b9cb447a6094bbcec26227a",
+  "edition": 2778,
+  "date": 1689536326715,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

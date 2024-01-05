@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2032",
+  "description": "Sharks",
+  "image": "/2032.png",
+  "dna": "05de72da780fa2ce4915d693cde70184f31afd2b",
+  "edition": 2032,
+  "date": 1689536307724,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

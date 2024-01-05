@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4537",
+  "description": "Sharks",
+  "image": "/4537.png",
+  "dna": "5cf25be5f87b3e8f2228848282768f64a22d4d21",
+  "edition": 4537,
+  "date": 1689536371033,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

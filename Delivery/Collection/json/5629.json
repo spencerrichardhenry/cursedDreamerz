@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5629",
+  "description": "Sharks",
+  "image": "/5629.png",
+  "dna": "ec760b58edc2d69ccc24e94357913b504648aa4c",
+  "edition": 5629,
+  "date": 1689536398388,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

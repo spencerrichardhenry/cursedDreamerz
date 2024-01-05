@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #87",
+  "description": "Sharks",
+  "image": "/87.png",
+  "dna": "a812332349940bd42dd4d57b31df95a45755ed9c",
+  "edition": 87,
+  "date": 1689536256731,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

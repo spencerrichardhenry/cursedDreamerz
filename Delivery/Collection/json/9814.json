@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9814",
+  "description": "Sharks",
+  "image": "/9814.png",
+  "dna": "7293758cd1cab3ca6020a60d9096a1825f801d99",
+  "edition": 9814,
+  "date": 1689536503218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

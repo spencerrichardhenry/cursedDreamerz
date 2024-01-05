@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3190",
+  "description": "Sharks",
+  "image": "/3190.png",
+  "dna": "d017c982618403628b1e9d8ab75d53b5b9e9ebf6",
+  "edition": 3190,
+  "date": 1689536337243,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #159",
+  "description": "Sharks",
+  "image": "/159.png",
+  "dna": "291b526297498893f1f737c54568b798b6c4f5f7",
+  "edition": 159,
+  "date": 1689536258598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

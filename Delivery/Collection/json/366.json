@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #366",
+  "description": "Sharks",
+  "image": "/366.png",
+  "dna": "66c370c31ccfc8b83963fb31ba9fc21fcbd5e1a4",
+  "edition": 366,
+  "date": 1689536263952,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

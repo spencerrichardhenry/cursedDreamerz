@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5234",
+  "description": "Sharks",
+  "image": "/5234.png",
+  "dna": "dc08f43850154eae771e44d58447cc8ac8b084dc",
+  "edition": 5234,
+  "date": 1689536388504,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #40",
+  "description": "Sharks",
+  "image": "/40.png",
+  "dna": "45afcaee6aaf01ebbc590f6cd350813323f60683",
+  "edition": 40,
+  "date": 1689536255534,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

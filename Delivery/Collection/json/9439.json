@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9439",
+  "description": "Sharks",
+  "image": "/9439.png",
+  "dna": "2b1e8bf781ea682243560f701d52e4dc2dbb2eba",
+  "edition": 9439,
+  "date": 1689536493668,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

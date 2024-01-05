@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1524",
+  "description": "Sharks",
+  "image": "/1524.png",
+  "dna": "add48c26c99b28c1831dea4d8699baf664b757f1",
+  "edition": 1524,
+  "date": 1689536294285,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

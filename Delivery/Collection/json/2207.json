@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2207",
+  "description": "Sharks",
+  "image": "/2207.png",
+  "dna": "fdd032712b95988e359520055c3d550280b33e90",
+  "edition": 2207,
+  "date": 1689536312279,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

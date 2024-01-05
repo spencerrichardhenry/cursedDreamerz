@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8518",
+  "description": "Sharks",
+  "image": "/8518.png",
+  "dna": "6c99e675abe03f0fc387ca83bafa77ccf3f02bff",
+  "edition": 8518,
+  "date": 1689536470584,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

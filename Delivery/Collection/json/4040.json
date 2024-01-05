@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4040",
+  "description": "Sharks",
+  "image": "/4040.png",
+  "dna": "438d9ed09174f5b31ff901bdff301935e555b297",
+  "edition": 4040,
+  "date": 1689536358408,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

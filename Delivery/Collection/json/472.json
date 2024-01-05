@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #472",
+  "description": "Sharks",
+  "image": "/472.png",
+  "dna": "9406865cd8ccc72dd40ab4b71363a6e972fa4ebb",
+  "edition": 472,
+  "date": 1689536266625,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

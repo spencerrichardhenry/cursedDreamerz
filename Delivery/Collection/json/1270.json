@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1270",
+  "description": "Sharks",
+  "image": "/1270.png",
+  "dna": "f39b58d28cc5e0d7443eee48c83fa6caa6929eee",
+  "edition": 1270,
+  "date": 1689536287507,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

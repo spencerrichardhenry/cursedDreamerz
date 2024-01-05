@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2453",
+  "description": "Sharks",
+  "image": "/2453.png",
+  "dna": "1598911d0a01700193410dd7a974ac5cd696ffdb",
+  "edition": 2453,
+  "date": 1689536318487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

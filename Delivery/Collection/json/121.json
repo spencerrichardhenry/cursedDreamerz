@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #121",
+  "description": "Sharks",
+  "image": "/121.png",
+  "dna": "59e1e28f913deb520027a174d94257d0c25295f1",
+  "edition": 121,
+  "date": 1689536257582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

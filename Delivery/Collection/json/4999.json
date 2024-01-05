@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4999",
+  "description": "Sharks",
+  "image": "/4999.png",
+  "dna": "fd63f63b4fbd6b7c1bdfc25d1c401409ce62de36",
+  "edition": 4999,
+  "date": 1689536382646,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

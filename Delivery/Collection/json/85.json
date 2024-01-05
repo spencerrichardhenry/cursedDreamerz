@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #85",
+  "description": "Sharks",
+  "image": "/85.png",
+  "dna": "571ff3aa0ac9788ffbdfa343182606d08f0b93e1",
+  "edition": 85,
+  "date": 1689536256682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

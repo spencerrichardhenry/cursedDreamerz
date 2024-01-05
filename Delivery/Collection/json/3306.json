@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3306",
+  "description": "Sharks",
+  "image": "/3306.png",
+  "dna": "8b3b131da31fd095d336240236a02ce8ef1aeec0",
+  "edition": 3306,
+  "date": 1689536340149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

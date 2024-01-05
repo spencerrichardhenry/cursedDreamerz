@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4907",
+  "description": "Sharks",
+  "image": "/4907.png",
+  "dna": "f2065492dc7122f2d0f89e480668040dc93eecdb",
+  "edition": 4907,
+  "date": 1689536380359,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

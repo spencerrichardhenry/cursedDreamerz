@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4032",
+  "description": "Sharks",
+  "image": "/4032.png",
+  "dna": "93598ec84d19d29b43f64e4fd809d0fa59481969",
+  "edition": 4032,
+  "date": 1689536358215,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

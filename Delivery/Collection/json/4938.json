@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4938",
+  "description": "Sharks",
+  "image": "/4938.png",
+  "dna": "5e637c3dd684e4846b4022ad199d271165f9e52b",
+  "edition": 4938,
+  "date": 1689536381136,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

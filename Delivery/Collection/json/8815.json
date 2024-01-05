@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8815",
+  "description": "Sharks",
+  "image": "/8815.png",
+  "dna": "cd17c1f55ecfc4bc454ea9bcef6bb8c561bb2744",
+  "edition": 8815,
+  "date": 1689536478112,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

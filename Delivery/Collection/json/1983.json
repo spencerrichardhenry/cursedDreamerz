@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1983",
+  "description": "Sharks",
+  "image": "/1983.png",
+  "dna": "029a43ffbe5116f4be79a4c1dac2077801ce4bd4",
+  "edition": 1983,
+  "date": 1689536306485,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

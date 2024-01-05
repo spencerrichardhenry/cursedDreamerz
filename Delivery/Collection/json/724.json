@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #724",
+  "description": "Sharks",
+  "image": "/724.png",
+  "dna": "82732b5850df71d4205bdea6c3459f75ba9c6a4e",
+  "edition": 724,
+  "date": 1689536273004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

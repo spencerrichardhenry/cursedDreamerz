@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2769",
+  "description": "Sharks",
+  "image": "/2769.png",
+  "dna": "dbbd88b2216b13d39717957026815a42098b7d4d",
+  "edition": 2769,
+  "date": 1689536326488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

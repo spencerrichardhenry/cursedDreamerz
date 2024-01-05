@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5781",
+  "description": "Sharks",
+  "image": "/5781.png",
+  "dna": "7a146357f99a3c2b9c86d5812dcd7259b71f8566",
+  "edition": 5781,
+  "date": 1689536402183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

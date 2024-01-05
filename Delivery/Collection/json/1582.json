@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1582",
+  "description": "Sharks",
+  "image": "/1582.png",
+  "dna": "7609118f96cde04273a43cddbe3b678fc1bc5651",
+  "edition": 1582,
+  "date": 1689536295832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2523",
+  "description": "Sharks",
+  "image": "/2523.png",
+  "dna": "2c614ccbe9be13d704b3d46d7c9b60c7e965b0fd",
+  "edition": 2523,
+  "date": 1689536320265,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

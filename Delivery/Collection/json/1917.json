@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1917",
+  "description": "Sharks",
+  "image": "/1917.png",
+  "dna": "1267d76ca6871bc3337d7cb32ecb745accea773d",
+  "edition": 1917,
+  "date": 1689536304781,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #854",
+  "description": "Sharks",
+  "image": "/854.png",
+  "dna": "abf7e55dd7a5e4d7b73337b996dfc7848aba98a3",
+  "edition": 854,
+  "date": 1689536276561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

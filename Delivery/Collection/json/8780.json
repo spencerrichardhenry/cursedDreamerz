@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8780",
+  "description": "Sharks",
+  "image": "/8780.png",
+  "dna": "049010279ef6f3defc4bb652c488b4f7b59c5814",
+  "edition": 8780,
+  "date": 1689536477252,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

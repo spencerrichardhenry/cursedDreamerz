@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6506",
+  "description": "Sharks",
+  "image": "/6506.png",
+  "dna": "0886773be272a2722f4bf438d6176da28b04628c",
+  "edition": 6506,
+  "date": 1689536420243,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

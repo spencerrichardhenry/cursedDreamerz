@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2906",
+  "description": "Sharks",
+  "image": "/2906.png",
+  "dna": "c27668037ddc41ea13720c225df2f15e45e82109",
+  "edition": 2906,
+  "date": 1689536329947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

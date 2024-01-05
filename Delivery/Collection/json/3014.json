@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3014",
+  "description": "Sharks",
+  "image": "/3014.png",
+  "dna": "d60e9edbd226837c39cb1000964e8fc0f3de4804",
+  "edition": 3014,
+  "date": 1689536332670,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

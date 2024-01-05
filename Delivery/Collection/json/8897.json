@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8897",
+  "description": "Sharks",
+  "image": "/8897.png",
+  "dna": "5ee47295a485283f510d3abe61f6205944120261",
+  "edition": 8897,
+  "date": 1689536480144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

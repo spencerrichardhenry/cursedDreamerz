@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #775",
+  "description": "Sharks",
+  "image": "/775.png",
+  "dna": "75added09fc2e3651bb2bb2ce1588a1132e5f217",
+  "edition": 775,
+  "date": 1689536274504,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

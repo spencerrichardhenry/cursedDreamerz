@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9511",
+  "description": "Sharks",
+  "image": "/9511.png",
+  "dna": "2f5969990f0a3f8bb64d33e3ce7d60f9a06c8985",
+  "edition": 9511,
+  "date": 1689536495488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

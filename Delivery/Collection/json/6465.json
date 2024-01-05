@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6465",
+  "description": "Sharks",
+  "image": "/6465.png",
+  "dna": "1e6ce92f8e01fef1f69fef282cc9f02d6a2ddffe",
+  "edition": 6465,
+  "date": 1689536419233,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

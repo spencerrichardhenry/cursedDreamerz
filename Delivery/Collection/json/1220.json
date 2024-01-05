@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1220",
+  "description": "Sharks",
+  "image": "/1220.png",
+  "dna": "39956d62e370bad77a214f41b0def5d0a0152155",
+  "edition": 1220,
+  "date": 1689536286170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

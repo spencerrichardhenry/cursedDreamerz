@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #343",
+  "description": "Sharks",
+  "image": "/343.png",
+  "dna": "af915dfe0e251032a1257da4743036a6693ed780",
+  "edition": 343,
+  "date": 1689536263367,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

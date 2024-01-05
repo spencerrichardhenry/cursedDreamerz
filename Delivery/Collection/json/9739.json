@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9739",
+  "description": "Sharks",
+  "image": "/9739.png",
+  "dna": "477ac366a399ddce159702cadca276ac63e4626d",
+  "edition": 9739,
+  "date": 1689536501202,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

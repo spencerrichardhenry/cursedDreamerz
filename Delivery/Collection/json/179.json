@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #179",
+  "description": "Sharks",
+  "image": "/179.png",
+  "dna": "c78759a147366641168f7abf1e296ca18db44838",
+  "edition": 179,
+  "date": 1689536259131,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

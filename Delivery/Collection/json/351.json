@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #351",
+  "description": "Sharks",
+  "image": "/351.png",
+  "dna": "a20a71c125c0e2a6e27e4c12c9cecc280e2f959b",
+  "edition": 351,
+  "date": 1689536263565,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

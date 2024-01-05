@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9211",
+  "description": "Sharks",
+  "image": "/9211.png",
+  "dna": "5eab327c2ea071aa8fff64601c4a61f98b14c9cc",
+  "edition": 9211,
+  "date": 1689536488001,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

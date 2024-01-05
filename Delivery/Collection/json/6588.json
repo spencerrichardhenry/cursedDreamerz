@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6588",
+  "description": "Sharks",
+  "image": "/6588.png",
+  "dna": "9676066d7c4f72ba2b8381595458ad0f04ad1130",
+  "edition": 6588,
+  "date": 1689536422296,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

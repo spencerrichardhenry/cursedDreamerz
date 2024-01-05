@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1348",
+  "description": "Sharks",
+  "image": "/1348.png",
+  "dna": "9f33cc8d32bc49a8def9e8c76d1aaa730a0d67a2",
+  "edition": 1348,
+  "date": 1689536289573,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

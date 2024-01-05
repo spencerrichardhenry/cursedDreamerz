@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #330",
+  "description": "Sharks",
+  "image": "/330.png",
+  "dna": "2c0d5ecd68f9d9b4601f19f728c73b65c1919564",
+  "edition": 330,
+  "date": 1689536263032,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

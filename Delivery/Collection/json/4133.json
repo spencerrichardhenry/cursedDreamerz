@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4133",
+  "description": "Sharks",
+  "image": "/4133.png",
+  "dna": "cdbff58ffba597ee9b9496bbcdb7035b24588d4d",
+  "edition": 4133,
+  "date": 1689536360713,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #67",
+  "description": "Sharks",
+  "image": "/67.png",
+  "dna": "f7fbaf19a618ff1e7d574fb3ceca74378f163f13",
+  "edition": 67,
+  "date": 1689536256238,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

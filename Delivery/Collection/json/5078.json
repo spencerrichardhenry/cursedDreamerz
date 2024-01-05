@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5078",
+  "description": "Sharks",
+  "image": "/5078.png",
+  "dna": "f4b76920eabf71a98b1103a632c00d30a7f673cd",
+  "edition": 5078,
+  "date": 1689536384623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

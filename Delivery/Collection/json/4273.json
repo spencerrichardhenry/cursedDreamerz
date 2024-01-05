@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4273",
+  "description": "Sharks",
+  "image": "/4273.png",
+  "dna": "73f3f3f1d61448b71cb2074c260ca744c4b9a710",
+  "edition": 4273,
+  "date": 1689536364233,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

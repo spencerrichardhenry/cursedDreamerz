@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3746",
+  "description": "Sharks",
+  "image": "/3746.png",
+  "dna": "62198f33adfa6fb7c82946ec54e7804b268bd1d0",
+  "edition": 3746,
+  "date": 1689536351134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

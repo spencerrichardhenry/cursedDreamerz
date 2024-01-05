@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1098",
+  "description": "Sharks",
+  "image": "/1098.png",
+  "dna": "78fa7e4108c60ae295c45bdff9d633bc411e7a33",
+  "edition": 1098,
+  "date": 1689536283077,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

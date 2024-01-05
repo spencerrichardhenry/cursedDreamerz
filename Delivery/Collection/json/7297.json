@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7297",
+  "description": "Sharks",
+  "image": "/7297.png",
+  "dna": "ba969fef209d24e3920bf440c2d5aadba22d2835",
+  "edition": 7297,
+  "date": 1689536439977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

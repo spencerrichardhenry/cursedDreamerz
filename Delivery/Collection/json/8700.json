@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8700",
+  "description": "Sharks",
+  "image": "/8700.png",
+  "dna": "84fefd76f5ada291ea7599fb7efe79c71b1f25f9",
+  "edition": 8700,
+  "date": 1689536475228,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

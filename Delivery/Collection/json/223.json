@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #223",
+  "description": "Sharks",
+  "image": "/223.png",
+  "dna": "aad9ba3ce3cbca216d14015773b9002daa8edaf5",
+  "edition": 223,
+  "date": 1689536260259,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #962",
+  "description": "Sharks",
+  "image": "/962.png",
+  "dna": "1e8c53d0a41de71de9b4fcc5acf35b192a14bc2d",
+  "edition": 962,
+  "date": 1689536279342,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

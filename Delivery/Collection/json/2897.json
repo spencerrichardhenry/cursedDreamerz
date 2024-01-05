@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2897",
+  "description": "Sharks",
+  "image": "/2897.png",
+  "dna": "758d792dc9e16d79810b6b1e118774c919cf9340",
+  "edition": 2897,
+  "date": 1689536329724,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

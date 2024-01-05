@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #284",
+  "description": "Sharks",
+  "image": "/284.png",
+  "dna": "f9a32f8e19af184e965f07c80ac9b724fcf3cf7e",
+  "edition": 284,
+  "date": 1689536261827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

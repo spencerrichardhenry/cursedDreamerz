@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #964",
+  "description": "Sharks",
+  "image": "/964.png",
+  "dna": "7876ec8c92d5364d9d4c31fdbe525b4e8e121aa2",
+  "edition": 964,
+  "date": 1689536279393,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

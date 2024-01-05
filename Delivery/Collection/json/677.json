@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #677",
+  "description": "Sharks",
+  "image": "/677.png",
+  "dna": "eb9b4bd949781b6acaea8a109781cc37510f2a38",
+  "edition": 677,
+  "date": 1689536271824,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

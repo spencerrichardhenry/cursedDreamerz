@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #801",
+  "description": "Sharks",
+  "image": "/801.png",
+  "dna": "bf2691fa6b9d1cb15741627d39762f58f2b34102",
+  "edition": 801,
+  "date": 1689536275180,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

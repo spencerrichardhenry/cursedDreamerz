@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7121",
+  "description": "Sharks",
+  "image": "/7121.png",
+  "dna": "b764d5f64a8ea47e68fcff037baaed052e2b3bc6",
+  "edition": 7121,
+  "date": 1689536435566,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

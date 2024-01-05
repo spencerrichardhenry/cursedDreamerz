@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2001",
+  "description": "Sharks",
+  "image": "/2001.png",
+  "dna": "035757ce7234b61eb95a96b6a41e4f57d9c886a5",
+  "edition": 2001,
+  "date": 1689536306953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

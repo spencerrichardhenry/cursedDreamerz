@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2000",
+  "description": "Sharks",
+  "image": "/2000.png",
+  "dna": "3c83c2b41242b05052779376ac661fcb2179ec8e",
+  "edition": 2000,
+  "date": 1689536306930,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

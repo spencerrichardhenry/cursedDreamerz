@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1591",
+  "description": "Sharks",
+  "image": "/1591.png",
+  "dna": "83aed0f6c6017ed6de3d26b9d870271f5d67e011",
+  "edition": 1591,
+  "date": 1689536296061,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

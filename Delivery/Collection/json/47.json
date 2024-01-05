@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #47",
+  "description": "Sharks",
+  "image": "/47.png",
+  "dna": "0a5d89f5c8d1e5e11f36d69baea97f03c7284811",
+  "edition": 47,
+  "date": 1689536255730,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

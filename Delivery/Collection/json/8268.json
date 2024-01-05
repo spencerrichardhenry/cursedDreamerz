@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8268",
+  "description": "Sharks",
+  "image": "/8268.png",
+  "dna": "0041522c25968a84f071a92130237688e4c9f2f8",
+  "edition": 8268,
+  "date": 1689536464198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

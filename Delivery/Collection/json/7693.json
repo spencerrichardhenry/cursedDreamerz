@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7693",
+  "description": "Sharks",
+  "image": "/7693.png",
+  "dna": "70cd350cc61a3500cef77924ef267dc717a5e508",
+  "edition": 7693,
+  "date": 1689536449852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

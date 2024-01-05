@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2007",
+  "description": "Sharks",
+  "image": "/2007.png",
+  "dna": "854a95116f5b7e95c7caed7a9995a8753d601cbc",
+  "edition": 2007,
+  "date": 1689536307097,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

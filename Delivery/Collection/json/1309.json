@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1309",
+  "description": "Sharks",
+  "image": "/1309.png",
+  "dna": "7dbb44e3ff803fd447ae6b36b0e7af1a24143ca2",
+  "edition": 1309,
+  "date": 1689536288493,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

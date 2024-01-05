@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1816",
+  "description": "Sharks",
+  "image": "/1816.png",
+  "dna": "a4aa53cb3dbd0510105a62d0f390fac455e5838f",
+  "edition": 1816,
+  "date": 1689536302171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

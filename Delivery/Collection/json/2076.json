@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2076",
+  "description": "Sharks",
+  "image": "/2076.png",
+  "dna": "319fa9472f13778b3dfaf3e5715bd2ca218d85c6",
+  "edition": 2076,
+  "date": 1689536308840,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

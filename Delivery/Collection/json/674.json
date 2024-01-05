@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #674",
+  "description": "Sharks",
+  "image": "/674.png",
+  "dna": "b7882ae338384e9c6eca675d1efcc26639fd6c71",
+  "edition": 674,
+  "date": 1689536271743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

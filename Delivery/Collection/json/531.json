@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #531",
+  "description": "Sharks",
+  "image": "/531.png",
+  "dna": "350f933727c1c4f61dc5b7dca174787ae4f15784",
+  "edition": 531,
+  "date": 1689536268096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

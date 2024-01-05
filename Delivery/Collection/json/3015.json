@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3015",
+  "description": "Sharks",
+  "image": "/3015.png",
+  "dna": "e2daf2e6a91a4a325fdd6425e84dfa6d7e233ba7",
+  "edition": 3015,
+  "date": 1689536332703,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

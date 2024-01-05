@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #305",
+  "description": "Sharks",
+  "image": "/305.png",
+  "dna": "c04a265eac4895d0dd6b9b890c08126728f7d065",
+  "edition": 305,
+  "date": 1689536262362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

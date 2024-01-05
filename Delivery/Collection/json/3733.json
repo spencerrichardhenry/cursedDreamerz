@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3733",
+  "description": "Sharks",
+  "image": "/3733.png",
+  "dna": "254d0b6a00c65f1fea87459a32f231bea4fa5ac1",
+  "edition": 3733,
+  "date": 1689536350806,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

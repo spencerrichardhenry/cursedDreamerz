@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4804",
+  "description": "Sharks",
+  "image": "/4804.png",
+  "dna": "1cfb19616e66715691ed4e6da59bd3f6d0b6f2ab",
+  "edition": 4804,
+  "date": 1689536377747,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

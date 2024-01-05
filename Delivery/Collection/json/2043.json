@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2043",
+  "description": "Sharks",
+  "image": "/2043.png",
+  "dna": "2a7249973e81503034bbcc0ca0c075e7d21df485",
+  "edition": 2043,
+  "date": 1689536308012,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

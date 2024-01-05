@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2780",
+  "description": "Sharks",
+  "image": "/2780.png",
+  "dna": "f19ecc9224bf5fd04cca0ece1d7b12c013ee13a3",
+  "edition": 2780,
+  "date": 1689536326764,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

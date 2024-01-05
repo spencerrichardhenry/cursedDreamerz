@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1610",
+  "description": "Sharks",
+  "image": "/1610.png",
+  "dna": "415e21498871790ed201a49024b55dcf102807da",
+  "edition": 1610,
+  "date": 1689536296553,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

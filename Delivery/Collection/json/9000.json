@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9000",
+  "description": "Sharks",
+  "image": "/9000.png",
+  "dna": "279562c4ca8ecda9047377f2fdbfb1ddccedd950",
+  "edition": 9000,
+  "date": 1689536482733,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #163",
+  "description": "Sharks",
+  "image": "/163.png",
+  "dna": "4a3eeb51081afed49d5a53ba47cc656bd93a3e34",
+  "edition": 163,
+  "date": 1689536258696,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

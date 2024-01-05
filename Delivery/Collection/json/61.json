@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #61",
+  "description": "Sharks",
+  "image": "/61.png",
+  "dna": "7bd34a481b39cc034134464221c44e1d477e9af4",
+  "edition": 61,
+  "date": 1689536256085,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

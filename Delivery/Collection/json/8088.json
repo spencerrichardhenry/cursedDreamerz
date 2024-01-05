@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8088",
+  "description": "Sharks",
+  "image": "/8088.png",
+  "dna": "e80994b4c83d0c2737a39e96dc7abf8bc20f6c49",
+  "edition": 8088,
+  "date": 1689536459712,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

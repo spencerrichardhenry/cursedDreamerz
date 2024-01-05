@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5470",
+  "description": "Sharks",
+  "image": "/5470.png",
+  "dna": "6f63029f1d0febe7465498c9c008cea2e936a9d8",
+  "edition": 5470,
+  "date": 1689536394435,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

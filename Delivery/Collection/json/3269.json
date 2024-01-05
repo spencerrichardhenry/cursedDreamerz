@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3269",
+  "description": "Sharks",
+  "image": "/3269.png",
+  "dna": "b579036678a5a63301fadb50af7297f4a9b54ce9",
+  "edition": 3269,
+  "date": 1689536339237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

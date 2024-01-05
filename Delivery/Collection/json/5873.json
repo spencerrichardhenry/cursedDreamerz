@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5873",
+  "description": "Sharks",
+  "image": "/5873.png",
+  "dna": "4025d74d127361e26a6c3c0e7bd7d3da05ad6bc0",
+  "edition": 5873,
+  "date": 1689536404422,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #815",
+  "description": "Sharks",
+  "image": "/815.png",
+  "dna": "1876d602b75d6f043bb4bbfe995648ad2e84459e",
+  "edition": 815,
+  "date": 1689536275538,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1722",
+  "description": "Sharks",
+  "image": "/1722.png",
+  "dna": "1affd79bbb1b960677d1feb05669f7ea95376b60",
+  "edition": 1722,
+  "date": 1689536299641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

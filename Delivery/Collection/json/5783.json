@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5783",
+  "description": "Sharks",
+  "image": "/5783.png",
+  "dna": "7449f7d92bbc2227a31f2af10ce8183b376bc690",
+  "edition": 5783,
+  "date": 1689536402231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

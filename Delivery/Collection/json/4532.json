@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4532",
+  "description": "Sharks",
+  "image": "/4532.png",
+  "dna": "77ed215d006a56d6ebde1544dca622f293c5c258",
+  "edition": 4532,
+  "date": 1689536370912,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

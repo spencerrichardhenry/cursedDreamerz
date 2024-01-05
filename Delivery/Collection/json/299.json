@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #299",
+  "description": "Sharks",
+  "image": "/299.png",
+  "dna": "0c7a71d9ba2bad325feff465aebb32b91384816b",
+  "edition": 299,
+  "date": 1689536262212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

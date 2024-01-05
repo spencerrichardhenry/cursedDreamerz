@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3787",
+  "description": "Sharks",
+  "image": "/3787.png",
+  "dna": "66eb45b4ec95093a5a299ed81f6d841f4a0d7da0",
+  "edition": 3787,
+  "date": 1689536352149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

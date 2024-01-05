@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3334",
+  "description": "Sharks",
+  "image": "/3334.png",
+  "dna": "81380a80f8e93d969e09ec1928ffddda9a6f86e2",
+  "edition": 3334,
+  "date": 1689536340840,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

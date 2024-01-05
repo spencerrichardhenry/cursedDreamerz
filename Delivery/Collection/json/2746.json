@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2746",
+  "description": "Sharks",
+  "image": "/2746.png",
+  "dna": "d6d6e3c3835b33f5d0aba4c0cf718f4530cbe60b",
+  "edition": 2746,
+  "date": 1689536325916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

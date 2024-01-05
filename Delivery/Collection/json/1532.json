@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1532",
+  "description": "Sharks",
+  "image": "/1532.png",
+  "dna": "ad927e9699d53909d2661d1a7a25ec2e5c49bfb1",
+  "edition": 1532,
+  "date": 1689536294497,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

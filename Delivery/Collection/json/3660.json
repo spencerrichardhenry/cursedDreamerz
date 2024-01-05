@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3660",
+  "description": "Sharks",
+  "image": "/3660.png",
+  "dna": "aa3e511c494dbad1f7ffe5001fbc0042883fc867",
+  "edition": 3660,
+  "date": 1689536348992,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

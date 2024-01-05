@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3346",
+  "description": "Sharks",
+  "image": "/3346.png",
+  "dna": "b9a9129a791a85883277b2f5402af14876e40419",
+  "edition": 3346,
+  "date": 1689536341138,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

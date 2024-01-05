@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2900",
+  "description": "Sharks",
+  "image": "/2900.png",
+  "dna": "387c1c6528fcbb9b3bdec7e1803caf487263f4d5",
+  "edition": 2900,
+  "date": 1689536329794,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

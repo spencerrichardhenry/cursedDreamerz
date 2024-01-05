@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3008",
+  "description": "Sharks",
+  "image": "/3008.png",
+  "dna": "582c964c361bcaaafb362fdc9c16a436faa74ed3",
+  "edition": 3008,
+  "date": 1689536332517,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

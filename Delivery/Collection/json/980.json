@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #980",
+  "description": "Sharks",
+  "image": "/980.png",
+  "dna": "9b0e39d2141727c9a9bfb064a879f84e21123d0a",
+  "edition": 980,
+  "date": 1689536279815,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

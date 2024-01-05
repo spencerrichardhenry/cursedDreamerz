@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #503",
+  "description": "Sharks",
+  "image": "/503.png",
+  "dna": "5e3386500aece1285b7dff5851b63911c67f7ef8",
+  "edition": 503,
+  "date": 1689536267401,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

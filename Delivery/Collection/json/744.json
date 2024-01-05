@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #744",
+  "description": "Sharks",
+  "image": "/744.png",
+  "dna": "730e7c08bdd205510389f0bceedb4e1c752a7bf8",
+  "edition": 744,
+  "date": 1689536273676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

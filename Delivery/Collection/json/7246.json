@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7246",
+  "description": "Sharks",
+  "image": "/7246.png",
+  "dna": "89d171ca74d9953569f85bed80ddb34abd27d96f",
+  "edition": 7246,
+  "date": 1689536438672,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

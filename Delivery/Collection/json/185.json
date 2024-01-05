@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #185",
+  "description": "Sharks",
+  "image": "/185.png",
+  "dna": "0f9c03bc5ba92ef9527dbc21a4f83d68c5fcd58c",
+  "edition": 185,
+  "date": 1689536259298,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

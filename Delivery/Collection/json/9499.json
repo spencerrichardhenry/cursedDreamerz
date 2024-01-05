@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9499",
+  "description": "Sharks",
+  "image": "/9499.png",
+  "dna": "dabebbd3741ac171133727450bb06f53d430981b",
+  "edition": 9499,
+  "date": 1689536495195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

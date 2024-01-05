@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #907",
+  "description": "Sharks",
+  "image": "/907.png",
+  "dna": "16560af09f4a683f7b7cb4d386110330f2b1b3ea",
+  "edition": 907,
+  "date": 1689536277917,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1906",
+  "description": "Sharks",
+  "image": "/1906.png",
+  "dna": "710c8cd72775f8a55398891d3540652536c2bd5b",
+  "edition": 1906,
+  "date": 1689536304475,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

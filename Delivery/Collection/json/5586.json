@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5586",
+  "description": "Sharks",
+  "image": "/5586.png",
+  "dna": "04d0eefdbbbe4a37079ddc96b6bd34e5bbd76c5e",
+  "edition": 5586,
+  "date": 1689536397340,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

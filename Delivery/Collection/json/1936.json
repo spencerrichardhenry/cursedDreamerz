@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1936",
+  "description": "Sharks",
+  "image": "/1936.png",
+  "dna": "20430167a4464f13141c4b21448e1a4a49ee5616",
+  "edition": 1936,
+  "date": 1689536305257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

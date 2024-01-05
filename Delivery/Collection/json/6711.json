@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6711",
+  "description": "Sharks",
+  "image": "/6711.png",
+  "dna": "779d20b7a8f31d0209b1a0d3f51fc4d829f669eb",
+  "edition": 6711,
+  "date": 1689536425387,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

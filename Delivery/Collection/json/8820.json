@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8820",
+  "description": "Sharks",
+  "image": "/8820.png",
+  "dna": "11fa3c3584f9ff9169272f5b99bffe8ac4401038",
+  "edition": 8820,
+  "date": 1689536478233,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7245",
+  "description": "Sharks",
+  "image": "/7245.png",
+  "dna": "ebe64262b9065fc21a1a5a6b3f038c2ff5f4a160",
+  "edition": 7245,
+  "date": 1689536438647,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

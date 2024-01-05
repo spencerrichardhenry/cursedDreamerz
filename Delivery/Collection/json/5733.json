@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5733",
+  "description": "Sharks",
+  "image": "/5733.png",
+  "dna": "9180aa04736b7f8fde55751277ded528a68a45f8",
+  "edition": 5733,
+  "date": 1689536401009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

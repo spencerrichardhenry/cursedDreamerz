@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7433",
+  "description": "Sharks",
+  "image": "/7433.png",
+  "dna": "4bee99eb2ccf0f55e7726322d4ab3267714c3fd3",
+  "edition": 7433,
+  "date": 1689536443355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

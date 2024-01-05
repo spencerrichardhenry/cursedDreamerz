@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5202",
+  "description": "Sharks",
+  "image": "/5202.png",
+  "dna": "9bd1c14a8da2238e14d34f8ffb3b64f1f525fa51",
+  "edition": 5202,
+  "date": 1689536387709,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

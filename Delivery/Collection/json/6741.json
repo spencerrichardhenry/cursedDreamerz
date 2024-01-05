@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6741",
+  "description": "Sharks",
+  "image": "/6741.png",
+  "dna": "5a42e6a7d1466f845756e6afbb3180f28e5acb3d",
+  "edition": 6741,
+  "date": 1689536426141,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

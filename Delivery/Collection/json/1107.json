@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1107",
+  "description": "Sharks",
+  "image": "/1107.png",
+  "dna": "d1410533f4596440e6d43bb81c887ed2d1833474",
+  "edition": 1107,
+  "date": 1689536283290,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

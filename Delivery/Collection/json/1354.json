@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1354",
+  "description": "Sharks",
+  "image": "/1354.png",
+  "dna": "7341d729eff78aa76671d0308302055e11fe0dc5",
+  "edition": 1354,
+  "date": 1689536289718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

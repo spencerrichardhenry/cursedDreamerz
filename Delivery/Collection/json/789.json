@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #789",
+  "description": "Sharks",
+  "image": "/789.png",
+  "dna": "7a6a88c65fe71b43e0c08a7507a88e90b93fd248",
+  "edition": 789,
+  "date": 1689536274860,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

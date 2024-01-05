@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #15",
+  "description": "Sharks",
+  "image": "/15.png",
+  "dna": "e5761592182ca0a2fbc03d1c7138305a889e22c2",
+  "edition": 15,
+  "date": 1689536254831,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

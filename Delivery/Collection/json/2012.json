@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2012",
+  "description": "Sharks",
+  "image": "/2012.png",
+  "dna": "4e2e330a984ad52dc585423added3d4a91dd7861",
+  "edition": 2012,
+  "date": 1689536307227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

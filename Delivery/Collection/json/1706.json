@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1706",
+  "description": "Sharks",
+  "image": "/1706.png",
+  "dna": "10aab0f9cd0e2bcb028c43a2582cbd53dd5ed662",
+  "edition": 1706,
+  "date": 1689536299186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #37",
+  "description": "Sharks",
+  "image": "/37.png",
+  "dna": "e0bf9f6c0aaf7d38b43431a3e6580eb97105e0da",
+  "edition": 37,
+  "date": 1689536255445,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

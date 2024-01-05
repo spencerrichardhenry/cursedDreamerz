@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #473",
+  "description": "Sharks",
+  "image": "/473.png",
+  "dna": "ce0cf944c62f250f095356c25b30997d593ae493",
+  "edition": 473,
+  "date": 1689536266648,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8876",
+  "description": "Sharks",
+  "image": "/8876.png",
+  "dna": "ef8c2ecb8d6850961914b0010d47594ed3a01351",
+  "edition": 8876,
+  "date": 1689536479615,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

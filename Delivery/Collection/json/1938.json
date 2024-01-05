@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1938",
+  "description": "Sharks",
+  "image": "/1938.png",
+  "dna": "b748b147eecfb1b27d34c145f4a4c5a146b4b7e6",
+  "edition": 1938,
+  "date": 1689536305308,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

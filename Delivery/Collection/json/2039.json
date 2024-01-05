@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2039",
+  "description": "Sharks",
+  "image": "/2039.png",
+  "dna": "cc2175167991d250b0331083eb5eff1e7539295b",
+  "edition": 2039,
+  "date": 1689536307909,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

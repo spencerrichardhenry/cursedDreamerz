@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5403",
+  "description": "Sharks",
+  "image": "/5403.png",
+  "dna": "7ea9b0fd2b21e3aeb06a952283913ab56a0311a5",
+  "edition": 5403,
+  "date": 1689536392763,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

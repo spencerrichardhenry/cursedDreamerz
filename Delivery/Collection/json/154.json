@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #154",
+  "description": "Sharks",
+  "image": "/154.png",
+  "dna": "666811b3957ffe3b39b1fd159d5745181cce6c7b",
+  "edition": 154,
+  "date": 1689536258455,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

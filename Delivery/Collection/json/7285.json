@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7285",
+  "description": "Sharks",
+  "image": "/7285.png",
+  "dna": "08ae86ac742dddcdc00b3d9132949e88b8135ac2",
+  "edition": 7285,
+  "date": 1689536439688,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

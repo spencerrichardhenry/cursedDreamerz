@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1875",
+  "description": "Sharks",
+  "image": "/1875.png",
+  "dna": "c1c1ee7763a17a5c7d900681a6d8043b2ff85e83",
+  "edition": 1875,
+  "date": 1689536303681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

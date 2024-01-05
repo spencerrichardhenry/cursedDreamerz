@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4097",
+  "description": "Sharks",
+  "image": "/4097.png",
+  "dna": "8ae1f50de63b0487551ca4e548cd013ea93ee4b2",
+  "edition": 4097,
+  "date": 1689536359825,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

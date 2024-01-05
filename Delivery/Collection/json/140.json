@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #140",
+  "description": "Sharks",
+  "image": "/140.png",
+  "dna": "55f7b004a936059faef4100ad9cf0333759ab153",
+  "edition": 140,
+  "date": 1689536258073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

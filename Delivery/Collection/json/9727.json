@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9727",
+  "description": "Sharks",
+  "image": "/9727.png",
+  "dna": "f9c9cfef2e816b40aa28cbac807d30856f1b5153",
+  "edition": 9727,
+  "date": 1689536500899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

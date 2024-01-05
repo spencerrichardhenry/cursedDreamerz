@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #437",
+  "description": "Sharks",
+  "image": "/437.png",
+  "dna": "3d7ef38d10d7e28ee6db8810c470d1ea93798d1b",
+  "edition": 437,
+  "date": 1689536265725,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

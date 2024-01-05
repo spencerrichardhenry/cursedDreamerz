@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4505",
+  "description": "Sharks",
+  "image": "/4505.png",
+  "dna": "c0694e1514f309dd594b571ce69e859b9c89c8ae",
+  "edition": 4505,
+  "date": 1689536370255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

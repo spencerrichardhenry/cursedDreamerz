@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2820",
+  "description": "Sharks",
+  "image": "/2820.png",
+  "dna": "0437974e6f146d8397a254d03c5557e1a4f44d64",
+  "edition": 2820,
+  "date": 1689536327794,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

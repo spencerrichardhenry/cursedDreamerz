@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #963",
+  "description": "Sharks",
+  "image": "/963.png",
+  "dna": "a862c0c9436b5bed430df6e7af8d1566d7862820",
+  "edition": 963,
+  "date": 1689536279367,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

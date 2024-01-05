@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2017",
+  "description": "Sharks",
+  "image": "/2017.png",
+  "dna": "112d7b5c966973557f85fc3a845437228eebcc1b",
+  "edition": 2017,
+  "date": 1689536307356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

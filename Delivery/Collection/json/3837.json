@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3837",
+  "description": "Sharks",
+  "image": "/3837.png",
+  "dna": "5531d489420d0da0e886df187abc5ff20077604c",
+  "edition": 3837,
+  "date": 1689536353369,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

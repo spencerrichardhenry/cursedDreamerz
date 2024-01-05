@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9926",
+  "description": "Sharks",
+  "image": "/9926.png",
+  "dna": "d1bf6aeeec0a14d85151383abfab8556d7bd775e",
+  "edition": 9926,
+  "date": 1689536506116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

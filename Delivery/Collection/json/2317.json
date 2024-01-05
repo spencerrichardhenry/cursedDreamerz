@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2317",
+  "description": "Sharks",
+  "image": "/2317.png",
+  "dna": "3a8180041e262308d14bf7e59267de62f54c5687",
+  "edition": 2317,
+  "date": 1689536315055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

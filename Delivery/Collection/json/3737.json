@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3737",
+  "description": "Sharks",
+  "image": "/3737.png",
+  "dna": "122d3ec3d72da77caf9f76644ef724a5bc3032fb",
+  "edition": 3737,
+  "date": 1689536350908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

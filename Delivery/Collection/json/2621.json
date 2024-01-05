@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2621",
+  "description": "Sharks",
+  "image": "/2621.png",
+  "dna": "babbe44ec0e27848b17ea386599b4ae7530dc6bf",
+  "edition": 2621,
+  "date": 1689536322763,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

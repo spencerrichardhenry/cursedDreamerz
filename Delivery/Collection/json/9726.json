@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9726",
+  "description": "Sharks",
+  "image": "/9726.png",
+  "dna": "61f9123b7d13df0ae5c916b2838b7e00979cc72e",
+  "edition": 9726,
+  "date": 1689536500876,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8400",
+  "description": "Sharks",
+  "image": "/8400.png",
+  "dna": "241074f6c3d539c218a54407cfbd5090cb1f75fb",
+  "edition": 8400,
+  "date": 1689536467607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

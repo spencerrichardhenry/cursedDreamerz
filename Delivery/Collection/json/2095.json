@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2095",
+  "description": "Sharks",
+  "image": "/2095.png",
+  "dna": "cef61e9ca6fe910dca15792f7e15c2008a88b67a",
+  "edition": 2095,
+  "date": 1689536309328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

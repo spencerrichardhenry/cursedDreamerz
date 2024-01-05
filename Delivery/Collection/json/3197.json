@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3197",
+  "description": "Sharks",
+  "image": "/3197.png",
+  "dna": "a24ed3d8db44c1de6ea0f63a4e86fdde3e460bd4",
+  "edition": 3197,
+  "date": 1689536337433,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

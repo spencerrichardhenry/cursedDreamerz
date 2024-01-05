@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4114",
+  "description": "Sharks",
+  "image": "/4114.png",
+  "dna": "06f829e0410c768c19a5177e17e94f5c2df3f8fe",
+  "edition": 4114,
+  "date": 1689536360246,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

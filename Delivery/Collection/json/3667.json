@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3667",
+  "description": "Sharks",
+  "image": "/3667.png",
+  "dna": "02fd6803c299e23867c834a53d914546bb979633",
+  "edition": 3667,
+  "date": 1689536349157,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

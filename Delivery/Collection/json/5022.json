@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5022",
+  "description": "Sharks",
+  "image": "/5022.png",
+  "dna": "501b1c22bfb22768c4b36e440d7374d86882e0a6",
+  "edition": 5022,
+  "date": 1689536383223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

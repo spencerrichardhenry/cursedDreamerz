@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #477",
+  "description": "Sharks",
+  "image": "/477.png",
+  "dna": "66ce82019a9e99ccd4d55d1e157741455191cadc",
+  "edition": 477,
+  "date": 1689536266744,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

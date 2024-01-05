@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2010",
+  "description": "Sharks",
+  "image": "/2010.png",
+  "dna": "b0c5d0a892dd2c2cf7176c46449ffe0ee00b29db",
+  "edition": 2010,
+  "date": 1689536307178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

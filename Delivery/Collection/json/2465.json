@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2465",
+  "description": "Sharks",
+  "image": "/2465.png",
+  "dna": "5832fc1efccfa63955ab323e2e2d46a5fc322faa",
+  "edition": 2465,
+  "date": 1689536318786,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

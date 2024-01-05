@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6780",
+  "description": "Sharks",
+  "image": "/6780.png",
+  "dna": "7964a21cb14870226688d52259e1866244347bb3",
+  "edition": 6780,
+  "date": 1689536427086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

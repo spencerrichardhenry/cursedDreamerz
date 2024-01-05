@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3445",
+  "description": "Sharks",
+  "image": "/3445.png",
+  "dna": "626bd5f8bacfe6366a1b97c4f3cded6740dd03c2",
+  "edition": 3445,
+  "date": 1689536343548,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

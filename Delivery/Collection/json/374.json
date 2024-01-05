@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #374",
+  "description": "Sharks",
+  "image": "/374.png",
+  "dna": "9c98dcba9a5f322d1ae8c20e67afed60788ad3a3",
+  "edition": 374,
+  "date": 1689536264145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

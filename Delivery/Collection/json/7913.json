@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7913",
+  "description": "Sharks",
+  "image": "/7913.png",
+  "dna": "d871f71dc84dd4f3441f6d29ffa155ec31682719",
+  "edition": 7913,
+  "date": 1689536455323,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

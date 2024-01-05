@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3990",
+  "description": "Sharks",
+  "image": "/3990.png",
+  "dna": "d2c150f457ddba23b553b488eae44546b4928896",
+  "edition": 3990,
+  "date": 1689536357170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

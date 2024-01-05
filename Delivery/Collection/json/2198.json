@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2198",
+  "description": "Sharks",
+  "image": "/2198.png",
+  "dna": "e2176ca1a209dddbc3b281f0931b2201cf272457",
+  "edition": 2198,
+  "date": 1689536312042,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

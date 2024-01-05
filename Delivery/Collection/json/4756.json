@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4756",
+  "description": "Sharks",
+  "image": "/4756.png",
+  "dna": "628c7ea7ca54e89817d3c56f782eb1bf8dc471e6",
+  "edition": 4756,
+  "date": 1689536376554,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

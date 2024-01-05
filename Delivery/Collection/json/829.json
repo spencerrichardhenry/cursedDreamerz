@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #829",
+  "description": "Sharks",
+  "image": "/829.png",
+  "dna": "6bfb35ae1a9d9dae0e700cb9d698ff0f91197134",
+  "edition": 829,
+  "date": 1689536275899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

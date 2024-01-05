@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #378",
+  "description": "Sharks",
+  "image": "/378.png",
+  "dna": "55f8fadcd634179f6fbc1f4d17082db67f3d9894",
+  "edition": 378,
+  "date": 1689536264245,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

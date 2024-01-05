@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1996",
+  "description": "Sharks",
+  "image": "/1996.png",
+  "dna": "83e7564c44a6660d044d71b2786028c35ce47ec0",
+  "edition": 1996,
+  "date": 1689536306836,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

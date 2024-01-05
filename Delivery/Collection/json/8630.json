@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8630",
+  "description": "Sharks",
+  "image": "/8630.png",
+  "dna": "0762da38f54a3c2929909c602eb4b57a34335e9c",
+  "edition": 8630,
+  "date": 1689536473362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

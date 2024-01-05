@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5003",
+  "description": "Sharks",
+  "image": "/5003.png",
+  "dna": "035fa88fd9bceee5baaf79a8120021bd7367a06c",
+  "edition": 5003,
+  "date": 1689536382749,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

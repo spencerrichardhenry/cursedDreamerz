@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #750",
+  "description": "Sharks",
+  "image": "/750.png",
+  "dna": "e3efdfe0073788dfbf5211b060508f1ca26c6670",
+  "edition": 750,
+  "date": 1689536273849,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

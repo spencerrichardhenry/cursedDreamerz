@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5854",
+  "description": "Sharks",
+  "image": "/5854.png",
+  "dna": "484ccf3afa49b38a3013ca462a3707fedac52475",
+  "edition": 5854,
+  "date": 1689536403956,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

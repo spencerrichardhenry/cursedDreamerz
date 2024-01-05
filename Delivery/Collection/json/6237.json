@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6237",
+  "description": "Sharks",
+  "image": "/6237.png",
+  "dna": "8d0a2c2a1783150c5d62283a648233f004ed9d26",
+  "edition": 6237,
+  "date": 1689536413567,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

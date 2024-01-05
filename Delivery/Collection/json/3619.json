@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3619",
+  "description": "Sharks",
+  "image": "/3619.png",
+  "dna": "1c4e0f2aab1821fc42bb5a1c82249117b090b414",
+  "edition": 3619,
+  "date": 1689536347982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9140",
+  "description": "Sharks",
+  "image": "/9140.png",
+  "dna": "8d4d1a42e06dc124967a7483edddb454098c38cf",
+  "edition": 9140,
+  "date": 1689536486239,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

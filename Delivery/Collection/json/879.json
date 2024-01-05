@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #879",
+  "description": "Sharks",
+  "image": "/879.png",
+  "dna": "1688f85a7285f656ebf086739a7b44e0255ad6f0",
+  "edition": 879,
+  "date": 1689536277214,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

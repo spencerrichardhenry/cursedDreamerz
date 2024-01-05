@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #145",
+  "description": "Sharks",
+  "image": "/145.png",
+  "dna": "cf62011a8336a02897722080b53ce4187fbf0e20",
+  "edition": 145,
+  "date": 1689536258212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

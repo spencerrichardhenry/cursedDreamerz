@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7219",
+  "description": "Sharks",
+  "image": "/7219.png",
+  "dna": "3c925589cd6ed7bf7ef3314a046f19a30a155662",
+  "edition": 7219,
+  "date": 1689536438000,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

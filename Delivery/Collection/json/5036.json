@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5036",
+  "description": "Sharks",
+  "image": "/5036.png",
+  "dna": "7a0683b60a9da846e2c8ce4b12b15145a54dcdd7",
+  "edition": 5036,
+  "date": 1689536383572,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

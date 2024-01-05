@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9365",
+  "description": "Sharks",
+  "image": "/9365.png",
+  "dna": "fa462a1ee8af54227c1a5c9437a795a1212873d5",
+  "edition": 9365,
+  "date": 1689536491866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

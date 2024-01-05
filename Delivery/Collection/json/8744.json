@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8744",
+  "description": "Sharks",
+  "image": "/8744.png",
+  "dna": "125c5169cde152c9f8d974962259df1b54225d23",
+  "edition": 8744,
+  "date": 1689536476336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

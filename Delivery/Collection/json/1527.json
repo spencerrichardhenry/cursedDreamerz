@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1527",
+  "description": "Sharks",
+  "image": "/1527.png",
+  "dna": "eba7e4ee3d3c4db3f63fd485d48e5dd2d921afd4",
+  "edition": 1527,
+  "date": 1689536294370,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

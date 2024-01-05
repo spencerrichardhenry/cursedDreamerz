@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1163",
+  "description": "Sharks",
+  "image": "/1163.png",
+  "dna": "c5639409dfcb45db50d4aafdc881666f2ec33f8d",
+  "edition": 1163,
+  "date": 1689536284690,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

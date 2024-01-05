@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1806",
+  "description": "Sharks",
+  "image": "/1806.png",
+  "dna": "3fbc24590ff8e7d948b6809b6b5318961c9e0f40",
+  "edition": 1806,
+  "date": 1689536301918,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

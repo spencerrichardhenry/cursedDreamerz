@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8607",
+  "description": "Sharks",
+  "image": "/8607.png",
+  "dna": "374b515e97ffdddd6cbc90b56e7cd35f6e67ba3a",
+  "edition": 8607,
+  "date": 1689536472789,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4236",
+  "description": "Sharks",
+  "image": "/4236.png",
+  "dna": "13bf2a165a9d52027f1606aaa68b6eae0d8b46f3",
+  "edition": 4236,
+  "date": 1689536363275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

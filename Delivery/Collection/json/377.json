@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #377",
+  "description": "Sharks",
+  "image": "/377.png",
+  "dna": "114960440a2b65a8efe99c904277482a04ea081e",
+  "edition": 377,
+  "date": 1689536264221,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

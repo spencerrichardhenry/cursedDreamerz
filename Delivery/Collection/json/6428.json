@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6428",
+  "description": "Sharks",
+  "image": "/6428.png",
+  "dna": "5908df2ec76ba8503469cb9f059260afe2bdaa77",
+  "edition": 6428,
+  "date": 1689536418311,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

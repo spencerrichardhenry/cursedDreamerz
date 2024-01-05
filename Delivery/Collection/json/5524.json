@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5524",
+  "description": "Sharks",
+  "image": "/5524.png",
+  "dna": "3885c85e484bf755891640a90ebcd77999d47472",
+  "edition": 5524,
+  "date": 1689536395776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

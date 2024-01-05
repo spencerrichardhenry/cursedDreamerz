@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2981",
+  "description": "Sharks",
+  "image": "/2981.png",
+  "dna": "49cf97cf184abbfe465c5a4dd0d0d3b9df7d3b40",
+  "edition": 2981,
+  "date": 1689536331826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

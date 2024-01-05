@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #429",
+  "description": "Sharks",
+  "image": "/429.png",
+  "dna": "86a4a5e5745e6e47347b56f7974a33b9d0c76285",
+  "edition": 429,
+  "date": 1689536265515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

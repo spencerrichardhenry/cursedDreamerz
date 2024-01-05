@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1636",
+  "description": "Sharks",
+  "image": "/1636.png",
+  "dna": "669be3affc745c8b86eb80f7ba551b04ba958c5a",
+  "edition": 1636,
+  "date": 1689536297257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

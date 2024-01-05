@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7819",
+  "description": "Sharks",
+  "image": "/7819.png",
+  "dna": "0400fac913bb85c0f87af65ddac07f721d796557",
+  "edition": 7819,
+  "date": 1689536453006,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

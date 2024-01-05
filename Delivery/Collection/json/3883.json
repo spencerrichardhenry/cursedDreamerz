@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3883",
+  "description": "Sharks",
+  "image": "/3883.png",
+  "dna": "bbc9607c4c5c5fab89a546ca3ee40c2376c8e34c",
+  "edition": 3883,
+  "date": 1689536354531,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

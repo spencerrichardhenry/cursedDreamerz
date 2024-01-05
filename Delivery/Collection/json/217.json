@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #217",
+  "description": "Sharks",
+  "image": "/217.png",
+  "dna": "1fac8c33517defd72a6e0b678045a9da7ac728e6",
+  "edition": 217,
+  "date": 1689536260103,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

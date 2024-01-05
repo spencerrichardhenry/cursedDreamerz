@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6299",
+  "description": "Sharks",
+  "image": "/6299.png",
+  "dna": "e63fced70d415535bd5413dbd0fef656711f8233",
+  "edition": 6299,
+  "date": 1689536415106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

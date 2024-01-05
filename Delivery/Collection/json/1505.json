@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1505",
+  "description": "Sharks",
+  "image": "/1505.png",
+  "dna": "d0ce8ddf20707fe83daa8a1511066376da488fd2",
+  "edition": 1505,
+  "date": 1689536293786,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

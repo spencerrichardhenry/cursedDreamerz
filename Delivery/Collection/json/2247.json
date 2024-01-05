@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2247",
+  "description": "Sharks",
+  "image": "/2247.png",
+  "dna": "56520daa0c2295ac0d9ab5a9611f753ecd9dcbce",
+  "edition": 2247,
+  "date": 1689536313280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

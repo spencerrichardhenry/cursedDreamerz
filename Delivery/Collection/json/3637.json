@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3637",
+  "description": "Sharks",
+  "image": "/3637.png",
+  "dna": "769cb460c4bf20c508257f13077945eac65ea643",
+  "edition": 3637,
+  "date": 1689536348424,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

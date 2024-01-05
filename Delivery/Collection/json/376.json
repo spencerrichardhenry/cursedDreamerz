@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #376",
+  "description": "Sharks",
+  "image": "/376.png",
+  "dna": "083ea15335f9a1b90c88310abbbc36841a011c54",
+  "edition": 376,
+  "date": 1689536264197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

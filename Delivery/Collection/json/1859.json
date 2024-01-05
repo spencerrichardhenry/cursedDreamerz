@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1859",
+  "description": "Sharks",
+  "image": "/1859.png",
+  "dna": "3cf01aafea0b46ec38ac6f175b6873f9fe989cad",
+  "edition": 1859,
+  "date": 1689536303281,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

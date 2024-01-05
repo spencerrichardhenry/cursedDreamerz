@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8674",
+  "description": "Sharks",
+  "image": "/8674.png",
+  "dna": "ff7142d4dc83a5d5946fa4885bab7a867ddb8cec",
+  "edition": 8674,
+  "date": 1689536474585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

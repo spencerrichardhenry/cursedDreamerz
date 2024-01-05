@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4204",
+  "description": "Sharks",
+  "image": "/4204.png",
+  "dna": "f51c1f4b92a867c2c1439c8d64f53162e6ed6753",
+  "edition": 4204,
+  "date": 1689536362485,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7405",
+  "description": "Sharks",
+  "image": "/7405.png",
+  "dna": "990f681fb91bbb127a5376dee8b80ac87a036319",
+  "edition": 7405,
+  "date": 1689536442678,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1972",
+  "description": "Sharks",
+  "image": "/1972.png",
+  "dna": "21064f001fcb6e484101c00e8dc0c5d84e499f41",
+  "edition": 1972,
+  "date": 1689536306206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

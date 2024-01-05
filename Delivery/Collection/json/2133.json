@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2133",
+  "description": "Sharks",
+  "image": "/2133.png",
+  "dna": "646c2918dd113de2b52557e17a6963f584369590",
+  "edition": 2133,
+  "date": 1689536310368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

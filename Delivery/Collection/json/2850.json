@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2850",
+  "description": "Sharks",
+  "image": "/2850.png",
+  "dna": "15773ee024b3c7c2be02b0f2951f85e0a0b8ba85",
+  "edition": 2850,
+  "date": 1689536328552,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

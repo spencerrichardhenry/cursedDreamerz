@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2929",
+  "description": "Sharks",
+  "image": "/2929.png",
+  "dna": "7ad385186b9429b9a0222a1e7da2b676882205e0",
+  "edition": 2929,
+  "date": 1689536330520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

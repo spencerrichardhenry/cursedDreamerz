@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #825",
+  "description": "Sharks",
+  "image": "/825.png",
+  "dna": "93e5cf5f299d7e771e0d084dbb30f60213697b38",
+  "edition": 825,
+  "date": 1689536275789,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

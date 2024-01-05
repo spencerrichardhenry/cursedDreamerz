@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #954",
+  "description": "Sharks",
+  "image": "/954.png",
+  "dna": "8db0f8ceff7170a604ed95669b39fd103a79aa07",
+  "edition": 954,
+  "date": 1689536279144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

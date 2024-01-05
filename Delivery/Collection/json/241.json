@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #241",
+  "description": "Sharks",
+  "image": "/241.png",
+  "dna": "cbca7d3ca80c49abd67b3707e6361eb1e9e4404c",
+  "edition": 241,
+  "date": 1689536260718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

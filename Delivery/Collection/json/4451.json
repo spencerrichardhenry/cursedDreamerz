@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4451",
+  "description": "Sharks",
+  "image": "/4451.png",
+  "dna": "f09d82b31b08f724868779c29eed82a952f0ea08",
+  "edition": 4451,
+  "date": 1689536368881,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

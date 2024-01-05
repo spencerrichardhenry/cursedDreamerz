@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7421",
+  "description": "Sharks",
+  "image": "/7421.png",
+  "dna": "d36203edf59cd38ecdd0d72ae99e03039003a4c3",
+  "edition": 7421,
+  "date": 1689536443069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

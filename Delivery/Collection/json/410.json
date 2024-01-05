@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #410",
+  "description": "Sharks",
+  "image": "/410.png",
+  "dna": "823ab546b1ab34a847ba4fbf0a461ce405536152",
+  "edition": 410,
+  "date": 1689536265038,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8160",
+  "description": "Sharks",
+  "image": "/8160.png",
+  "dna": "f07e6f0f6961e7aa919dec191ddf3a23e54780d3",
+  "edition": 8160,
+  "date": 1689536461520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

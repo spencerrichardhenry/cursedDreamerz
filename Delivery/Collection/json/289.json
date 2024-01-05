@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #289",
+  "description": "Sharks",
+  "image": "/289.png",
+  "dna": "dd0daf5ca95c14fa73562435098d0661c725f73d",
+  "edition": 289,
+  "date": 1689536261957,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

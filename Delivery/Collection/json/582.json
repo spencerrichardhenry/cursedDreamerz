@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #582",
+  "description": "Sharks",
+  "image": "/582.png",
+  "dna": "547af3a97dee2258a34cc305630551160be44bad",
+  "edition": 582,
+  "date": 1689536269381,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

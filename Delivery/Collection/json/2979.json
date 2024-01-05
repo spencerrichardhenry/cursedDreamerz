@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2979",
+  "description": "Sharks",
+  "image": "/2979.png",
+  "dna": "a70642b70ad434849469ec47f1c5fa61e9da09e4",
+  "edition": 2979,
+  "date": 1689536331776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

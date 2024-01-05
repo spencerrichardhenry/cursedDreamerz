@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5115",
+  "description": "Sharks",
+  "image": "/5115.png",
+  "dna": "85bd19a0a8ffde3a10bea8c8a2e5293da83a6b40",
+  "edition": 5115,
+  "date": 1689536385525,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3946",
+  "description": "Sharks",
+  "image": "/3946.png",
+  "dna": "2f3b8345f6e225e349b50d5f9066a5d2f9795d2e",
+  "edition": 3946,
+  "date": 1689536356075,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3685",
+  "description": "Sharks",
+  "image": "/3685.png",
+  "dna": "d53d7a051aa2a041a60716127d610f2418353057",
+  "edition": 3685,
+  "date": 1689536349598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

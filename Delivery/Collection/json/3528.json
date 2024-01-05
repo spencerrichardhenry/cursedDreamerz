@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3528",
+  "description": "Sharks",
+  "image": "/3528.png",
+  "dna": "f77b28c39e02db98075e791df3f8cb3d5e7949a6",
+  "edition": 3528,
+  "date": 1689536345677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

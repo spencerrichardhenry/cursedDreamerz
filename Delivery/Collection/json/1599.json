@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1599",
+  "description": "Sharks",
+  "image": "/1599.png",
+  "dna": "b7761ba3382c1ec4dd8971bff4642c8dd8804910",
+  "edition": 1599,
+  "date": 1689536296264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

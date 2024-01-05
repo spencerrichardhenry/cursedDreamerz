@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8324",
+  "description": "Sharks",
+  "image": "/8324.png",
+  "dna": "bd82dbb9e595ae99bd36098c9ce2a93fae291773",
+  "edition": 8324,
+  "date": 1689536465716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

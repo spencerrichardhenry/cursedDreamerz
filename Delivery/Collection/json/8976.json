@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8976",
+  "description": "Sharks",
+  "image": "/8976.png",
+  "dna": "8b2b7ad4c40927d1dd4b6ba9100bdc9191a1004e",
+  "edition": 8976,
+  "date": 1689536482144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

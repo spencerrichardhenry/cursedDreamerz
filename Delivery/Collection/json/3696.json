@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3696",
+  "description": "Sharks",
+  "image": "/3696.png",
+  "dna": "803ba48487e828994a2044f7f69d32f12d29cc68",
+  "edition": 3696,
+  "date": 1689536349871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

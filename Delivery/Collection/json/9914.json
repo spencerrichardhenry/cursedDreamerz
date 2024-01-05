@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9914",
+  "description": "Sharks",
+  "image": "/9914.png",
+  "dna": "429654c7692d420fb46da207a599eb6dcc53fd21",
+  "edition": 9914,
+  "date": 1689536505801,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

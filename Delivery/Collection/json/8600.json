@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8600",
+  "description": "Sharks",
+  "image": "/8600.png",
+  "dna": "b9951b1b73e93375f25b33e583d05cfb699a3ec8",
+  "edition": 8600,
+  "date": 1689536472620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

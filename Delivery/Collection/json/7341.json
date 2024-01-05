@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7341",
+  "description": "Sharks",
+  "image": "/7341.png",
+  "dna": "91fd549b2de87de81d35a5f7d2b083cd25a11bee",
+  "edition": 7341,
+  "date": 1689536441070,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

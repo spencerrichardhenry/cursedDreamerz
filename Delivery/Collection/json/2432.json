@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2432",
+  "description": "Sharks",
+  "image": "/2432.png",
+  "dna": "e1355d0af0d100674e54b1e1d48798d73f566d6c",
+  "edition": 2432,
+  "date": 1689536317968,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

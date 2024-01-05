@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1049",
+  "description": "Sharks",
+  "image": "/1049.png",
+  "dna": "dce4e1ae1d02d1c4f1cfdb40e09c45d75f36b2db",
+  "edition": 1049,
+  "date": 1689536281718,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

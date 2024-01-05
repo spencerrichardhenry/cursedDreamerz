@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2030",
+  "description": "Sharks",
+  "image": "/2030.png",
+  "dna": "e909a2b29679d3321525f1d1b2ac1bbeb50b48ea",
+  "edition": 2030,
+  "date": 1689536307676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

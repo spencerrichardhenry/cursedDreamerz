@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3203",
+  "description": "Sharks",
+  "image": "/3203.png",
+  "dna": "3fa78b95a1e622eb6ada96f177c64e88103bc5d2",
+  "edition": 3203,
+  "date": 1689536337577,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

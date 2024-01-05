@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1953",
+  "description": "Sharks",
+  "image": "/1953.png",
+  "dna": "6534f23549a5d86c8256248ea86f49b32a832323",
+  "edition": 1953,
+  "date": 1689536305708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

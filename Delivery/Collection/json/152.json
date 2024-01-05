@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #152",
+  "description": "Sharks",
+  "image": "/152.png",
+  "dna": "bcdc5c9b63299cb77c890036275a95ed02157474",
+  "edition": 152,
+  "date": 1689536258404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

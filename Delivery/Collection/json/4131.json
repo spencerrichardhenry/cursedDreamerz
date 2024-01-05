@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4131",
+  "description": "Sharks",
+  "image": "/4131.png",
+  "dna": "99d8bf182e58cdcef4ec856f553a542204eb0b78",
+  "edition": 4131,
+  "date": 1689536360664,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

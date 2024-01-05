@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9829",
+  "description": "Sharks",
+  "image": "/9829.png",
+  "dna": "fc912a1ab855004e3f2c019fd5eb85b214331b98",
+  "edition": 9829,
+  "date": 1689536503590,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

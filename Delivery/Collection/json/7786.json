@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7786",
+  "description": "Sharks",
+  "image": "/7786.png",
+  "dna": "6edb96bacc18a4c703380cdbff98779e516e2cf0",
+  "edition": 7786,
+  "date": 1689536452157,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

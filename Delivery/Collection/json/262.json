@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #262",
+  "description": "Sharks",
+  "image": "/262.png",
+  "dna": "41d0b1db82af8dabc427c8e1b189ce96e0cc4e4f",
+  "edition": 262,
+  "date": 1689536261283,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

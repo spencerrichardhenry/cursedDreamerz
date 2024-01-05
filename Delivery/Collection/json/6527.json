@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6527",
+  "description": "Sharks",
+  "image": "/6527.png",
+  "dna": "9f8c7e112c74aacfe39ad75c6ad177407ce76d22",
+  "edition": 6527,
+  "date": 1689536420743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

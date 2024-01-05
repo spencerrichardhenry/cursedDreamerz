@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8250",
+  "description": "Sharks",
+  "image": "/8250.png",
+  "dna": "5a79fa886cf88ee109a9d103f3402cb82162dac2",
+  "edition": 8250,
+  "date": 1689536463751,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

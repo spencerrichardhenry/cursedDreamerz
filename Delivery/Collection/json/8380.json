@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8380",
+  "description": "Sharks",
+  "image": "/8380.png",
+  "dna": "f9d2f4744d8c7619e852b78011db7a8a8fbbdec1",
+  "edition": 8380,
+  "date": 1689536467121,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

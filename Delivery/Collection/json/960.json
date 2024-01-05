@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #960",
+  "description": "Sharks",
+  "image": "/960.png",
+  "dna": "63141622ad8e81a908fa3627d3d9aa6a39e79258",
+  "edition": 960,
+  "date": 1689536279293,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

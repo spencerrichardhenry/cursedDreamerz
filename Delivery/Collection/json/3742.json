@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3742",
+  "description": "Sharks",
+  "image": "/3742.png",
+  "dna": "b9ed18f2bd1ed5ad3e5f0a9eba013578768eb78d",
+  "edition": 3742,
+  "date": 1689536351029,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

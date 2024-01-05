@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3221",
+  "description": "Sharks",
+  "image": "/3221.png",
+  "dna": "b016a9ac6b3493a8b1036e25986e447fdf7aeb8d",
+  "edition": 3221,
+  "date": 1689536338027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

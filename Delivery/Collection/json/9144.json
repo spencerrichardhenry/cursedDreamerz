@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9144",
+  "description": "Sharks",
+  "image": "/9144.png",
+  "dna": "4fc2c94ed0634d1c967d6c6ddb925b42dbeed51a",
+  "edition": 9144,
+  "date": 1689536486338,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

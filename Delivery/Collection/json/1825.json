@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1825",
+  "description": "Sharks",
+  "image": "/1825.png",
+  "dna": "c4de8df2f7ea717bbc40a764b53cccf3627aac94",
+  "edition": 1825,
+  "date": 1689536302405,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

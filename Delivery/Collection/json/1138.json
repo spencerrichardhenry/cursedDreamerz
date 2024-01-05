@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1138",
+  "description": "Sharks",
+  "image": "/1138.png",
+  "dna": "20c63443ddb1b8778bb066a80b1478608b6dae98",
+  "edition": 1138,
+  "date": 1689536284062,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

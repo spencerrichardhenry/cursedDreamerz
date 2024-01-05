@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1040",
+  "description": "Sharks",
+  "image": "/1040.png",
+  "dna": "ea06ff38d183dc6f953219e59cdc7bdf07834aff",
+  "edition": 1040,
+  "date": 1689536281487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

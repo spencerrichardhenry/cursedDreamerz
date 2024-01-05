@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #761",
+  "description": "Sharks",
+  "image": "/761.png",
+  "dna": "49d1e107bd63a5f612b0b5ef70120fc68d40b4b2",
+  "edition": 761,
+  "date": 1689536274143,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

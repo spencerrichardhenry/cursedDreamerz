@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #795",
+  "description": "Sharks",
+  "image": "/795.png",
+  "dna": "b34e44d1e1ce05090ee376ba9a5a3ad2cca58651",
+  "edition": 795,
+  "date": 1689536275009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

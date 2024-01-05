@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2170",
+  "description": "Sharks",
+  "image": "/2170.png",
+  "dna": "322bef6d157fe59250fa28f32019548e63fd95cf",
+  "edition": 2170,
+  "date": 1689536311322,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

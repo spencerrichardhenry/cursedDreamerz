@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #726",
+  "description": "Sharks",
+  "image": "/726.png",
+  "dna": "112b51f5f315c0da7ee4bcf2229171de0b30b15f",
+  "edition": 726,
+  "date": 1689536273065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

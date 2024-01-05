@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2399",
+  "description": "Sharks",
+  "image": "/2399.png",
+  "dna": "d4e43c2171b5f4389c5e3684842eae910fadd926",
+  "edition": 2399,
+  "date": 1689536317135,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

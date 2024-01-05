@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #793",
+  "description": "Sharks",
+  "image": "/793.png",
+  "dna": "3f9987588d75e8cd7fbb5cc01a5ebd65e3d409d6",
+  "edition": 793,
+  "date": 1689536274960,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

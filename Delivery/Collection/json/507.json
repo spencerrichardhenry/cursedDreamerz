@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #507",
+  "description": "Sharks",
+  "image": "/507.png",
+  "dna": "60947303ac09cfd28b7dd61ffaa242009ba78168",
+  "edition": 507,
+  "date": 1689536267496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

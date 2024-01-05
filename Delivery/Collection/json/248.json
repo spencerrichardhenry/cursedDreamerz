@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #248",
+  "description": "Sharks",
+  "image": "/248.png",
+  "dna": "78da8648289d96bebdcf3b521a0d5a5c6658042c",
+  "edition": 248,
+  "date": 1689536260912,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

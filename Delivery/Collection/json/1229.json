@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1229",
+  "description": "Sharks",
+  "image": "/1229.png",
+  "dna": "845f9ef8a637bee1cc1860befc8e774d7deffd41",
+  "edition": 1229,
+  "date": 1689536286426,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

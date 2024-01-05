@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4420",
+  "description": "Sharks",
+  "image": "/4420.png",
+  "dna": "64d069f03dc6b7ea54bb6d8e661d64f9dd079df4",
+  "edition": 4420,
+  "date": 1689536368069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

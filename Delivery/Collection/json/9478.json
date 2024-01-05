@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9478",
+  "description": "Sharks",
+  "image": "/9478.png",
+  "dna": "5df4a7a3ed1f1faea219a344bb9f447b0d6138e2",
+  "edition": 9478,
+  "date": 1689536494659,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

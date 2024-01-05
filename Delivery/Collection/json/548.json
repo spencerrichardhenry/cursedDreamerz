@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #548",
+  "description": "Sharks",
+  "image": "/548.png",
+  "dna": "ba18508b327f59e80130c16780fd3d4cba7cebec",
+  "edition": 548,
+  "date": 1689536268514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

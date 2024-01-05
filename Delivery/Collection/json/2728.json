@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2728",
+  "description": "Sharks",
+  "image": "/2728.png",
+  "dna": "96b6fe5a62e2383fc3aa2280bc5a7f5a0c1ced28",
+  "edition": 2728,
+  "date": 1689536325463,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

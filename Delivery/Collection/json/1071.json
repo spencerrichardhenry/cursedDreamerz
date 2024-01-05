@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1071",
+  "description": "Sharks",
+  "image": "/1071.png",
+  "dna": "27ba69d1e449fec13b9577c8a70f897eeefff8f8",
+  "edition": 1071,
+  "date": 1689536282347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

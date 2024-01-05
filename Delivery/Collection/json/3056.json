@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3056",
+  "description": "Sharks",
+  "image": "/3056.png",
+  "dna": "ccbcfe50f0994e09d731786b5776772512e5549e",
+  "edition": 3056,
+  "date": 1689536333768,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

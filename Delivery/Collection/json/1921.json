@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1921",
+  "description": "Sharks",
+  "image": "/1921.png",
+  "dna": "eec4553594b50ccc6d261b6e7e22852643f3840d",
+  "edition": 1921,
+  "date": 1689536304878,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

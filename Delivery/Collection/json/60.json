@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #60",
+  "description": "Sharks",
+  "image": "/60.png",
+  "dna": "cc24900405e6d85ccfb9434a1ac309ef615bc265",
+  "edition": 60,
+  "date": 1689536256062,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

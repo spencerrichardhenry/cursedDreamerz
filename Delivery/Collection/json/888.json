@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #888",
+  "description": "Sharks",
+  "image": "/888.png",
+  "dna": "58134431655c55e12773f07caa89065d6aa2f820",
+  "edition": 888,
+  "date": 1689536277447,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

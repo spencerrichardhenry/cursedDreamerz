@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2764",
+  "description": "Sharks",
+  "image": "/2764.png",
+  "dna": "bbd6fef31aed8ff44c90599ac491da3fd8ffbca4",
+  "edition": 2764,
+  "date": 1689536326360,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #950",
+  "description": "Sharks",
+  "image": "/950.png",
+  "dna": "76752b52fb8d4461ae32f0be1d44582f713e6d2f",
+  "edition": 950,
+  "date": 1689536279027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

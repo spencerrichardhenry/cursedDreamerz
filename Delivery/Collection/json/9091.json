@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9091",
+  "description": "Sharks",
+  "image": "/9091.png",
+  "dna": "27881db2a7d242ff380683e68cef2ebd3d351da0",
+  "edition": 9091,
+  "date": 1689536485023,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

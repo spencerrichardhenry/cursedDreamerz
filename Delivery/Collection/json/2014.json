@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2014",
+  "description": "Sharks",
+  "image": "/2014.png",
+  "dna": "ce2f799984b8b9d0971f150ceca320db1e1cb258",
+  "edition": 2014,
+  "date": 1689536307275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

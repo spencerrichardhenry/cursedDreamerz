@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #187",
+  "description": "Sharks",
+  "image": "/187.png",
+  "dna": "5e795495c41720463d19238b869bc2bdb0036990",
+  "edition": 187,
+  "date": 1689536259350,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

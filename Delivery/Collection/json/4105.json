@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4105",
+  "description": "Sharks",
+  "image": "/4105.png",
+  "dna": "279a625cbe18a479faa7a76dd2a37929b075babf",
+  "edition": 4105,
+  "date": 1689536360016,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

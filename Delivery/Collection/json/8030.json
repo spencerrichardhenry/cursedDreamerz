@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8030",
+  "description": "Sharks",
+  "image": "/8030.png",
+  "dna": "ac6d358f24652ecca2e9d14c5bbdc42f46075e3b",
+  "edition": 8030,
+  "date": 1689536458225,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

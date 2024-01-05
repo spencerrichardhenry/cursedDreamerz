@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9968",
+  "description": "Sharks",
+  "image": "/9968.png",
+  "dna": "97d3fb8adf3b0057db8e4b06b061f40110d22dc7",
+  "edition": 9968,
+  "date": 1689536507191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

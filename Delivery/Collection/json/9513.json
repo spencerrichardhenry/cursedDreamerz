@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9513",
+  "description": "Sharks",
+  "image": "/9513.png",
+  "dna": "8839c5213ecdfb0220ca61f5f34eb95d9d466e64",
+  "edition": 9513,
+  "date": 1689536495539,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

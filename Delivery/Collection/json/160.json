@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #160",
+  "description": "Sharks",
+  "image": "/160.png",
+  "dna": "2e4ae7e3fc773e59cc9a1fdd5650a95c75874ffb",
+  "edition": 160,
+  "date": 1689536258620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

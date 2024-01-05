@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4321",
+  "description": "Sharks",
+  "image": "/4321.png",
+  "dna": "203a560b175331890bd96241ee183583bad463bd",
+  "edition": 4321,
+  "date": 1689536365487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

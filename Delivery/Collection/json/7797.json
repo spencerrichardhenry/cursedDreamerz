@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7797",
+  "description": "Sharks",
+  "image": "/7797.png",
+  "dna": "2307d926b7d06800f6a6dfb77012489dbdcec967",
+  "edition": 7797,
+  "date": 1689536452441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

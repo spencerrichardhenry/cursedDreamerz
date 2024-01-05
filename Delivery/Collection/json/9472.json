@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9472",
+  "description": "Sharks",
+  "image": "/9472.png",
+  "dna": "479776761a5404d2e71bf7dd489448b189004aef",
+  "edition": 9472,
+  "date": 1689536494500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

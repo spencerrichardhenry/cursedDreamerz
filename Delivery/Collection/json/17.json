@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #17",
+  "description": "Sharks",
+  "image": "/17.png",
+  "dna": "f3ad09c440994345529d8a34add360a63bbc799f",
+  "edition": 17,
+  "date": 1689536254883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

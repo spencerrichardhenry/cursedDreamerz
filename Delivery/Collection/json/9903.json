@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9903",
+  "description": "Sharks",
+  "image": "/9903.png",
+  "dna": "43c8056d5c1d1a2ad7f6c498ad5aaa05f1c71c88",
+  "edition": 9903,
+  "date": 1689536505523,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3040",
+  "description": "Sharks",
+  "image": "/3040.png",
+  "dna": "9b104fa49b7e03d5eaa61c15e82d89a3dc0146fb",
+  "edition": 3040,
+  "date": 1689536333352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

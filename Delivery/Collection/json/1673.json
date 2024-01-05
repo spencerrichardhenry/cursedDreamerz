@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1673",
+  "description": "Sharks",
+  "image": "/1673.png",
+  "dna": "a1e285a2749f51a7dc9028a202bcd63d09577073",
+  "edition": 1673,
+  "date": 1689536298225,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

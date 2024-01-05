@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9043",
+  "description": "Sharks",
+  "image": "/9043.png",
+  "dna": "4ec01c992dd07eae9fcb6d02d2b7b28f42537e7c",
+  "edition": 9043,
+  "date": 1689536483807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

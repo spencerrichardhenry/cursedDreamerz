@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9257",
+  "description": "Sharks",
+  "image": "/9257.png",
+  "dna": "cf8819d7754a0f079769f2cc4a35dd1e2f7a6e63",
+  "edition": 9257,
+  "date": 1689536489148,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

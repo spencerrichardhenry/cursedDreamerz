@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2034",
+  "description": "Sharks",
+  "image": "/2034.png",
+  "dna": "ccbf31e91998082288d14bb2572106f892552861",
+  "edition": 2034,
+  "date": 1689536307782,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

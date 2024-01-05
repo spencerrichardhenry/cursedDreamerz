@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3972",
+  "description": "Sharks",
+  "image": "/3972.png",
+  "dna": "12516408aaa4113d691116902ad591324bff26e3",
+  "edition": 3972,
+  "date": 1689536356720,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

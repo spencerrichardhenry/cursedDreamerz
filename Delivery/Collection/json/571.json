@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #571",
+  "description": "Sharks",
+  "image": "/571.png",
+  "dna": "f4fb220576665ef6f8f19c1079fb947e77e9440a",
+  "edition": 571,
+  "date": 1689536269102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #785",
+  "description": "Sharks",
+  "image": "/785.png",
+  "dna": "8726dd606cc02a5dcfe08d2e9708a91950c75183",
+  "edition": 785,
+  "date": 1689536274757,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

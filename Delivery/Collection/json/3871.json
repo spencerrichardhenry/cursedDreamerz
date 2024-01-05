@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3871",
+  "description": "Sharks",
+  "image": "/3871.png",
+  "dna": "66ca6ebaf4ae6973cae43217dec70079cc72622e",
+  "edition": 3871,
+  "date": 1689536354217,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2346",
+  "description": "Sharks",
+  "image": "/2346.png",
+  "dna": "c07816c2d61afee800df032dece00bc05b78cc19",
+  "edition": 2346,
+  "date": 1689536315781,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

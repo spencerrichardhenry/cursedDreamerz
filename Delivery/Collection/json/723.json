@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #723",
+  "description": "Sharks",
+  "image": "/723.png",
+  "dna": "944400ad761e71742a8eadcf4d2240a77c2f5b6b",
+  "edition": 723,
+  "date": 1689536272978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

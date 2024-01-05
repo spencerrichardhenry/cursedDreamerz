@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9205",
+  "description": "Sharks",
+  "image": "/9205.png",
+  "dna": "766148244b287740f33e9c83982acafbb52d38a7",
+  "edition": 9205,
+  "date": 1689536487854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

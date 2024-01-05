@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #290",
+  "description": "Sharks",
+  "image": "/290.png",
+  "dna": "8c625c999453108c0a75b62154836a4324bfc0d4",
+  "edition": 290,
+  "date": 1689536261988,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

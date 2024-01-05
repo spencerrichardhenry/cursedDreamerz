@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #156",
+  "description": "Sharks",
+  "image": "/156.png",
+  "dna": "b8c8801b5ab313a02e186501ccb0a6395ad921ff",
+  "edition": 156,
+  "date": 1689536258525,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

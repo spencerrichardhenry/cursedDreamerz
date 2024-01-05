@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1130",
+  "description": "Sharks",
+  "image": "/1130.png",
+  "dna": "c1e9915f0c4468983a17a75f0ca0fc0caf3c1c81",
+  "edition": 1130,
+  "date": 1689536283864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

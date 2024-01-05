@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1879",
+  "description": "Sharks",
+  "image": "/1879.png",
+  "dna": "0c21d5a7ec912fd5951108e4ba83353977fed7b8",
+  "edition": 1879,
+  "date": 1689536303799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

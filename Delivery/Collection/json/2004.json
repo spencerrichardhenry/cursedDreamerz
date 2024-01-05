@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2004",
+  "description": "Sharks",
+  "image": "/2004.png",
+  "dna": "772d8c81bcac4b4a3a21c38b88677390f17ee84f",
+  "edition": 2004,
+  "date": 1689536307025,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7936",
+  "description": "Sharks",
+  "image": "/7936.png",
+  "dna": "9b7a5f3324dfecf3c698f6ba7645c250b4223f04",
+  "edition": 7936,
+  "date": 1689536455878,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

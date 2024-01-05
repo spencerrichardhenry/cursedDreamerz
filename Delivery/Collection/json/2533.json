@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2533",
+  "description": "Sharks",
+  "image": "/2533.png",
+  "dna": "582e839e1b431b6b7d62b9ccefc55e9cc3197eb6",
+  "edition": 2533,
+  "date": 1689536320518,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

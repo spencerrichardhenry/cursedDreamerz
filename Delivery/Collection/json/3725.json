@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3725",
+  "description": "Sharks",
+  "image": "/3725.png",
+  "dna": "91be1ac6cf554ebd4aee059f5f6f36386cf98694",
+  "edition": 3725,
+  "date": 1689536350605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4055",
+  "description": "Sharks",
+  "image": "/4055.png",
+  "dna": "57bd6eea00dfc2bcf5009f45e9de63bd0f064747",
+  "edition": 4055,
+  "date": 1689536358790,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

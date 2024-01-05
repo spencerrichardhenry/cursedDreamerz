@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2789",
+  "description": "Sharks",
+  "image": "/2789.png",
+  "dna": "c5a639a975b7ad740b06956ab11ce8383e68ba37",
+  "edition": 2789,
+  "date": 1689536326986,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

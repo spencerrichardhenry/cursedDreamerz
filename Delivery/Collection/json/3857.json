@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3857",
+  "description": "Sharks",
+  "image": "/3857.png",
+  "dna": "cc00cf9146d6b85fb43ca8b48451d1083a4a77c1",
+  "edition": 3857,
+  "date": 1689536353878,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #445",
+  "description": "Sharks",
+  "image": "/445.png",
+  "dna": "f021b6e34ab12f028ac7d4668c7c1ee232e84c9e",
+  "edition": 445,
+  "date": 1689536265934,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

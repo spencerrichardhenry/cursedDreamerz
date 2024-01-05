@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1968",
+  "description": "Sharks",
+  "image": "/1968.png",
+  "dna": "129ab7d288b28534d2a9b44055aa2a42c7d2ae51",
+  "edition": 1968,
+  "date": 1689536306106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

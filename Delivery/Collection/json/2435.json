@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2435",
+  "description": "Sharks",
+  "image": "/2435.png",
+  "dna": "e1b44c4904af77a82b3233b8ea732223e4427f5d",
+  "edition": 2435,
+  "date": 1689536318044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

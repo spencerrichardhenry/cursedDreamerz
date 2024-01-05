@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6197",
+  "description": "Sharks",
+  "image": "/6197.png",
+  "dna": "7b48b043561808c7db4cd7fa666003a6715e45ab",
+  "edition": 6197,
+  "date": 1689536412583,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3618",
+  "description": "Sharks",
+  "image": "/3618.png",
+  "dna": "712f23f501b87480af6dfda0fe31f874d4529077",
+  "edition": 3618,
+  "date": 1689536347958,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

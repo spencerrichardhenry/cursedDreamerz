@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #31",
+  "description": "Sharks",
+  "image": "/31.png",
+  "dna": "a0a2e04a49980fa0c72f0736266d568e34e1a068",
+  "edition": 31,
+  "date": 1689536255295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

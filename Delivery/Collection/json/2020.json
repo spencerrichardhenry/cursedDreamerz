@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2020",
+  "description": "Sharks",
+  "image": "/2020.png",
+  "dna": "fe79c1498d4cfd0565cda2b59cdde6f4a4eabc67",
+  "edition": 2020,
+  "date": 1689536307427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

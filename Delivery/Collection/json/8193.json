@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8193",
+  "description": "Sharks",
+  "image": "/8193.png",
+  "dna": "58f0af81e8a1e9b2d9d162e21c875f1dbf13f961",
+  "edition": 8193,
+  "date": 1689536462336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

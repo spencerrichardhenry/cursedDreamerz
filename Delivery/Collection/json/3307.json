@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3307",
+  "description": "Sharks",
+  "image": "/3307.png",
+  "dna": "116eb23fd9e4cbc04cc15f8b2f83e2c8a3371ec5",
+  "edition": 3307,
+  "date": 1689536340173,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

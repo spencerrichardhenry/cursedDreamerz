@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3777",
+  "description": "Sharks",
+  "image": "/3777.png",
+  "dna": "94b0c9a67d3287cc4684f454b3a9324dec1e5517",
+  "edition": 3777,
+  "date": 1689536351899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

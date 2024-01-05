@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1831",
+  "description": "Sharks",
+  "image": "/1831.png",
+  "dna": "7e61ce73c08210558c9b019d29f7fd1916493ab6",
+  "edition": 1831,
+  "date": 1689536302568,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3204",
+  "description": "Sharks",
+  "image": "/3204.png",
+  "dna": "c674d1ce4046308cb980c5b2762f6d9c52898877",
+  "edition": 3204,
+  "date": 1689536337602,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

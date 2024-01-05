@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #842",
+  "description": "Sharks",
+  "image": "/842.png",
+  "dna": "84fbc41ccd6ea644b155a3380cfbd33ecacdadb9",
+  "edition": 842,
+  "date": 1689536276245,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

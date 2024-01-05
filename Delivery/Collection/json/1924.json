@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1924",
+  "description": "Sharks",
+  "image": "/1924.png",
+  "dna": "e683c7fe96a9b31625fd091d003884cf12526f3e",
+  "edition": 1924,
+  "date": 1689536304958,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

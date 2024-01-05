@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6600",
+  "description": "Sharks",
+  "image": "/6600.png",
+  "dna": "890b8b4cda990defca1e125ddc03de9881c21cfe",
+  "edition": 6600,
+  "date": 1689536422600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

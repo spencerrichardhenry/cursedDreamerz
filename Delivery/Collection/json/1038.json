@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1038",
+  "description": "Sharks",
+  "image": "/1038.png",
+  "dna": "2df3c2eebd9d6e180f4af27cfa8ffda7ae377d2e",
+  "edition": 1038,
+  "date": 1689536281428,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

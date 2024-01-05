@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5874",
+  "description": "Sharks",
+  "image": "/5874.png",
+  "dna": "71d9ebf745d0d4173df265f0d418e83c7d4a70fd",
+  "edition": 5874,
+  "date": 1689536404445,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

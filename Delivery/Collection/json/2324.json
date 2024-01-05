@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2324",
+  "description": "Sharks",
+  "image": "/2324.png",
+  "dna": "310dc98a4e5ecf3994c6c9d9bae3680cb252c112",
+  "edition": 2324,
+  "date": 1689536315229,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

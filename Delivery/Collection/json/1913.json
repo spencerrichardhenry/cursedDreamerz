@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1913",
+  "description": "Sharks",
+  "image": "/1913.png",
+  "dna": "605d4f1ddfa4458c69b34f7bd89c95d790f3cdbf",
+  "edition": 1913,
+  "date": 1689536304672,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

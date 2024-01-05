@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5074",
+  "description": "Sharks",
+  "image": "/5074.png",
+  "dna": "79d1340247134ce456c821804f234e9593a043ef",
+  "edition": 5074,
+  "date": 1689536384521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

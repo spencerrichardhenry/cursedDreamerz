@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9167",
+  "description": "Sharks",
+  "image": "/9167.png",
+  "dna": "9d7aef47352d8cbfb6026abe2e2aa0283be22f0f",
+  "edition": 9167,
+  "date": 1689536486913,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5332",
+  "description": "Sharks",
+  "image": "/5332.png",
+  "dna": "b3ebcf7af5c0e983c2d6701c699022529d059fcd",
+  "edition": 5332,
+  "date": 1689536390956,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

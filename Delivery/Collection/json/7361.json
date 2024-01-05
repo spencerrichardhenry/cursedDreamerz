@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7361",
+  "description": "Sharks",
+  "image": "/7361.png",
+  "dna": "131f3b1cde3e197807b22f7b568b187942f405fc",
+  "edition": 7361,
+  "date": 1689536441571,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #956",
+  "description": "Sharks",
+  "image": "/956.png",
+  "dna": "cf5d3eb561b0418c8d0eefac18dc8387d21fe21b",
+  "edition": 956,
+  "date": 1689536279195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

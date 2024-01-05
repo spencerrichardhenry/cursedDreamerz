@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1352",
+  "description": "Sharks",
+  "image": "/1352.png",
+  "dna": "0174ccf212cb1abb9e0dcfd84daca22d7da6e4e1",
+  "edition": 1352,
+  "date": 1689536289670,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

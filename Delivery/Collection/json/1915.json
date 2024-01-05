@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1915",
+  "description": "Sharks",
+  "image": "/1915.png",
+  "dna": "bc8028a607f0ed2a1c1fcc266a26f093fcceea63",
+  "edition": 1915,
+  "date": 1689536304729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

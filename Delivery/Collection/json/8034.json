@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8034",
+  "description": "Sharks",
+  "image": "/8034.png",
+  "dna": "f75923c4efc54b205c84608153cedcbe0dcb0582",
+  "edition": 8034,
+  "date": 1689536458333,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

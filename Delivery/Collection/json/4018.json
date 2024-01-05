@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4018",
+  "description": "Sharks",
+  "image": "/4018.png",
+  "dna": "b7f5410223f04a7c6cdfedf577e2bcf2a2c18380",
+  "edition": 4018,
+  "date": 1689536357862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

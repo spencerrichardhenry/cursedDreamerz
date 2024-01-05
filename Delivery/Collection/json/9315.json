@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9315",
+  "description": "Sharks",
+  "image": "/9315.png",
+  "dna": "803241921d25ab1ea26f7604ffb4f73ff21ebe53",
+  "edition": 9315,
+  "date": 1689536490588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

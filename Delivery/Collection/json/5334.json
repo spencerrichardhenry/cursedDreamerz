@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5334",
+  "description": "Sharks",
+  "image": "/5334.png",
+  "dna": "26d7bcfcac80887a9ab4a84da791a18a07c6aeca",
+  "edition": 5334,
+  "date": 1689536391003,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1603",
+  "description": "Sharks",
+  "image": "/1603.png",
+  "dna": "5d84897686db47a0e4d9a2796286dfdd391b4288",
+  "edition": 1603,
+  "date": 1689536296379,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

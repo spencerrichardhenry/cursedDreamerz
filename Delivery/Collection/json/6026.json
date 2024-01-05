@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6026",
+  "description": "Sharks",
+  "image": "/6026.png",
+  "dna": "a669a6fafcdafc7b84706529ec472e181e1852fb",
+  "edition": 6026,
+  "date": 1689536408267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

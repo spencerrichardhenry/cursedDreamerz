@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #219",
+  "description": "Sharks",
+  "image": "/219.png",
+  "dna": "024db2c41eed239240a4470424900f0a66b761c4",
+  "edition": 219,
+  "date": 1689536260155,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

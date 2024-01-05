@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #930",
+  "description": "Sharks",
+  "image": "/930.png",
+  "dna": "5c764ce4c26fcea1484dcb655d134dece9f4d852",
+  "edition": 930,
+  "date": 1689536278521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #332",
+  "description": "Sharks",
+  "image": "/332.png",
+  "dna": "4bc136f66a43940791e3b44b5bd4825bd0b8f5a0",
+  "edition": 332,
+  "date": 1689536263081,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

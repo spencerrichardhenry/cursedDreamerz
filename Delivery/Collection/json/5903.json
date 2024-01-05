@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5903",
+  "description": "Sharks",
+  "image": "/5903.png",
+  "dna": "5fb38f40eb2eff153c577223eaa3a0192e6680a0",
+  "edition": 5903,
+  "date": 1689536405175,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

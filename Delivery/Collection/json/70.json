@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #70",
+  "description": "Sharks",
+  "image": "/70.png",
+  "dna": "91d23885a3761e73bc9a60d94bd10971c83c5fd8",
+  "edition": 70,
+  "date": 1689536256311,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

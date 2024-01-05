@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #528",
+  "description": "Sharks",
+  "image": "/528.png",
+  "dna": "da17e2284460922c7b9f2cbe06b949dda899caef",
+  "edition": 528,
+  "date": 1689536268026,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

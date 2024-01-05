@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2024",
+  "description": "Sharks",
+  "image": "/2024.png",
+  "dna": "b15afbfdf8c0ab0fbb74fe00311cf7a2ba5b0377",
+  "edition": 2024,
+  "date": 1689536307525,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

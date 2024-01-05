@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1674",
+  "description": "Sharks",
+  "image": "/1674.png",
+  "dna": "7f7ed856585e3f59e8339288e3bcdc088c686080",
+  "edition": 1674,
+  "date": 1689536298257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

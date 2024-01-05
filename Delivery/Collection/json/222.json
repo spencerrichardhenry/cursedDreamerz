@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #222",
+  "description": "Sharks",
+  "image": "/222.png",
+  "dna": "629640ac39685229f8ef44d19118deb31147cbbb",
+  "edition": 222,
+  "date": 1689536260235,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

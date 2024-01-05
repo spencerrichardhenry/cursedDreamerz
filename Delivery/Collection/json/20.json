@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #20",
+  "description": "Sharks",
+  "image": "/20.png",
+  "dna": "caa85b1509d651ffe66282998782796ea3a7aae6",
+  "edition": 20,
+  "date": 1689536254959,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

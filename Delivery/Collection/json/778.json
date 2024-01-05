@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #778",
+  "description": "Sharks",
+  "image": "/778.png",
+  "dna": "751e87e25df1dc9866be0adf681c73a28f422c4f",
+  "edition": 778,
+  "date": 1689536274579,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

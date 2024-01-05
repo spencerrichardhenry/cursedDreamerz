@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2098",
+  "description": "Sharks",
+  "image": "/2098.png",
+  "dna": "a81534f4640296b227a6d1f1783139e99fdde801",
+  "edition": 2098,
+  "date": 1689536309404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

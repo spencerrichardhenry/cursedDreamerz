@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1765",
+  "description": "Sharks",
+  "image": "/1765.png",
+  "dna": "dc5a051f7768ceff5fa2fc5a725cbf5cd5d3b5dd",
+  "edition": 1765,
+  "date": 1689536300820,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

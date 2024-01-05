@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1580",
+  "description": "Sharks",
+  "image": "/1580.png",
+  "dna": "6e732243660ae223a828fd04d781ec6c33446025",
+  "edition": 1580,
+  "date": 1689536295778,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

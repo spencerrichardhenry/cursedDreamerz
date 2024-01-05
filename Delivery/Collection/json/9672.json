@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9672",
+  "description": "Sharks",
+  "image": "/9672.png",
+  "dna": "08e0495d85759ee18bf03298d4f0d29e0e6583f2",
+  "edition": 9672,
+  "date": 1689536499546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

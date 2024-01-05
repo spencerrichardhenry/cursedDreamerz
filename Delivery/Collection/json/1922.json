@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1922",
+  "description": "Sharks",
+  "image": "/1922.png",
+  "dna": "1a63ef452a29274922240820c02ad1d47b8e6b6e",
+  "edition": 1922,
+  "date": 1689536304903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9027",
+  "description": "Sharks",
+  "image": "/9027.png",
+  "dna": "453e571404f2ec2a42c38acc91146c6ccda10dbd",
+  "edition": 9027,
+  "date": 1689536483420,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

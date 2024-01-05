@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2507",
+  "description": "Sharks",
+  "image": "/2507.png",
+  "dna": "24957bdfb3555fd729f5357ebbeccc87a7ad6f8b",
+  "edition": 2507,
+  "date": 1689536319860,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

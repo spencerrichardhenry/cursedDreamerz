@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2768",
+  "description": "Sharks",
+  "image": "/2768.png",
+  "dna": "329225baee85cb81284a851af1c3bac0bf30313a",
+  "edition": 2768,
+  "date": 1689536326465,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

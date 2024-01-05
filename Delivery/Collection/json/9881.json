@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9881",
+  "description": "Sharks",
+  "image": "/9881.png",
+  "dna": "2e0eba413e0dae02720c8cd75d3e3336a11379ea",
+  "edition": 9881,
+  "date": 1689536504945,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

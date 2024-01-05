@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1979",
+  "description": "Sharks",
+  "image": "/1979.png",
+  "dna": "1440657723495253d479324b2865ced6668336f7",
+  "edition": 1979,
+  "date": 1689536306385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

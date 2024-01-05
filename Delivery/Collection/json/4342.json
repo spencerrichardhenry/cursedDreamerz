@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4342",
+  "description": "Sharks",
+  "image": "/4342.png",
+  "dna": "201e6b1845ea0aed3237c674dec6a28d16cdee0f",
+  "edition": 4342,
+  "date": 1689536366029,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

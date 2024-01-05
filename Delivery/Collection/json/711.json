@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #711",
+  "description": "Sharks",
+  "image": "/711.png",
+  "dna": "5109f993a9dd1811bdb29e81f239aa56a109ddc6",
+  "edition": 711,
+  "date": 1689536272673,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1510",
+  "description": "Sharks",
+  "image": "/1510.png",
+  "dna": "c0b8fa2525e60d76a062f23be49653bde4bd9d1c",
+  "edition": 1510,
+  "date": 1689536293913,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

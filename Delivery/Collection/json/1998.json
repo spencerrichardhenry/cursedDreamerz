@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1998",
+  "description": "Sharks",
+  "image": "/1998.png",
+  "dna": "0b2a34207ad96b11091f3e629cca0098e50a1524",
+  "edition": 1998,
+  "date": 1689536306883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

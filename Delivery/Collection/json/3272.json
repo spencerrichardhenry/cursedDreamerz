@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3272",
+  "description": "Sharks",
+  "image": "/3272.png",
+  "dna": "2a11a72c9538ce0eece2dc598003d17adfd1846c",
+  "edition": 3272,
+  "date": 1689536339315,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

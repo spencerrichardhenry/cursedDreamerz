@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #14",
+  "description": "Sharks",
+  "image": "/14.png",
+  "dna": "f45486fa57daf52cd40be363b6beb62dee33edb2",
+  "edition": 14,
+  "date": 1689536254808,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

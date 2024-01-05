@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4764",
+  "description": "Sharks",
+  "image": "/4764.png",
+  "dna": "96b133b0800c2fcf10a7ea1556a6a79d92895051",
+  "edition": 4764,
+  "date": 1689536376760,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

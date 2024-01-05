@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4053",
+  "description": "Sharks",
+  "image": "/4053.png",
+  "dna": "84b0710909fe56c9efcd363bb3b66c444333eddb",
+  "edition": 4053,
+  "date": 1689536358741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

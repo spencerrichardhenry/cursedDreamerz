@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #522",
+  "description": "Sharks",
+  "image": "/522.png",
+  "dna": "335557090c9cc5af9e74cbb69051df354191d23a",
+  "edition": 522,
+  "date": 1689536267864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

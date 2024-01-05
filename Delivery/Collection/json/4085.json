@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4085",
+  "description": "Sharks",
+  "image": "/4085.png",
+  "dna": "b380d46cbfcd0e715bc055e3ea9b5c82c50d0467",
+  "edition": 4085,
+  "date": 1689536359522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

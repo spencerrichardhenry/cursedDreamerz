@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3903",
+  "description": "Sharks",
+  "image": "/3903.png",
+  "dna": "447aa62b6dc17cf0a186d1a41a23c4eac20134c0",
+  "edition": 3903,
+  "date": 1689536355012,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

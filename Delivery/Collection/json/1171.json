@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1171",
+  "description": "Sharks",
+  "image": "/1171.png",
+  "dna": "9eeed239cc22bafab5027b08902d0ab48e917e4e",
+  "edition": 1171,
+  "date": 1689536284891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

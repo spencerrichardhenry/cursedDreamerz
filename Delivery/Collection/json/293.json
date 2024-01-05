@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #293",
+  "description": "Sharks",
+  "image": "/293.png",
+  "dna": "99ef3bf473639aa7bb852239e9358357afbd4078",
+  "edition": 293,
+  "date": 1689536262063,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

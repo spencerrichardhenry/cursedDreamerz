@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #111",
+  "description": "Sharks",
+  "image": "/111.png",
+  "dna": "f6a9622face850f12c817f57fc067ce23e6280eb",
+  "edition": 111,
+  "date": 1689536257336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

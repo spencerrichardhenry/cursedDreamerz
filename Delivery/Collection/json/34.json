@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #34",
+  "description": "Sharks",
+  "image": "/34.png",
+  "dna": "18cfa7923f98b29167ab6ab10067cf5cfc20bd14",
+  "edition": 34,
+  "date": 1689536255367,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

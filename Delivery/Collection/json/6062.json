@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6062",
+  "description": "Sharks",
+  "image": "/6062.png",
+  "dna": "20daa1a61ce730d3cce54b6a337c6c14cd4d54a8",
+  "edition": 6062,
+  "date": 1689536409155,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

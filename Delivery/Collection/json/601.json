@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #601",
+  "description": "Sharks",
+  "image": "/601.png",
+  "dna": "0503278e6d0c64f90d73fda1bc084b0c2a95c0a5",
+  "edition": 601,
+  "date": 1689536269851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

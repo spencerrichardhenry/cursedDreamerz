@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8067",
+  "description": "Sharks",
+  "image": "/8067.png",
+  "dna": "b2307dceb18f55efee72d1a589340032ce55de33",
+  "edition": 8067,
+  "date": 1689536459178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

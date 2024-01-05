@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8006",
+  "description": "Sharks",
+  "image": "/8006.png",
+  "dna": "238582f316635ae79352b567a15e178a76e45b34",
+  "edition": 8006,
+  "date": 1689536457631,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #93",
+  "description": "Sharks",
+  "image": "/93.png",
+  "dna": "697b88ee46ae7298b526805f90dab835143dc0ac",
+  "edition": 93,
+  "date": 1689536256892,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

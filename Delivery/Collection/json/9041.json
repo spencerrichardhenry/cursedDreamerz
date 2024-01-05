@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9041",
+  "description": "Sharks",
+  "image": "/9041.png",
+  "dna": "b70fb626e3e53e534721067818231ac9ab5d486c",
+  "edition": 9041,
+  "date": 1689536483760,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

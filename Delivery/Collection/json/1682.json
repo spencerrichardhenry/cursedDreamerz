@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1682",
+  "description": "Sharks",
+  "image": "/1682.png",
+  "dna": "ecb9c889060094c6af3aefa431958c7c91b9661b",
+  "edition": 1682,
+  "date": 1689536298487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

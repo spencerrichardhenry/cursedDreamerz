@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1634",
+  "description": "Sharks",
+  "image": "/1634.png",
+  "dna": "0e2ba6a11a6db5b58bb90294b3fe050264da5ee8",
+  "edition": 1634,
+  "date": 1689536297208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

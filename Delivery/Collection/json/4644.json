@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4644",
+  "description": "Sharks",
+  "image": "/4644.png",
+  "dna": "29de2597cec2e50f71d54662b2aa3b976143f3d5",
+  "edition": 4644,
+  "date": 1689536373771,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

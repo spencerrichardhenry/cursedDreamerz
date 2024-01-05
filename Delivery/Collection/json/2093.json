@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2093",
+  "description": "Sharks",
+  "image": "/2093.png",
+  "dna": "66ee3995d3573088c8d86e8f71f4d3eca6d16493",
+  "edition": 2093,
+  "date": 1689536309282,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

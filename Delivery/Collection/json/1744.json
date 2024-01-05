@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1744",
+  "description": "Sharks",
+  "image": "/1744.png",
+  "dna": "fa46215702f931eb95e388b3e68e02e366d69390",
+  "edition": 1744,
+  "date": 1689536300271,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

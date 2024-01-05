@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2418",
+  "description": "Sharks",
+  "image": "/2418.png",
+  "dna": "091f442545e0388317a6055bd85e8453ded4b44f",
+  "edition": 2418,
+  "date": 1689536317624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

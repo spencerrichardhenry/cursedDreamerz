@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9051",
+  "description": "Sharks",
+  "image": "/9051.png",
+  "dna": "ec50f2ccda96460c9316a2bb2b854b11546a3c9e",
+  "edition": 9051,
+  "date": 1689536484021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

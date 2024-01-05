@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1382",
+  "description": "Sharks",
+  "image": "/1382.png",
+  "dna": "92ca9d2b839ecb5f4dbd7f3a979afb8c3ed3463d",
+  "edition": 1382,
+  "date": 1689536290455,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

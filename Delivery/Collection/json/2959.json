@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2959",
+  "description": "Sharks",
+  "image": "/2959.png",
+  "dna": "1e05e8cc59bbca1451f62dddb7ce09b2ee6b4680",
+  "edition": 2959,
+  "date": 1689536331280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

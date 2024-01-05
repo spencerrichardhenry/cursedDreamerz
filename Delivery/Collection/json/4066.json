@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4066",
+  "description": "Sharks",
+  "image": "/4066.png",
+  "dna": "c9642a6034b004fe67883ad7fcdd655737903d83",
+  "edition": 4066,
+  "date": 1689536359057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

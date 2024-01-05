@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7296",
+  "description": "Sharks",
+  "image": "/7296.png",
+  "dna": "29b68b20600a432a8e785586e1225e0195bd1cc0",
+  "edition": 7296,
+  "date": 1689536439954,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

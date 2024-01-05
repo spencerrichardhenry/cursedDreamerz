@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7069",
+  "description": "Sharks",
+  "image": "/7069.png",
+  "dna": "0fe8c1ae9cccc5b6ac1f03014ca632d4d73e1b8f",
+  "edition": 7069,
+  "date": 1689536434270,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

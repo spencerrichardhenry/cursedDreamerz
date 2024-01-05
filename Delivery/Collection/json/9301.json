@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9301",
+  "description": "Sharks",
+  "image": "/9301.png",
+  "dna": "49ed712f09cb898421c08ac8c67728c56bafabd9",
+  "edition": 9301,
+  "date": 1689536490245,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

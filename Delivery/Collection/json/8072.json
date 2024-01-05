@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8072",
+  "description": "Sharks",
+  "image": "/8072.png",
+  "dna": "f07b1d7d8f0ac41e39fda7b68f03c59d84f5a3ea",
+  "edition": 8072,
+  "date": 1689536459298,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #435",
+  "description": "Sharks",
+  "image": "/435.png",
+  "dna": "5c4bf961d84eb85290dcf175e8dfe76b8a294c59",
+  "edition": 435,
+  "date": 1689536265678,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

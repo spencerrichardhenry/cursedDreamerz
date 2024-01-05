@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2097",
+  "description": "Sharks",
+  "image": "/2097.png",
+  "dna": "b27a2e79a002d4e988287e54bdfcab414b44a06c",
+  "edition": 2097,
+  "date": 1689536309378,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

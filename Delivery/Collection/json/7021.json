@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7021",
+  "description": "Sharks",
+  "image": "/7021.png",
+  "dna": "50c3d96c20969b98c69261358085dcdb284ae219",
+  "edition": 7021,
+  "date": 1689536433059,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

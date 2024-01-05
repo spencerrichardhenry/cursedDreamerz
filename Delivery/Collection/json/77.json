@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #77",
+  "description": "Sharks",
+  "image": "/77.png",
+  "dna": "640088d32a6d67648290cda0c81bcdf8d822cffd",
+  "edition": 77,
+  "date": 1689536256481,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

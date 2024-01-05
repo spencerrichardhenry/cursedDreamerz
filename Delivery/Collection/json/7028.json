@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7028",
+  "description": "Sharks",
+  "image": "/7028.png",
+  "dna": "d6dd59e45ebb34044754494d2017a4f0e81dc6a6",
+  "edition": 7028,
+  "date": 1689536433240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

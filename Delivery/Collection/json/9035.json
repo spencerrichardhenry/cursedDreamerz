@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9035",
+  "description": "Sharks",
+  "image": "/9035.png",
+  "dna": "26778db797fd52640e74d7dabc57eb10ac89f017",
+  "edition": 9035,
+  "date": 1689536483610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

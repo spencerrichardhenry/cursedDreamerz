@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8723",
+  "description": "Sharks",
+  "image": "/8723.png",
+  "dna": "2f9fdbc96f1a77bcadefbbf3c0bd994eff635c1f",
+  "edition": 8723,
+  "date": 1689536475808,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

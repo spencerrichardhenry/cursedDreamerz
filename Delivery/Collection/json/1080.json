@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1080",
+  "description": "Sharks",
+  "image": "/1080.png",
+  "dna": "d6d386d3a715367eb94a6bff216c52faed11e114",
+  "edition": 1080,
+  "date": 1689536282625,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

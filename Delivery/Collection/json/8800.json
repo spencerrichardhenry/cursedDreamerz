@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8800",
+  "description": "Sharks",
+  "image": "/8800.png",
+  "dna": "9a33eb3679217a7d95d654a1fd35b9449c7091c9",
+  "edition": 8800,
+  "date": 1689536477741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

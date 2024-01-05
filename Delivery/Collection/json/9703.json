@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9703",
+  "description": "Sharks",
+  "image": "/9703.png",
+  "dna": "180d071a6ad8b0da6dae58ae69c4eff64e58e5b6",
+  "edition": 9703,
+  "date": 1689536500309,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

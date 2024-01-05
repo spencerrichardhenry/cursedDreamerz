@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4950",
+  "description": "Sharks",
+  "image": "/4950.png",
+  "dna": "d7ca9f4f3d574c17a34afd0e398d1e82bf088338",
+  "edition": 4950,
+  "date": 1689536381432,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

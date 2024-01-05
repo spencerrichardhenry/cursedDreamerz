@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7004",
+  "description": "Sharks",
+  "image": "/7004.png",
+  "dna": "40a33483ea13ee346a0ac65497437ed4209bf898",
+  "edition": 7004,
+  "date": 1689536432636,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

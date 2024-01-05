@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #867",
+  "description": "Sharks",
+  "image": "/867.png",
+  "dna": "887a17e3e671ebc59e5325db63254480a430267b",
+  "edition": 867,
+  "date": 1689536276891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

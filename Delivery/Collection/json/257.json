@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #257",
+  "description": "Sharks",
+  "image": "/257.png",
+  "dna": "f2b43ddeeab7d5a2891657f3fdf379bcdfb5c439",
+  "edition": 257,
+  "date": 1689536261135,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1289",
+  "description": "Sharks",
+  "image": "/1289.png",
+  "dna": "3f34f512a0a01ffe9c32b278936a0215757900e3",
+  "edition": 1289,
+  "date": 1689536287989,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

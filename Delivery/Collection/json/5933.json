@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5933",
+  "description": "Sharks",
+  "image": "/5933.png",
+  "dna": "9ff2845918fd1659c7c0e62455318140532f9d6c",
+  "edition": 5933,
+  "date": 1689536405941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

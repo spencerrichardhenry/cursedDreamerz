@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6974",
+  "description": "Sharks",
+  "image": "/6974.png",
+  "dna": "47d4135a1389e75d192268b46e1dbc3f51cd9039",
+  "edition": 6974,
+  "date": 1689536431907,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

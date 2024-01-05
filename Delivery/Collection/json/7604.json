@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7604",
+  "description": "Sharks",
+  "image": "/7604.png",
+  "dna": "1f8eb4ea048ef2bfb80374823da5c6cc03a08909",
+  "edition": 7604,
+  "date": 1689536447603,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

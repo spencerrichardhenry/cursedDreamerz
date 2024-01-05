@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3988",
+  "description": "Sharks",
+  "image": "/3988.png",
+  "dna": "573285e274a9c5a344c775fd310127fa226264ba",
+  "edition": 3988,
+  "date": 1689536357122,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

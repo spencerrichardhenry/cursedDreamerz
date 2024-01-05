@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2314",
+  "description": "Sharks",
+  "image": "/2314.png",
+  "dna": "e6382ce9c59f861430eb4ef290b78a71334630de",
+  "edition": 2314,
+  "date": 1689536314979,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

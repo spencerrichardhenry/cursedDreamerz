@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2331",
+  "description": "Sharks",
+  "image": "/2331.png",
+  "dna": "28f7c6da54d59f10a5cd7db6656028ba986e2c39",
+  "edition": 2331,
+  "date": 1689536315403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

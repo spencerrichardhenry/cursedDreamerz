@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #920",
+  "description": "Sharks",
+  "image": "/920.png",
+  "dna": "16fe05c0ee252cca3c6deaada761f8ceeceecf42",
+  "edition": 920,
+  "date": 1689536278261,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

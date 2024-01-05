@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1973",
+  "description": "Sharks",
+  "image": "/1973.png",
+  "dna": "f2570b652f773f83e2121d325e682289cb62a8be",
+  "edition": 1973,
+  "date": 1689536306229,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

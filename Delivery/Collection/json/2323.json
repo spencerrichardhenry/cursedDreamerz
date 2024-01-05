@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2323",
+  "description": "Sharks",
+  "image": "/2323.png",
+  "dna": "c3afbf53d5ac9901a94b07d0290056677455b2b3",
+  "edition": 2323,
+  "date": 1689536315205,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

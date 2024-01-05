@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2106",
+  "description": "Sharks",
+  "image": "/2106.png",
+  "dna": "860c54b78230a650a2f9c6b1faa0ccba136cee36",
+  "edition": 2106,
+  "date": 1689536309624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

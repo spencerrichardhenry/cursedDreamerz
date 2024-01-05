@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6094",
+  "description": "Sharks",
+  "image": "/6094.png",
+  "dna": "b5e9529e8469e06d74b22c0b3c4fd9f38f383482",
+  "edition": 6094,
+  "date": 1689536409942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1253",
+  "description": "Sharks",
+  "image": "/1253.png",
+  "dna": "2ffe927ae49d69fddb62f8f4ce9eed902bc59564",
+  "edition": 1253,
+  "date": 1689536287042,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

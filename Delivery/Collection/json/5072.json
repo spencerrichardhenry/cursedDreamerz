@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5072",
+  "description": "Sharks",
+  "image": "/5072.png",
+  "dna": "bf7d9184a0962b078f53ac11e3f83fd6c900a335",
+  "edition": 5072,
+  "date": 1689536384472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

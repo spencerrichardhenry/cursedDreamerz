@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #993",
+  "description": "Sharks",
+  "image": "/993.png",
+  "dna": "8b4cc64fc130ed168de7ca0e8d5f492d474a4a7e",
+  "edition": 993,
+  "date": 1689536280202,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

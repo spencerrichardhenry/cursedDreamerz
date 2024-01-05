@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #727",
+  "description": "Sharks",
+  "image": "/727.png",
+  "dna": "820639223aa3c502a89f87aae498ca4777a0e895",
+  "edition": 727,
+  "date": 1689536273097,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

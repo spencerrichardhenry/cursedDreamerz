@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3112",
+  "description": "Sharks",
+  "image": "/3112.png",
+  "dna": "d86c514fe78ff51a5f661b5a412d31ddff5f01c1",
+  "edition": 3112,
+  "date": 1689536335264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2033",
+  "description": "Sharks",
+  "image": "/2033.png",
+  "dna": "9fdeb772608c1d462f48217c7671b94e99a4ff18",
+  "edition": 2033,
+  "date": 1689536307749,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

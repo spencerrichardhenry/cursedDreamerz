@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1720",
+  "description": "Sharks",
+  "image": "/1720.png",
+  "dna": "09e9dbe452cb1f843a5bc391d53280dffd88a289",
+  "edition": 1720,
+  "date": 1689536299586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

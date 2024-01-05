@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2706",
+  "description": "Sharks",
+  "image": "/2706.png",
+  "dna": "19dd7e2f058dd37cb31d7e635d2c9d4022bf24c9",
+  "edition": 2706,
+  "date": 1689536324916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

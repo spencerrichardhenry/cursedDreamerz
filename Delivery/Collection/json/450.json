@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #450",
+  "description": "Sharks",
+  "image": "/450.png",
+  "dna": "cb01842e396ae47afe49b493399539d10e25690a",
+  "edition": 450,
+  "date": 1689536266069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

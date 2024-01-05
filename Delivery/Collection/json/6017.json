@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6017",
+  "description": "Sharks",
+  "image": "/6017.png",
+  "dna": "fd2c03a6dba1f5e955a6bc5fc70aac44c583a559",
+  "edition": 6017,
+  "date": 1689536408054,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

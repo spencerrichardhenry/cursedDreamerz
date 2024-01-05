@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4439",
+  "description": "Sharks",
+  "image": "/4439.png",
+  "dna": "fba765d55c6eb4dc9c7c36f86d701a2b8663534c",
+  "edition": 4439,
+  "date": 1689536368581,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

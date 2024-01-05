@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5452",
+  "description": "Sharks",
+  "image": "/5452.png",
+  "dna": "6459c6f61ef0d17cbe2169787221c54ba3ccbbea",
+  "edition": 5452,
+  "date": 1689536393981,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

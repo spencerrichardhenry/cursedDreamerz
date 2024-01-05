@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8743",
+  "description": "Sharks",
+  "image": "/8743.png",
+  "dna": "c569101cbb25d8e25176035939bf0f0a2c819ecc",
+  "edition": 8743,
+  "date": 1689536476312,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

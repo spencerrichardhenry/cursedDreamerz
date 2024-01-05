@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9719",
+  "description": "Sharks",
+  "image": "/9719.png",
+  "dna": "c07fb5b59e80f9aa2836926a874459ef0bdc7715",
+  "edition": 9719,
+  "date": 1689536500708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

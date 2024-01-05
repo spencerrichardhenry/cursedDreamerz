@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9588",
+  "description": "Sharks",
+  "image": "/9588.png",
+  "dna": "ea0712f73e80251685ae78e4d1a62d87de7e6b51",
+  "edition": 9588,
+  "date": 1689536497427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7723",
+  "description": "Sharks",
+  "image": "/7723.png",
+  "dna": "9fe6a700464cdb2b053cb7f10b96c26787004d4a",
+  "edition": 7723,
+  "date": 1689536450589,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6651",
+  "description": "Sharks",
+  "image": "/6651.png",
+  "dna": "6a4a0bc69cbf610fb213bb5f8cc0c53b6bc82d50",
+  "edition": 6651,
+  "date": 1689536423852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2333",
+  "description": "Sharks",
+  "image": "/2333.png",
+  "dna": "2e61c03d64807293a5082cf963e283e08a883de8",
+  "edition": 2333,
+  "date": 1689536315451,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

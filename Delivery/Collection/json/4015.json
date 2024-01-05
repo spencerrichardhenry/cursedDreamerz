@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4015",
+  "description": "Sharks",
+  "image": "/4015.png",
+  "dna": "5a20cc360477c1d1bc4d49d16aa88966785dfddd",
+  "edition": 4015,
+  "date": 1689536357790,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

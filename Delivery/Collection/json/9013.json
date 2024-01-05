@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9013",
+  "description": "Sharks",
+  "image": "/9013.png",
+  "dna": "d5e7ab1320348fe0714a61cc6e7955e382b80687",
+  "edition": 9013,
+  "date": 1689536483065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

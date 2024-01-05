@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2231",
+  "description": "Sharks",
+  "image": "/2231.png",
+  "dna": "fdc8a8dbe595a8b45a3320a3cc371a94efadea0d",
+  "edition": 2231,
+  "date": 1689536312868,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

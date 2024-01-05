@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2611",
+  "description": "Sharks",
+  "image": "/2611.png",
+  "dna": "c689be2aae45858827d33e7e034f33bb9afc4981",
+  "edition": 2611,
+  "date": 1689536322505,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2510",
+  "description": "Sharks",
+  "image": "/2510.png",
+  "dna": "9f4aa379d1932cff7fe63389647b5d0cb6a53623",
+  "edition": 2510,
+  "date": 1689536319937,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2600",
+  "description": "Sharks",
+  "image": "/2600.png",
+  "dna": "67ec830988bb61e1a6f5099032a42edb8357faf6",
+  "edition": 2600,
+  "date": 1689536322231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

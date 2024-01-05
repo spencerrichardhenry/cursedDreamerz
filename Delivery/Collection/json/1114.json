@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1114",
+  "description": "Sharks",
+  "image": "/1114.png",
+  "dna": "3418f454e26984fae8c170d0a28a1521f3b79b9b",
+  "edition": 1114,
+  "date": 1689536283461,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

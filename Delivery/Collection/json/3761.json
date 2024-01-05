@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3761",
+  "description": "Sharks",
+  "image": "/3761.png",
+  "dna": "473879d7c4eab05a4a85d06d824d075571e37716",
+  "edition": 3761,
+  "date": 1689536351506,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

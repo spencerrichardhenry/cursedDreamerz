@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2128",
+  "description": "Sharks",
+  "image": "/2128.png",
+  "dna": "7a745426f055b089f3b02ad3e206bb89355fbf15",
+  "edition": 2128,
+  "date": 1689536310224,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1820",
+  "description": "Sharks",
+  "image": "/1820.png",
+  "dna": "2ddca6907ff90f2db078fc4dcd78e8af4be00952",
+  "edition": 1820,
+  "date": 1689536302276,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

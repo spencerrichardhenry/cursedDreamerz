@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #310",
+  "description": "Sharks",
+  "image": "/310.png",
+  "dna": "88c26b3e441d346f25fdfa59d84865fa9e882938",
+  "edition": 310,
+  "date": 1689536262492,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

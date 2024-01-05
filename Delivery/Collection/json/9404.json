@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9404",
+  "description": "Sharks",
+  "image": "/9404.png",
+  "dna": "f9ecf200ac7bf635d84e68e1e999c5f676289fc8",
+  "edition": 9404,
+  "date": 1689536492825,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

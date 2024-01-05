@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5896",
+  "description": "Sharks",
+  "image": "/5896.png",
+  "dna": "33b4f0deac497dd088c1c5a856cc3d396a5c75ae",
+  "edition": 5896,
+  "date": 1689536404992,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

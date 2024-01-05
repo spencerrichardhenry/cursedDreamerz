@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #740",
+  "description": "Sharks",
+  "image": "/740.png",
+  "dna": "4e96f1a9f2eb37542ec6339034519dd4c1a47116",
+  "edition": 740,
+  "date": 1689536273491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

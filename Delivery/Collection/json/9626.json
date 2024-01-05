@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9626",
+  "description": "Sharks",
+  "image": "/9626.png",
+  "dna": "9700574a488570cd4d4a2919d0ca602465377e33",
+  "edition": 9626,
+  "date": 1689536498388,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5940",
+  "description": "Sharks",
+  "image": "/5940.png",
+  "dna": "94d08bd2d5f3798d8a68155aef1c758bc5173674",
+  "edition": 5940,
+  "date": 1689536406109,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

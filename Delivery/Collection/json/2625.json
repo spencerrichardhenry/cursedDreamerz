@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2625",
+  "description": "Sharks",
+  "image": "/2625.png",
+  "dna": "ad8607a8c0fa3f02037e2d7289b316e2b5ee2ac3",
+  "edition": 2625,
+  "date": 1689536322858,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

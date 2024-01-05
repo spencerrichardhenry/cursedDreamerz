@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #359",
+  "description": "Sharks",
+  "image": "/359.png",
+  "dna": "9f8a9e7e2411f0ba0f979623fd43f2bdabbe772d",
+  "edition": 359,
+  "date": 1689536263762,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

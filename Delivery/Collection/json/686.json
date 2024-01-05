@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #686",
+  "description": "Sharks",
+  "image": "/686.png",
+  "dna": "62815b0aa55b51d0a142eafdebd0e2db3c700c7e",
+  "edition": 686,
+  "date": 1689536272040,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

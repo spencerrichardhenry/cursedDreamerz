@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4300",
+  "description": "Sharks",
+  "image": "/4300.png",
+  "dna": "46934b73dd4949f7846f1bc6d332600651a9716e",
+  "edition": 4300,
+  "date": 1689536364955,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

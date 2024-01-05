@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3093",
+  "description": "Sharks",
+  "image": "/3093.png",
+  "dna": "7dd1ec33b78e0bd0911b891bdfaa21181056d359",
+  "edition": 3093,
+  "date": 1689536334767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

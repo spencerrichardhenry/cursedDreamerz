@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9693",
+  "description": "Sharks",
+  "image": "/9693.png",
+  "dna": "f85b733b54e1992b4f1c45f4ab07463d86bdfd87",
+  "edition": 9693,
+  "date": 1689536500066,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

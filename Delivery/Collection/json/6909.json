@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6909",
+  "description": "Sharks",
+  "image": "/6909.png",
+  "dna": "7ea20b59541977fdd614df8eb71c95a78334f69d",
+  "edition": 6909,
+  "date": 1689536430290,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

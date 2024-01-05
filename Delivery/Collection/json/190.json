@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #190",
+  "description": "Sharks",
+  "image": "/190.png",
+  "dna": "838223877fdbf97eced07de18bfbf33c56625e4f",
+  "edition": 190,
+  "date": 1689536259423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #370",
+  "description": "Sharks",
+  "image": "/370.png",
+  "dna": "43296bdba6dfa3bacea47683bfa8a288a19e1f0d",
+  "edition": 370,
+  "date": 1689536264048,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

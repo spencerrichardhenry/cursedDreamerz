@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #384",
+  "description": "Sharks",
+  "image": "/384.png",
+  "dna": "8a9c44f1ab1a9534e12566a7751c22a06fafa72f",
+  "edition": 384,
+  "date": 1689536264394,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

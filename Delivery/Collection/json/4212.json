@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4212",
+  "description": "Sharks",
+  "image": "/4212.png",
+  "dna": "ffdc477dcd797afcd5f97261de0fe06228dfb931",
+  "edition": 4212,
+  "date": 1689536362676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

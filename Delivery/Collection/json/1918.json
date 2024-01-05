@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1918",
+  "description": "Sharks",
+  "image": "/1918.png",
+  "dna": "8e48d599132036c8570b4d2c3f0ec2cedf9db4e0",
+  "edition": 1918,
+  "date": 1689536304807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

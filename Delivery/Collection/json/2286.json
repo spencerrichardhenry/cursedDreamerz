@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2286",
+  "description": "Sharks",
+  "image": "/2286.png",
+  "dna": "ef47bdb1ef9ea8c6853dfc7ee3ee0b293a546e13",
+  "edition": 2286,
+  "date": 1689536314276,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

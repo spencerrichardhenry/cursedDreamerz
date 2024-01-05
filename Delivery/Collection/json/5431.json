@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5431",
+  "description": "Sharks",
+  "image": "/5431.png",
+  "dna": "5fde48dfdd0afdaccc9ab3d41f896f9a28163313",
+  "edition": 5431,
+  "date": 1689536393451,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

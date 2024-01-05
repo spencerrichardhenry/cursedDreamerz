@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4683",
+  "description": "Sharks",
+  "image": "/4683.png",
+  "dna": "be8f27a51eecaaef8de34c00b04113930790a61c",
+  "edition": 4683,
+  "date": 1689536374736,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

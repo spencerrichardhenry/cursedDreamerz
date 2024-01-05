@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2086",
+  "description": "Sharks",
+  "image": "/2086.png",
+  "dna": "ddaa45c64b63f2b35b6c2bdf82e85d550499dbb5",
+  "edition": 2086,
+  "date": 1689536309086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

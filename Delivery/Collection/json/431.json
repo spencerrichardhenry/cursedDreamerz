@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #431",
+  "description": "Sharks",
+  "image": "/431.png",
+  "dna": "7cee0dd9311b024c0148589b98ef77228b8f279b",
+  "edition": 431,
+  "date": 1689536265568,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

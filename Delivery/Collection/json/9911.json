@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9911",
+  "description": "Sharks",
+  "image": "/9911.png",
+  "dna": "65b3c79765e6c1a5eb3dac862105341672a269f0",
+  "edition": 9911,
+  "date": 1689536505729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

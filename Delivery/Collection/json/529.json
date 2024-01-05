@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #529",
+  "description": "Sharks",
+  "image": "/529.png",
+  "dna": "523aeb24a401a002b7c309f51901c9dfeb5ea038",
+  "edition": 529,
+  "date": 1689536268049,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

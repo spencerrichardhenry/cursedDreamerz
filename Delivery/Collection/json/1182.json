@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1182",
+  "description": "Sharks",
+  "image": "/1182.png",
+  "dna": "865e2cddf798a896eb595e4a000a03625015fa5a",
+  "edition": 1182,
+  "date": 1689536285167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

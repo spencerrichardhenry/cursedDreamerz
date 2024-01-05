@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2821",
+  "description": "Sharks",
+  "image": "/2821.png",
+  "dna": "fa0cdd0794636487a5e29c751409ba3336a583e8",
+  "edition": 2821,
+  "date": 1689536327818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

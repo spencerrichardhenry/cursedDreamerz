@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5038",
+  "description": "Sharks",
+  "image": "/5038.png",
+  "dna": "619b6ad0baa5b12b5cb33a0e2ed279f6cebbb20f",
+  "edition": 5038,
+  "date": 1689536383620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

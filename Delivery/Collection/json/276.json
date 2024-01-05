@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #276",
+  "description": "Sharks",
+  "image": "/276.png",
+  "dna": "fcd01a23db06b71400507a3ce564f42854f8ff6a",
+  "edition": 276,
+  "date": 1689536261628,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

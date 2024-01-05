@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1988",
+  "description": "Sharks",
+  "image": "/1988.png",
+  "dna": "0221e6cca543397bf55f5d203a5212ebdcf7cd6d",
+  "edition": 1988,
+  "date": 1689536306620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

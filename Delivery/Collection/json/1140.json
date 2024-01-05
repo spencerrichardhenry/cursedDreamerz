@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1140",
+  "description": "Sharks",
+  "image": "/1140.png",
+  "dna": "1c5da42b7b0d00837298f156ba1880bc288b7f06",
+  "edition": 1140,
+  "date": 1689536284119,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1878",
+  "description": "Sharks",
+  "image": "/1878.png",
+  "dna": "f87630dfb934fde34422fed3c87f7daab83e3c86",
+  "edition": 1878,
+  "date": 1689536303770,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

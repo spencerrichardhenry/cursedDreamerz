@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #164",
+  "description": "Sharks",
+  "image": "/164.png",
+  "dna": "ebfaf1e2c9e6254a9e3c4d49b30d8c2f316cf68f",
+  "edition": 164,
+  "date": 1689536258724,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

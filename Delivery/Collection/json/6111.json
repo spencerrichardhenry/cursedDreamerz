@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6111",
+  "description": "Sharks",
+  "image": "/6111.png",
+  "dna": "4a2b43cd1d61a719b9de60481f4def5b5b88b9f5",
+  "edition": 6111,
+  "date": 1689536410369,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

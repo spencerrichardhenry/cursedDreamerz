@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5801",
+  "description": "Sharks",
+  "image": "/5801.png",
+  "dna": "dadafe6b2a9054ffb409b33e13f0b6e94ee9666c",
+  "edition": 5801,
+  "date": 1689536402667,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

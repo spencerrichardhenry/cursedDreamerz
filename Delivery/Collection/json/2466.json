@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2466",
+  "description": "Sharks",
+  "image": "/2466.png",
+  "dna": "ce1ea1a7c40bbb39c277c459d6c924588a3a57da",
+  "edition": 2466,
+  "date": 1689536318810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

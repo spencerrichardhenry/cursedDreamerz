@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9595",
+  "description": "Sharks",
+  "image": "/9595.png",
+  "dna": "d8ac64fc078dc7c774ed6a642630dad3485b3a8b",
+  "edition": 9595,
+  "date": 1689536497597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

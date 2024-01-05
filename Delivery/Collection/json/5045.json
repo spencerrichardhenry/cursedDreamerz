@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5045",
+  "description": "Sharks",
+  "image": "/5045.png",
+  "dna": "1a65e4529552f554b26e323946de1197e0b232c2",
+  "edition": 5045,
+  "date": 1689536383788,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

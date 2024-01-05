@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6323",
+  "description": "Sharks",
+  "image": "/6323.png",
+  "dna": "4e250be1fd55b371c6e3985fc80a8622f23ebe54",
+  "edition": 6323,
+  "date": 1689536415706,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2592",
+  "description": "Sharks",
+  "image": "/2592.png",
+  "dna": "6a8e48e1521a0c70fcd228a1c958f7b30cf404ad",
+  "edition": 2592,
+  "date": 1689536322036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

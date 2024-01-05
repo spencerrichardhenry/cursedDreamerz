@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #238",
+  "description": "Sharks",
+  "image": "/238.png",
+  "dna": "d5f453516d79360f92d1e93df5acd0e448e674da",
+  "edition": 238,
+  "date": 1689536260637,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Eye"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1841",
+  "description": "Sharks",
+  "image": "/1841.png",
+  "dna": "6347266b8108a7b0dac182983b280782ee4c5b6b",
+  "edition": 1841,
+  "date": 1689536302824,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #80",
+  "description": "Sharks",
+  "image": "/80.png",
+  "dna": "754a83248b9ed3cf185680c57957e92bb07db5a1",
+  "edition": 80,
+  "date": 1689536256563,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1169",
+  "description": "Sharks",
+  "image": "/1169.png",
+  "dna": "c272739a71e15b3df0383023a4383f866591b72f",
+  "edition": 1169,
+  "date": 1689536284843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pouty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

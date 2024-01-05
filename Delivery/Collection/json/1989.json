@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1989",
+  "description": "Sharks",
+  "image": "/1989.png",
+  "dna": "15975aa1bd16866b96bd42ec14f4b4be3084570b",
+  "edition": 1989,
+  "date": 1689536306652,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

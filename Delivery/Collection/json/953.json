@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #953",
+  "description": "Sharks",
+  "image": "/953.png",
+  "dna": "6952c369e023cad8787f2595b1edefbc5713af6a",
+  "edition": 953,
+  "date": 1689536279108,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

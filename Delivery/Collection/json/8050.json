@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8050",
+  "description": "Sharks",
+  "image": "/8050.png",
+  "dna": "72f497bd4e467b486d046d160cbb694d8a07a6f8",
+  "edition": 8050,
+  "date": 1689536458750,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

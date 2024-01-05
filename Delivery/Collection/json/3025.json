@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3025",
+  "description": "Sharks",
+  "image": "/3025.png",
+  "dna": "4be403fe2620d0a1c6eec8890be2b49bc68aef6d",
+  "edition": 3025,
+  "date": 1689536332966,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6996",
+  "description": "Sharks",
+  "image": "/6996.png",
+  "dna": "4a8cf6eb5f6381b7f3c5c1b6b90608ca811586d2",
+  "edition": 6996,
+  "date": 1689536432442,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

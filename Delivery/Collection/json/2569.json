@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2569",
+  "description": "Sharks",
+  "image": "/2569.png",
+  "dna": "9919a4b3b5af83fc05f9a5d93de53060ae14b9e3",
+  "edition": 2569,
+  "date": 1689536321431,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

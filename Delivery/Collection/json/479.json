@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #479",
+  "description": "Sharks",
+  "image": "/479.png",
+  "dna": "984d414e6fae58bab6a2e1bd3141e2715f43c9a1",
+  "edition": 479,
+  "date": 1689536266793,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

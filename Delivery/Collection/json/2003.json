@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2003",
+  "description": "Sharks",
+  "image": "/2003.png",
+  "dna": "f52037cd7b10a2db242a8a1a545c9d2f13e6a927",
+  "edition": 2003,
+  "date": 1689536307000,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

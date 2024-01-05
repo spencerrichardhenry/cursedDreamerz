@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6913",
+  "description": "Sharks",
+  "image": "/6913.png",
+  "dna": "d0428a64fd4d3f515705575d606795c92c4c7d2c",
+  "edition": 6913,
+  "date": 1689536430384,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

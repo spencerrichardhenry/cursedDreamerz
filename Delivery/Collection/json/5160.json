@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5160",
+  "description": "Sharks",
+  "image": "/5160.png",
+  "dna": "ca4033af576c82ed544a23a6ad019d88525f1f8d",
+  "edition": 5160,
+  "date": 1689536386685,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

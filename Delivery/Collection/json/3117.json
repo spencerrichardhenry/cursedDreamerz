@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3117",
+  "description": "Sharks",
+  "image": "/3117.png",
+  "dna": "2f93faac1f6c8e80787ea025916b80c865124d42",
+  "edition": 3117,
+  "date": 1689536335390,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

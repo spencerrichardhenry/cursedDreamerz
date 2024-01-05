@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9064",
+  "description": "Sharks",
+  "image": "/9064.png",
+  "dna": "d15dbeab4bbf73c8e8c2286e862ecafd360e5025",
+  "edition": 9064,
+  "date": 1689536484344,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

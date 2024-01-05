@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2627",
+  "description": "Sharks",
+  "image": "/2627.png",
+  "dna": "fcf86b6b1ab79f146fb3ce521ed4b0c33ca39190",
+  "edition": 2627,
+  "date": 1689536322906,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

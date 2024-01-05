@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9450",
+  "description": "Sharks",
+  "image": "/9450.png",
+  "dna": "1138d7e38507b98aadba51edaae373620ac19c28",
+  "edition": 9450,
+  "date": 1689536493944,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

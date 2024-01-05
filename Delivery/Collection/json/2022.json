@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2022",
+  "description": "Sharks",
+  "image": "/2022.png",
+  "dna": "dd2046689aa34e09717d62ed82059991153ce9fc",
+  "edition": 2022,
+  "date": 1689536307477,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

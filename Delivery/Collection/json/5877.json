@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5877",
+  "description": "Sharks",
+  "image": "/5877.png",
+  "dna": "0ab5f4a087e107f6cca34e7e13174897c23aa6d8",
+  "edition": 5877,
+  "date": 1689536404531,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

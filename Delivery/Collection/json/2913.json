@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2913",
+  "description": "Sharks",
+  "image": "/2913.png",
+  "dna": "cf774601b7319a16ffe2ee58df8f379d294d98cb",
+  "edition": 2913,
+  "date": 1689536330123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

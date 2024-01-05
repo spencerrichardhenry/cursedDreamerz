@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1840",
+  "description": "Sharks",
+  "image": "/1840.png",
+  "dna": "80b90898c7dec7e915e28fc6840661ec85b87b11",
+  "edition": 1840,
+  "date": 1689536302798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

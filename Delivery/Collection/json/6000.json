@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6000",
+  "description": "Sharks",
+  "image": "/6000.png",
+  "dna": "03fbfb38027e239884d01964ee743c40673ddaee",
+  "edition": 6000,
+  "date": 1689536407628,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

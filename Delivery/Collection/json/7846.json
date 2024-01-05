@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7846",
+  "description": "Sharks",
+  "image": "/7846.png",
+  "dna": "1f9397fe995d0dda1c27e82c30f1f347182c695f",
+  "edition": 7846,
+  "date": 1689536453666,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

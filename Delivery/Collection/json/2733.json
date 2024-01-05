@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2733",
+  "description": "Sharks",
+  "image": "/2733.png",
+  "dna": "2f5d0fc1ccd8ed543edb8caff6f781225170342c",
+  "edition": 2733,
+  "date": 1689536325584,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

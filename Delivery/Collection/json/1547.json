@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1547",
+  "description": "Sharks",
+  "image": "/1547.png",
+  "dna": "84599b8db44c22b9ae4870eb9c48b60c0534ffd8",
+  "edition": 1547,
+  "date": 1689536294879,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

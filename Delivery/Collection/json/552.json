@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #552",
+  "description": "Sharks",
+  "image": "/552.png",
+  "dna": "d0fc2b41a9b8f4270ef02662e097673597a86917",
+  "edition": 552,
+  "date": 1689536268609,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

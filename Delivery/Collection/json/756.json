@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #756",
+  "description": "Sharks",
+  "image": "/756.png",
+  "dna": "3a7f2e783d3d2c32833f0ff327c97ee478839ee6",
+  "edition": 756,
+  "date": 1689536274005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

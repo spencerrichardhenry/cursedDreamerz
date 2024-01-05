@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3711",
+  "description": "Sharks",
+  "image": "/3711.png",
+  "dna": "1e66c6d90bfdf33eaf59ce996f1ebe5615058c65",
+  "edition": 3711,
+  "date": 1689536350244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

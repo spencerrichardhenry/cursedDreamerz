@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7431",
+  "description": "Sharks",
+  "image": "/7431.png",
+  "dna": "1af29b1642812897e626bf2bfee85226eb825378",
+  "edition": 7431,
+  "date": 1689536443308,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

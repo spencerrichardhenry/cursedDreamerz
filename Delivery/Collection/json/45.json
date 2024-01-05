@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #45",
+  "description": "Sharks",
+  "image": "/45.png",
+  "dna": "3aa874d4685ca08201c685d48b3f39c5df57f74d",
+  "edition": 45,
+  "date": 1689536255681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

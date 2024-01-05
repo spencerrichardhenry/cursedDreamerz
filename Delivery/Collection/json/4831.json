@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4831",
+  "description": "Sharks",
+  "image": "/4831.png",
+  "dna": "a442a24ef978a2d68bc8cb60c9e05caf8bc5b61f",
+  "edition": 4831,
+  "date": 1689536378421,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3731",
+  "description": "Sharks",
+  "image": "/3731.png",
+  "dna": "2d395d8ea51fba17b10478adf0f0852917ea3d85",
+  "edition": 3731,
+  "date": 1689536350757,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

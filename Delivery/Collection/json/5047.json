@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5047",
+  "description": "Sharks",
+  "image": "/5047.png",
+  "dna": "fae9ca8cca9655620b65c74ad38bd4d1418d5d87",
+  "edition": 5047,
+  "date": 1689536383853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

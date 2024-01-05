@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1847",
+  "description": "Sharks",
+  "image": "/1847.png",
+  "dna": "4184c2dacb9fba2c20687a35fd49e270953e9ae0",
+  "edition": 1847,
+  "date": 1689536302976,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

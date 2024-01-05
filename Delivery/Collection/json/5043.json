@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5043",
+  "description": "Sharks",
+  "image": "/5043.png",
+  "dna": "5943087f16e70a6266bac1b1adbd244de4723f69",
+  "edition": 5043,
+  "date": 1689536383739,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8894",
+  "description": "Sharks",
+  "image": "/8894.png",
+  "dna": "92d357db1dcc275452cec3969bb76fd668757e08",
+  "edition": 8894,
+  "date": 1689536480064,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8807",
+  "description": "Sharks",
+  "image": "/8807.png",
+  "dna": "d4861021e535a28626ad665c8b9d6d0ddc9a567f",
+  "edition": 8807,
+  "date": 1689536477923,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

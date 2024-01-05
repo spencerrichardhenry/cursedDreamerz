@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8753",
+  "description": "Sharks",
+  "image": "/8753.png",
+  "dna": "d9d5f98463979ae389db23a03926466ab177900b",
+  "edition": 8753,
+  "date": 1689536476569,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

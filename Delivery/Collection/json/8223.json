@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8223",
+  "description": "Sharks",
+  "image": "/8223.png",
+  "dna": "9d2462daa8d3c1cc1c875a35bba27b66aae20c3a",
+  "edition": 8223,
+  "date": 1689536463068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

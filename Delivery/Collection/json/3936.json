@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3936",
+  "description": "Sharks",
+  "image": "/3936.png",
+  "dna": "2a97770286528bdc81ac7e6a0bec8ca6d555548a",
+  "edition": 3936,
+  "date": 1689536355834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

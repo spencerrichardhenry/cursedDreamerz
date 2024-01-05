@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2077",
+  "description": "Sharks",
+  "image": "/2077.png",
+  "dna": "fbe0be1b33f4cf6e01f207f22d3719d7c11527e1",
+  "edition": 2077,
+  "date": 1689536308865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

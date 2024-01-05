@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #162",
+  "description": "Sharks",
+  "image": "/162.png",
+  "dna": "78bc5bb5793dd01512a30d2d7cc0a33ef073f78e",
+  "edition": 162,
+  "date": 1689536258672,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

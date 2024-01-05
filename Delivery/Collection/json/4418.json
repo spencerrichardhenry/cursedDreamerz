@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4418",
+  "description": "Sharks",
+  "image": "/4418.png",
+  "dna": "d6aaf1f7bf9436a2d3c2cd457e23476a49ee87d1",
+  "edition": 4418,
+  "date": 1689536368002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

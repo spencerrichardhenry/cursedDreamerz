@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7235",
+  "description": "Sharks",
+  "image": "/7235.png",
+  "dna": "637fbac9701996d7b8e88e4da7e82e062bafef36",
+  "edition": 7235,
+  "date": 1689536438397,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

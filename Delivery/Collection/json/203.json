@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #203",
+  "description": "Sharks",
+  "image": "/203.png",
+  "dna": "0bf550812f1bf22d024b96c1ecdbfded3c2df988",
+  "edition": 203,
+  "date": 1689536259741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #709",
+  "description": "Sharks",
+  "image": "/709.png",
+  "dna": "59414c89421295d298451ed66811773f1fb729a3",
+  "edition": 709,
+  "date": 1689536272621,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

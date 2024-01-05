@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #929",
+  "description": "Sharks",
+  "image": "/929.png",
+  "dna": "6c12889b353b67ff4f0f0b10a2fe5f09ffefa80f",
+  "edition": 929,
+  "date": 1689536278498,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

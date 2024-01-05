@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2499",
+  "description": "Sharks",
+  "image": "/2499.png",
+  "dna": "f2ec45e15a7ab17cf68bee11e082e453022fc980",
+  "edition": 2499,
+  "date": 1689536319654,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Oversized Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

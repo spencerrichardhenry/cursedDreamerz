@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2110",
+  "description": "Sharks",
+  "image": "/2110.png",
+  "dna": "df18b65d3acc79a4c9c9c5553cc5c99d6d79ab75",
+  "edition": 2110,
+  "date": 1689536309731,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

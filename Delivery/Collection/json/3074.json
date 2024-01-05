@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3074",
+  "description": "Sharks",
+  "image": "/3074.png",
+  "dna": "fb7ec1501efb5a736ba2a1836d5a73f791be8537",
+  "edition": 3074,
+  "date": 1689536334244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

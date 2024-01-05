@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2075",
+  "description": "Sharks",
+  "image": "/2075.png",
+  "dna": "1a463f191914c0ea262dc50d879f812072ade377",
+  "edition": 2075,
+  "date": 1689536308814,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

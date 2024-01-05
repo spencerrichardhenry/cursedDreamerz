@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4510",
+  "description": "Sharks",
+  "image": "/4510.png",
+  "dna": "23fa3a69326257877b4f738a28d3446ae82e731b",
+  "edition": 4510,
+  "date": 1689536370375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

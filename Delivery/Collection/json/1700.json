@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1700",
+  "description": "Sharks",
+  "image": "/1700.png",
+  "dna": "767d258bc7938c21456d94c31e62596be85aa50f",
+  "edition": 1700,
+  "date": 1689536299023,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

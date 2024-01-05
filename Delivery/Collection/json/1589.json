@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1589",
+  "description": "Sharks",
+  "image": "/1589.png",
+  "dna": "0dffaaae0178f0b6e6dfcf745d968b05cbda3fa2",
+  "edition": 1589,
+  "date": 1689536296013,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

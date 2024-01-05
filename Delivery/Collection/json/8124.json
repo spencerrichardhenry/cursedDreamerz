@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8124",
+  "description": "Sharks",
+  "image": "/8124.png",
+  "dna": "11e8e6bdb131bcdb90c9dd9eb329c6404092f079",
+  "edition": 8124,
+  "date": 1689536460615,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

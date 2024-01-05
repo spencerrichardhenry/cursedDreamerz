@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #58",
+  "description": "Sharks",
+  "image": "/58.png",
+  "dna": "2104b08724bd062c1a205e1f1641e4b7d9097461",
+  "edition": 58,
+  "date": 1689536256015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Void Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

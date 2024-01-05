@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #598",
+  "description": "Sharks",
+  "image": "/598.png",
+  "dna": "d4b1aca1bf339fafa9329de49253b906796d690d",
+  "edition": 598,
+  "date": 1689536269780,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

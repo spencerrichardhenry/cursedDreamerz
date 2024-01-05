@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6207",
+  "description": "Sharks",
+  "image": "/6207.png",
+  "dna": "aef25cd203daf616365a4867d261d16671df3137",
+  "edition": 6207,
+  "date": 1689536412827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ponytail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

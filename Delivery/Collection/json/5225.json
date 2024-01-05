@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5225",
+  "description": "Sharks",
+  "image": "/5225.png",
+  "dna": "58629abf6d7ba6f9a3d33bcbbcedfd072ddd203e",
+  "edition": 5225,
+  "date": 1689536388272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

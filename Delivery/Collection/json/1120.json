@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1120",
+  "description": "Sharks",
+  "image": "/1120.png",
+  "dna": "2b949ec4e3845b86a288fb745aaf9124db079dca",
+  "edition": 1120,
+  "date": 1689536283610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

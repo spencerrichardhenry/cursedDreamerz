@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3898",
+  "description": "Sharks",
+  "image": "/3898.png",
+  "dna": "b63b3344bd3862f4a996b20f78d643b0b5517731",
+  "edition": 3898,
+  "date": 1689536354890,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

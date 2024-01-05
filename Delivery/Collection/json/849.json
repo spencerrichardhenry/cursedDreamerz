@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #849",
+  "description": "Sharks",
+  "image": "/849.png",
+  "dna": "38ee0a1785f5bcd6fa03ce0eb260c4dc8241b7f6",
+  "edition": 849,
+  "date": 1689536276426,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

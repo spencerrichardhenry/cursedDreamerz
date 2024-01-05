@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7138",
+  "description": "Sharks",
+  "image": "/7138.png",
+  "dna": "00cc3f5d6f55ac269c47185129c488c84b64cce9",
+  "edition": 7138,
+  "date": 1689536435991,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

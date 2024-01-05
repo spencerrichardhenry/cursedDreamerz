@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3549",
+  "description": "Sharks",
+  "image": "/3549.png",
+  "dna": "8ac4f48790cd76ef889e4cc58a55e5f4f1ff48a1",
+  "edition": 3549,
+  "date": 1689536346206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

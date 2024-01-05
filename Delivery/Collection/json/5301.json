@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5301",
+  "description": "Sharks",
+  "image": "/5301.png",
+  "dna": "32c25d4a6fd672bdf691c0bd81cf54bf4694d008",
+  "edition": 5301,
+  "date": 1689536390189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4714",
+  "description": "Sharks",
+  "image": "/4714.png",
+  "dna": "e9e74e4e8ac09d1d0faf66812093c231a368cfa9",
+  "edition": 4714,
+  "date": 1689536375510,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

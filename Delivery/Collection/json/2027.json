@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2027",
+  "description": "Sharks",
+  "image": "/2027.png",
+  "dna": "7a393f0526b66f93aec497882873422d70181669",
+  "edition": 2027,
+  "date": 1689536307603,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

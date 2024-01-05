@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #558",
+  "description": "Sharks",
+  "image": "/558.png",
+  "dna": "12d869f2e73c27b40d872304d3e6a3a546898e4d",
+  "edition": 558,
+  "date": 1689536268757,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

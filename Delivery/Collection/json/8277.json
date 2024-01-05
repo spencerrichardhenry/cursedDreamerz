@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8277",
+  "description": "Sharks",
+  "image": "/8277.png",
+  "dna": "05369638fb69ae3b22f962a0f369431e261d79ff",
+  "edition": 8277,
+  "date": 1689536464429,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleshell"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

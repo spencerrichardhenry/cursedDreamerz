@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #808",
+  "description": "Sharks",
+  "image": "/808.png",
+  "dna": "604aad9dbda53a867f6b63c51d5f4d410b8cb7ab",
+  "edition": 808,
+  "date": 1689536275354,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7740",
+  "description": "Sharks",
+  "image": "/7740.png",
+  "dna": "3cb4c9afc7af69a2927d4bdf35abc523af923ad1",
+  "edition": 7740,
+  "date": 1689536450999,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

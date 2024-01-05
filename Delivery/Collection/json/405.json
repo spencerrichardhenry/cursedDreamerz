@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #405",
+  "description": "Sharks",
+  "image": "/405.png",
+  "dna": "93651819f4d554a6a491bb7d32c63270737bd55b",
+  "edition": 405,
+  "date": 1689536264915,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

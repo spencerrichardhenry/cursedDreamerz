@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6997",
+  "description": "Sharks",
+  "image": "/6997.png",
+  "dna": "126e6ab31a0caf9ef515a1da831077bfca9f8fcc",
+  "edition": 6997,
+  "date": 1689536432467,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

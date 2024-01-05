@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2605",
+  "description": "Sharks",
+  "image": "/2605.png",
+  "dna": "e3aeb5af738753e54369628521acca71d4365437",
+  "edition": 2605,
+  "date": 1689536322362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

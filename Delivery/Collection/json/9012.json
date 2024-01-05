@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9012",
+  "description": "Sharks",
+  "image": "/9012.png",
+  "dna": "096d30421129928b3cb229f4f4d015987f245815",
+  "edition": 9012,
+  "date": 1689536483037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #98",
+  "description": "Sharks",
+  "image": "/98.png",
+  "dna": "5759a9a6687dfecc35727de4403ef4a64b24d813",
+  "edition": 98,
+  "date": 1689536257015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

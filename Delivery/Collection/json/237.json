@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #237",
+  "description": "Sharks",
+  "image": "/237.png",
+  "dna": "17ad035862a06c4b6aa47e513cf0f4dd6da5cac1",
+  "edition": 237,
+  "date": 1689536260610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

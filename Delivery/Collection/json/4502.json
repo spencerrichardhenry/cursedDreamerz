@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4502",
+  "description": "Sharks",
+  "image": "/4502.png",
+  "dna": "5be7b3a94c8cbbeff648b29ee42f818952e249a4",
+  "edition": 4502,
+  "date": 1689536370184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

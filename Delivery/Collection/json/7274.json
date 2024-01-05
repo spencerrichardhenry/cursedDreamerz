@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7274",
+  "description": "Sharks",
+  "image": "/7274.png",
+  "dna": "da16b1a27e3556d277eebbb08be4cadcadc15e9c",
+  "edition": 7274,
+  "date": 1689536439404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

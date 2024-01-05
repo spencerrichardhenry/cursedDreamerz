@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7646",
+  "description": "Sharks",
+  "image": "/7646.png",
+  "dna": "e8e598297bb198728d9427efca74375cba860b41",
+  "edition": 7646,
+  "date": 1689536448657,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Shark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

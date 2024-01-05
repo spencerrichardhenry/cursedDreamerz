@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2023",
+  "description": "Sharks",
+  "image": "/2023.png",
+  "dna": "03b44de0855913d69cd3b3d90a84e11e872226eb",
+  "edition": 2023,
+  "date": 1689536307501,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

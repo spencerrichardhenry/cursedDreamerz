@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1896",
+  "description": "Sharks",
+  "image": "/1896.png",
+  "dna": "3d6976daaccc43d118814d7a3c4714296066fb1e",
+  "edition": 1896,
+  "date": 1689536304231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

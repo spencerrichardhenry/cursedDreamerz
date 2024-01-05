@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7875",
+  "description": "Sharks",
+  "image": "/7875.png",
+  "dna": "d6252914c8bc39ff992bafcb22c38e4eece0d61c",
+  "edition": 7875,
+  "date": 1689536454380,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2708",
+  "description": "Sharks",
+  "image": "/2708.png",
+  "dna": "2d891c12b90da77ae02a14d057ee1aa055285e56",
+  "edition": 2708,
+  "date": 1689536324965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

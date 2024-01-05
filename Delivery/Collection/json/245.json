@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #245",
+  "description": "Sharks",
+  "image": "/245.png",
+  "dna": "68432902b58cde315d46d656ea8cbd45a6e0c839",
+  "edition": 245,
+  "date": 1689536260821,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

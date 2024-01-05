@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7465",
+  "description": "Sharks",
+  "image": "/7465.png",
+  "dna": "2bd5cb676b9a1a60820643b9dd74861527337af7",
+  "edition": 7465,
+  "date": 1689536444123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

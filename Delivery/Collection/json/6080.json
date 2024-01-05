@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6080",
+  "description": "Sharks",
+  "image": "/6080.png",
+  "dna": "d7aea4b3baeb906158fe436fef97ad510e847c57",
+  "edition": 6080,
+  "date": 1689536409600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

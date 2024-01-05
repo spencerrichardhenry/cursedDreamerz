@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7463",
+  "description": "Sharks",
+  "image": "/7463.png",
+  "dna": "e4792baa335253b5b5d705e924d4e6a692a6c242",
+  "edition": 7463,
+  "date": 1689536444075,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

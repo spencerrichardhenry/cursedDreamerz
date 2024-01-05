@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #263",
+  "description": "Sharks",
+  "image": "/263.png",
+  "dna": "d280b8bbeb15899a0f6cc66b74c0e194bb967c4e",
+  "edition": 263,
+  "date": 1689536261307,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

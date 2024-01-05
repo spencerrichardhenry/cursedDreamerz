@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #323",
+  "description": "Sharks",
+  "image": "/323.png",
+  "dna": "08c0e23ff9a4d431dc2098eff292eb21eeea86b1",
+  "edition": 323,
+  "date": 1689536262852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

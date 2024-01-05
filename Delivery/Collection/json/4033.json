@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4033",
+  "description": "Sharks",
+  "image": "/4033.png",
+  "dna": "495fa64fab55bb1bfd984aed9e0e12f9c1d11c8f",
+  "edition": 4033,
+  "date": 1689536358238,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #863",
+  "description": "Sharks",
+  "image": "/863.png",
+  "dna": "04c70a7e717d8783becebc0f44934415770242e0",
+  "edition": 863,
+  "date": 1689536276790,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

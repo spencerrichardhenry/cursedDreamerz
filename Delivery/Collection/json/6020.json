@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6020",
+  "description": "Sharks",
+  "image": "/6020.png",
+  "dna": "d74f34fc2a736c3410a4dc7127260d67c4b92c16",
+  "edition": 6020,
+  "date": 1689536408125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

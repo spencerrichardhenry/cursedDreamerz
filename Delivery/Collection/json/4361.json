@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4361",
+  "description": "Sharks",
+  "image": "/4361.png",
+  "dna": "9e217835fc251e1b5111d1be2db101825fb9de87",
+  "edition": 4361,
+  "date": 1689536366524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

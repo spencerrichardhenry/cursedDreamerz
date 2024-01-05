@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4094",
+  "description": "Sharks",
+  "image": "/4094.png",
+  "dna": "bee48966b2a35d5955390adf0ca4d50e897710ba",
+  "edition": 4094,
+  "date": 1689536359750,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pasted on Tuxedo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

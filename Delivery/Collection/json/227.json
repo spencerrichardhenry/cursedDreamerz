@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #227",
+  "description": "Sharks",
+  "image": "/227.png",
+  "dna": "5ba02ce0a511462ce9ba6b73d2d0afef605699a1",
+  "edition": 227,
+  "date": 1689536260353,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

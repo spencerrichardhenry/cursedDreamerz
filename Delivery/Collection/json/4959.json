@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4959",
+  "description": "Sharks",
+  "image": "/4959.png",
+  "dna": "6ca7c1d2d3dc4a2cb92a934e81c129300f91a2d1",
+  "edition": 4959,
+  "date": 1689536381647,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9343",
+  "description": "Sharks",
+  "image": "/9343.png",
+  "dna": "0d6e9e75de459007c739820654f5df6bcc6a89a8",
+  "edition": 9343,
+  "date": 1689536491289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

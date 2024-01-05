@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #10000",
+  "description": "Sharks",
+  "image": "/10000.png",
+  "dna": "6ad0ecc23e793990fd95b0843ed115af27ff3b7b",
+  "edition": 10000,
+  "date": 1689536508002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5800",
+  "description": "Sharks",
+  "image": "/5800.png",
+  "dna": "d4c0543d6b6866d6e66db5c1a4cc01e0ef2f0689",
+  "edition": 5800,
+  "date": 1689536402643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jeweled Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

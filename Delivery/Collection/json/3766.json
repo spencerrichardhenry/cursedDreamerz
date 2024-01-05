@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3766",
+  "description": "Sharks",
+  "image": "/3766.png",
+  "dna": "79ec85dafffb6e324075a0e04f4743e4e90227a2",
+  "edition": 3766,
+  "date": 1689536351636,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

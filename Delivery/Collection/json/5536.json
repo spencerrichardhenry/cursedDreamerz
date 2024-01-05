@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5536",
+  "description": "Sharks",
+  "image": "/5536.png",
+  "dna": "c58ac0195f6376ffebea5a05780e8a489ee92f32",
+  "edition": 5536,
+  "date": 1689536396072,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1502",
+  "description": "Sharks",
+  "image": "/1502.png",
+  "dna": "48097f63e3d995ac5cec4040d2ccd2b279b3bca3",
+  "edition": 1502,
+  "date": 1689536293701,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

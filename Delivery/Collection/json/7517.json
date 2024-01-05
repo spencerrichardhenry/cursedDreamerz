@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7517",
+  "description": "Sharks",
+  "image": "/7517.png",
+  "dna": "dab72d3b64972ddb23cfe6cf257a0ae20e94376c",
+  "edition": 7517,
+  "date": 1689536445409,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

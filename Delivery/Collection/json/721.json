@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #721",
+  "description": "Sharks",
+  "image": "/721.png",
+  "dna": "ebc36041232fc0371c6da9d69c157c1996845410",
+  "edition": 721,
+  "date": 1689536272925,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2291",
+  "description": "Sharks",
+  "image": "/2291.png",
+  "dna": "810b189213455d5b49b761caf5809b5cd5dfdca6",
+  "edition": 2291,
+  "date": 1689536314395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

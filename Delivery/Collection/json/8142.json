@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8142",
+  "description": "Sharks",
+  "image": "/8142.png",
+  "dna": "c3fd8186d67288bcfb526342afce09be6babe1fb",
+  "edition": 8142,
+  "date": 1689536461071,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

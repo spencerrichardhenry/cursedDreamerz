@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4933",
+  "description": "Sharks",
+  "image": "/4933.png",
+  "dna": "20e2b12c7e5e3a47636f3a55401f491e1ec34d71",
+  "edition": 4933,
+  "date": 1689536381011,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

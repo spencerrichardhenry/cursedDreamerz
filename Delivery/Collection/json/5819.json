@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5819",
+  "description": "Sharks",
+  "image": "/5819.png",
+  "dna": "2cac16b0386044cf3ccf56408b0e446d3a35c022",
+  "edition": 5819,
+  "date": 1689536403097,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

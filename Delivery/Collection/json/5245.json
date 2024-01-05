@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5245",
+  "description": "Sharks",
+  "image": "/5245.png",
+  "dna": "0c1aead42b84a4944d86ae4b9e25027b1cb09b4d",
+  "edition": 5245,
+  "date": 1689536388769,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6942",
+  "description": "Sharks",
+  "image": "/6942.png",
+  "dna": "4ba0de3d4848ad722eaa5d67cf0eec342649de30",
+  "edition": 6942,
+  "date": 1689536431098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

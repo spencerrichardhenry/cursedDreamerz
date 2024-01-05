@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6442",
+  "description": "Sharks",
+  "image": "/6442.png",
+  "dna": "435f716ef5b9b0e83e8959a6872d09e32fcecc75",
+  "edition": 6442,
+  "date": 1689536418662,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Waters Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

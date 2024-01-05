@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2464",
+  "description": "Sharks",
+  "image": "/2464.png",
+  "dna": "c60b661650329789bd297b61173391d4f7aabccf",
+  "edition": 2464,
+  "date": 1689536318759,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

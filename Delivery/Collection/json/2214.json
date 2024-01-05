@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2214",
+  "description": "Sharks",
+  "image": "/2214.png",
+  "dna": "98a70c233e51109ec6ba2d7c8ddf77168a5f537e",
+  "edition": 2214,
+  "date": 1689536312447,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

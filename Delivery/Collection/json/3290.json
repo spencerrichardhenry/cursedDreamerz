@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #3290",
+  "description": "Sharks",
+  "image": "/3290.png",
+  "dna": "3049c35ee7577b48b76d8856bb3e9d2ad06b147e",
+  "edition": 3290,
+  "date": 1689536339754,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tanktop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

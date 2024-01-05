@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #220",
+  "description": "Sharks",
+  "image": "/220.png",
+  "dna": "eacf948d8a6c81384899cf7cc2947f98d769d98e",
+  "edition": 220,
+  "date": 1689536260179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

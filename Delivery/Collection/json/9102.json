@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9102",
+  "description": "Sharks",
+  "image": "/9102.png",
+  "dna": "f31be8c9e1e35c5655f90d9b9a1613443942120d",
+  "edition": 9102,
+  "date": 1689536485305,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

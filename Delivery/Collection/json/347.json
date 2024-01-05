@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #347",
+  "description": "Sharks",
+  "image": "/347.png",
+  "dna": "b4dedda599e8c51a0700aaca3a30202c1ac5c1fc",
+  "edition": 347,
+  "date": 1689536263468,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

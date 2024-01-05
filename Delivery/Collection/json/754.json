@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #754",
+  "description": "Sharks",
+  "image": "/754.png",
+  "dna": "77c17e65d735c80b89130c26800ee0fcd17105c6",
+  "edition": 754,
+  "date": 1689536273953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

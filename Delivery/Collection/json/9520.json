@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9520",
+  "description": "Sharks",
+  "image": "/9520.png",
+  "dna": "973984f299dc6a2243eb19ab63774748516c7e35",
+  "edition": 9520,
+  "date": 1689536495717,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

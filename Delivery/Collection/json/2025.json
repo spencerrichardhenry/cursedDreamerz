@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2025",
+  "description": "Sharks",
+  "image": "/2025.png",
+  "dna": "dd096b4bf0e4d44e88237e8f3175d322d08f2b81",
+  "edition": 2025,
+  "date": 1689536307549,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

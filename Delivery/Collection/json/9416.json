@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9416",
+  "description": "Sharks",
+  "image": "/9416.png",
+  "dna": "60ab7063839d266e6ad28059b6d5bc8229f86646",
+  "edition": 9416,
+  "date": 1689536493123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

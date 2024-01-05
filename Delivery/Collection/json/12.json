@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #12",
+  "description": "Sharks",
+  "image": "/12.png",
+  "dna": "31d06cc3b090829949c092b5c6c7d832f68253c5",
+  "edition": 12,
+  "date": 1689536254757,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

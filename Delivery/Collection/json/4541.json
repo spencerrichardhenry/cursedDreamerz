@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4541",
+  "description": "Sharks",
+  "image": "/4541.png",
+  "dna": "c7bfc00c9a5e640394b2c6a089a7173c16dccbe3",
+  "edition": 4541,
+  "date": 1689536371137,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

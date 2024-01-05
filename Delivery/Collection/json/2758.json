@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2758",
+  "description": "Sharks",
+  "image": "/2758.png",
+  "dna": "3d7ec65d2e287a333bf29d89b78368d5c56a5ea4",
+  "edition": 2758,
+  "date": 1689536326216,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Beam"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1322",
+  "description": "Sharks",
+  "image": "/1322.png",
+  "dna": "9d5c277c24389a7bdd515bf084e09f9507d63af4",
+  "edition": 1322,
+  "date": 1689536288843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Messy Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

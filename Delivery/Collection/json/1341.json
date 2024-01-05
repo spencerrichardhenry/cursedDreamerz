@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1341",
+  "description": "Sharks",
+  "image": "/1341.png",
+  "dna": "bfd34265c41bc97f096eeb0f517c17e2b70950af",
+  "edition": 1341,
+  "date": 1689536289364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dollar Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

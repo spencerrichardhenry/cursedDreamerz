@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4093",
+  "description": "Sharks",
+  "image": "/4093.png",
+  "dna": "ef6e89628081d626cfd85a90a582b2e8ebee9e54",
+  "edition": 4093,
+  "date": 1689536359727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

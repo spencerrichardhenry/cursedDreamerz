@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6725",
+  "description": "Sharks",
+  "image": "/6725.png",
+  "dna": "331ad8799735a01e8dba31732e7fa46e07a81eb2",
+  "edition": 6725,
+  "date": 1689536425731,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6757",
+  "description": "Sharks",
+  "image": "/6757.png",
+  "dna": "6124b31d28f00a7b9ad7d44c7c6990029a72a2f2",
+  "edition": 6757,
+  "date": 1689536426525,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

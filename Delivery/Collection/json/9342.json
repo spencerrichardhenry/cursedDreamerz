@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #9342",
+  "description": "Sharks",
+  "image": "/9342.png",
+  "dna": "bc7e01da464cf216eb9c9e30a12e5a3f3d05bd1d",
+  "edition": 9342,
+  "date": 1689536491265,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

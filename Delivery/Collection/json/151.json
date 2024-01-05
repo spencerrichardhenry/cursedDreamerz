@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #151",
+  "description": "Sharks",
+  "image": "/151.png",
+  "dna": "e0501ecd8a7f579a1e37b3aa45e150b02ae43850",
+  "edition": 151,
+  "date": 1689536258377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

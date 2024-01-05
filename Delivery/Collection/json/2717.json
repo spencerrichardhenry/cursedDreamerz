@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2717",
+  "description": "Sharks",
+  "image": "/2717.png",
+  "dna": "c3ed79cfdc07fce69c369c63770589f131d64c1a",
+  "edition": 2717,
+  "date": 1689536325184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sea Robe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #586",
+  "description": "Sharks",
+  "image": "/586.png",
+  "dna": "90c0fd569eb056edb38708ca80152203a35989f7",
+  "edition": 586,
+  "date": 1689536269480,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Great White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6569",
+  "description": "Sharks",
+  "image": "/6569.png",
+  "dna": "04e9e0b253a652f86ae6fc214f24430b84991b6c",
+  "edition": 6569,
+  "date": 1689536421822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "I Love Waves"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Angler"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

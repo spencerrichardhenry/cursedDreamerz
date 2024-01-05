@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #5006",
+  "description": "Sharks",
+  "image": "/5006.png",
+  "dna": "420c7245a87953c251fe979b5f7eca422f137c02",
+  "edition": 5006,
+  "date": 1689536382838,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

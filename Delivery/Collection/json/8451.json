@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8451",
+  "description": "Sharks",
+  "image": "/8451.png",
+  "dna": "4de60810d4818dcda6821bc5ea7eddebf03c212a",
+  "edition": 8451,
+  "date": 1689536468876,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seastar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

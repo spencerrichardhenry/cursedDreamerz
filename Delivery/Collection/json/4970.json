@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4970",
+  "description": "Sharks",
+  "image": "/4970.png",
+  "dna": "dc937557a79059e417c11519c2be2b28e190f239",
+  "edition": 4970,
+  "date": 1689536381922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fire Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Lightning"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

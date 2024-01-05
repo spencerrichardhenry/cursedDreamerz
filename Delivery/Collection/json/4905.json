@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4905",
+  "description": "Sharks",
+  "image": "/4905.png",
+  "dna": "9b732a2ed9d9ecd9da168efb04cc28cefda1de76",
+  "edition": 4905,
+  "date": 1689536380314,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

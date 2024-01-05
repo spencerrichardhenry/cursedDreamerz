@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8190",
+  "description": "Sharks",
+  "image": "/8190.png",
+  "dna": "cf67a7f34618a7b9aa73f14165820b5e8d096d4e",
+  "edition": 8190,
+  "date": 1689536462262,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

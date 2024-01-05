@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #416",
+  "description": "Sharks",
+  "image": "/416.png",
+  "dna": "55aa51d15a5467cd77dc6a32f74daf853a7f6fd1",
+  "edition": 416,
+  "date": 1689536265183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Old Diver Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Text"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2813",
+  "description": "Sharks",
+  "image": "/2813.png",
+  "dna": "1c9eaed39c76fbfa4cb416a763e6012730c1d451",
+  "edition": 2813,
+  "date": 1689536327627,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jetpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

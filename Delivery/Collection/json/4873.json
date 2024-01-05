@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4873",
+  "description": "Sharks",
+  "image": "/4873.png",
+  "dna": "926f7790d1389953f1705b4ecc4e56b8966ce794",
+  "edition": 4873,
+  "date": 1689536379524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pufferfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BTC Bubbles"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

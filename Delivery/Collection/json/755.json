@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #755",
+  "description": "Sharks",
+  "image": "/755.png",
+  "dna": "9278295ca5973fed1282b0cebc9528a298c32863",
+  "edition": 755,
+  "date": 1689536273978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

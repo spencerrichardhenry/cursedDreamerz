@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #419",
+  "description": "Sharks",
+  "image": "/419.png",
+  "dna": "8ff7c9f250463305372b802e84e235ce15b3f104",
+  "edition": 419,
+  "date": 1689536265263,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7262",
+  "description": "Sharks",
+  "image": "/7262.png",
+  "dna": "3051ea70738e53f6e0aba60b6c3ae3785259fa93",
+  "edition": 7262,
+  "date": 1689536439107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Aquaman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

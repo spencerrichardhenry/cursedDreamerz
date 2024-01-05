@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #4661",
+  "description": "Sharks",
+  "image": "/4661.png",
+  "dna": "cc3a95f31a28206bba09e8f01db99c0e7e71243c",
+  "edition": 4661,
+  "date": 1689536374192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BTC Sack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

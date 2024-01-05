@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1704",
+  "description": "Sharks",
+  "image": "/1704.png",
+  "dna": "a8c515a2703631f9f2c1cd16d6db2056b7a2d5fd",
+  "edition": 1704,
+  "date": 1689536299127,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

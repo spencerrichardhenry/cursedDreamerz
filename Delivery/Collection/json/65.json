@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #65",
+  "description": "Sharks",
+  "image": "/65.png",
+  "dna": "562ac9010b09b47f04ebe2554ff8b4ff4961d158",
+  "edition": 65,
+  "date": 1689536256183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aqua Fin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

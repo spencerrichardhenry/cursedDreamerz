@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8018",
+  "description": "Sharks",
+  "image": "/8018.png",
+  "dna": "f38280cbe42a4e6178e15ffa74c307685e3528d9",
+  "edition": 8018,
+  "date": 1689536457932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

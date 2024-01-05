@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2583",
+  "description": "Sharks",
+  "image": "/2583.png",
+  "dna": "2d8ec2bf40017ad1eca20ff12c86aa355bbcd41a",
+  "edition": 2583,
+  "date": 1689536321773,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Flannel"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

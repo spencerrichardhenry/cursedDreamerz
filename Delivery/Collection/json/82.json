@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #82",
+  "description": "Sharks",
+  "image": "/82.png",
+  "dna": "0ed83c21dd63654df26ddf7c0dac4a8d1e547356",
+  "edition": 82,
+  "date": 1689536256611,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocean Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

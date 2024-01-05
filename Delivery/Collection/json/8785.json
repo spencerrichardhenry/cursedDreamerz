@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #8785",
+  "description": "Sharks",
+  "image": "/8785.png",
+  "dna": "b3bfa2312bc86952197544ab55312120f78682f3",
+  "edition": 8785,
+  "date": 1689536477368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Watch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Burger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Water Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fishhook"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

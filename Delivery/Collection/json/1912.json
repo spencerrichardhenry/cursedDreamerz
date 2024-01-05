@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1912",
+  "description": "Sharks",
+  "image": "/1912.png",
+  "dna": "15e15c5154b60db083624172e40ad550e4c6d9c9",
+  "edition": 1912,
+  "date": 1689536304646,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Striped Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spirits"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

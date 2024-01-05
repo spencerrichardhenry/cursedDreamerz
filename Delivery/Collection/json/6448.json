@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6448",
+  "description": "Sharks",
+  "image": "/6448.png",
+  "dna": "d0b98982aebea7a0b0b2d40851a1d54b58c5fe9f",
+  "edition": 6448,
+  "date": 1689536418810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Champion Belt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hunk of Meat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

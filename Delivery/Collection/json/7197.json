@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #7197",
+  "description": "Sharks",
+  "image": "/7197.png",
+  "dna": "81926b40607c3a69a91cf57035d186de28d7113a",
+  "edition": 7197,
+  "date": 1689536437451,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunstruck Fin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Metal Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

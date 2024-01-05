@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #2530",
+  "description": "Sharks",
+  "image": "/2530.png",
+  "dna": "52b10ba90d8b48eebd74f4cf236eb4f99289bd73",
+  "edition": 2530,
+  "date": 1689536320434,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Formal Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giant Grin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

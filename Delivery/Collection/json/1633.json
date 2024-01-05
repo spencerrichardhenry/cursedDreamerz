@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1633",
+  "description": "Sharks",
+  "image": "/1633.png",
+  "dna": "79a777a09cf9522fb79a0cfb04f7235e64a8eec1",
+  "edition": 1633,
+  "date": 1689536297184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Boat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

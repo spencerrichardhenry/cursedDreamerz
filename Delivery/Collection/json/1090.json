@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1090",
+  "description": "Sharks",
+  "image": "/1090.png",
+  "dna": "d47752b2fe3426bf88440f9f9df8c0a73834fba6",
+  "edition": 1090,
+  "date": 1689536282877,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spaceman"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

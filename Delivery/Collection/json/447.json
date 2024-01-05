@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #447",
+  "description": "Sharks",
+  "image": "/447.png",
+  "dna": "edad4d218f02e24d9458f01c5bfa711795a07d54",
+  "edition": 447,
+  "date": 1689536265984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BTC Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Specs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

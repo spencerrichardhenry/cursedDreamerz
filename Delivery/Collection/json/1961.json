@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #1961",
+  "description": "Sharks",
+  "image": "/1961.png",
+  "dna": "0c7ee00fbf867f091a66cbfde63daee8e9b8ab54",
+  "edition": 1961,
+  "date": 1689536305903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hazmat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Grill"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

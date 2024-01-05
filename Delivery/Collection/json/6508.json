@@ -1,0 +1,35 @@
+{
+  "name": "Sharks #6508",
+  "description": "Sharks",
+  "image": "/6508.png",
+  "dna": "f8192ffd770a5d29c43af985f68fdd0f3afb81ef",
+  "edition": 6508,
+  "date": 1689536420289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Whaleshark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Shark Sweater"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Giant Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Poker Chip"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
